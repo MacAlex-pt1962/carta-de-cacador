@@ -281,12 +281,13 @@ button{font-family:inherit; font-size:inherit;}
     </header>
 
     <section class="exam-card">
-      <h2>Экзамен — 20 вопросов вперемешку</h2>
-      <p class="meta">Как на настоящем экзамене: только португальский текст, порог сдачи — 15 из 20.</p>
+      <h2>Экзамен — по кругу через весь банк</h2>
+      <p class="meta">Вопросы идут по порядку, без случайного перемешивания. Правильно отвеченные выбывают из круга; неправильные и пропущенные возвращаются в его конец и встретятся снова — так до тех пор, пока все 506 не будут отвечены верно хотя бы по разу. Билет — до 20 вопросов, порог сдачи 75% (15 из 20).</p>
       <div style="display:flex; gap:10px; flex-wrap:wrap; align-items:center;">
         <button class="btn btn-gold" id="btn-start-exam">Начать экзамен</button>
         <span class="meta" id="exam-best-label"></span>
       </div>
+      <p class="meta tabular" id="exam-ring-progress"></p>
       <div class="exam-history" id="exam-history" hidden></div>
     </section>
 
@@ -367,7 +368,8 @@ button{font-family:inherit; font-size:inherit;}
     <div class="result-hero" id="exam-result-hero">
       <div class="big-score tabular" id="exam-result-score"></div>
       <h2 class="verdict" id="exam-result-verdict"></h2>
-      <p class="meta" style="color:var(--muted)">Порог сдачи: 15 из 20 — как на официальном экзамене ICNF.</p>
+      <p class="meta" style="color:var(--muted)" id="exam-pass-note"></p>
+      <p class="meta" id="exam-cycle-note" style="color:var(--gold); font-weight:700;" hidden></p>
     </div>
     <div style="display:flex; gap:10px; justify-content:center; flex-wrap:wrap;">
       <button class="btn btn-primary" id="btn-exam-result-home">К разделам</button>
@@ -403,14 +405,13 @@ var SECTION_FILES = [
 ];
 
 var MASTERY_STREAK = 5;   // "5-6 correct in a row" -> 5
-var EXAM_SIZE = 20;
-var EXAM_PASS = 15;
+var EXAM_SIZE = 20;       // ticket length (shorter only right at a cycle's tail)
 var EXAM_HISTORY_CAP = 30;
 
 var state = {
   sections: [],           // [{section_id, section_name_ru, section_name_pt, source, questions:[...]}]
   allById: {},            // questionId -> {question, sectionIndex}
-  progress: null,         // {qstats:{}, exam:{history:[],best:null}, updatedAt}
+  progress: null,         // {qstats:{}, exam:{history:[],best:null}, examRing:{ids:[],cyclesCompleted}, updatedAt}
   db: null,
   userId: null,
   canPersist: false,
@@ -475,7 +476,7 @@ function loadAllData(){
    are available; otherwise it falls back to localStorage, which is
    per-browser only, and the UI says so. */
 function defaultProgress(){
-  return { qstats: {}, exam: { history: [], best: null }, updatedAt: 0 };
+  return { qstats: {}, exam: { history: [], best: null }, examRing: null, updatedAt: 0 };
 }
 function localKey(){ return "cdc_progress_v1"; }
 function loadLocalProgress(){
@@ -581,8 +582,8 @@ function renderStatStrip(){
   var tiles = [
     [String(o.mastered) + " / " + o.total, "Освоено вопросов"],
     [o.accuracy===null ? "—" : o.accuracy + "%", "Точность в проверке"],
-    [String(state.progress.exam.history.length), "Экзаменов сдано"],
-    [state.progress.exam.best ? (state.progress.exam.best.score + "/" + EXAM_SIZE) : "—", "Лучший результат"]
+    [String(state.progress.exam.history.length), "Билетов пройдено"],
+    [state.progress.exam.best ? (state.progress.exam.best.score + "/" + state.progress.exam.best.total) : "—", "Лучший результат"]
   ];
   tiles.forEach(function(t){
     strip.appendChild(el("div", {class:"stat-tile"}, [
@@ -593,8 +594,15 @@ function renderStatStrip(){
 }
 
 function renderExamCard(){
+  ensureExamRing();
+  var ring = state.progress.examRing;
+  var totalQ = Object.keys(state.allById).length;
+  var doneInCycle = totalQ - ring.ids.length;
+  $("exam-ring-progress").textContent = "Верно отвечено в этом круге: " + doneInCycle + " / " + totalQ +
+    " · полных кругов пройдено: " + (ring.cyclesCompleted||0);
+
   var best = state.progress.exam.best;
-  $("exam-best-label").textContent = best ? ("Лучший результат: " + best.score + "/" + EXAM_SIZE) : "Ещё не сдавали";
+  $("exam-best-label").textContent = best ? ("Лучший результат: " + best.score + "/" + best.total) : "Ещё не сдавали";
   var hist = state.progress.exam.history.slice(-5).reverse();
   var box = $("exam-history");
   box.innerHTML = "";
@@ -606,7 +614,7 @@ function renderExamCard(){
                   d.toLocaleTimeString("ru-RU", {hour:"2-digit", minute:"2-digit"});
     box.appendChild(el("div",{class:"row"}, [
       text("span", null, dateStr),
-      el("span", {class:"score tabular"}, [h.score + "/" + EXAM_SIZE]),
+      el("span", {class:"score tabular"}, [h.score + "/" + h.total]),
       el("span", {class:"pass-pill " + (h.passed?"pass":"fail")}, [h.passed ? "Сдано" : "Не сдано"])
     ]));
   });
@@ -834,20 +842,37 @@ function showSectionDone(sectionIndex){
 }
 
 /* =========================== EXAM =========================== */
-function sampleExamTicket(){
-  var ids = Object.keys(state.allById).map(Number);
-  var pool = ids.slice();
-  var picked = [];
-  while (picked.length < EXAM_SIZE && pool.length){
-    var i = Math.floor(Math.random()*pool.length);
-    picked.push(pool[i]);
-    pool.splice(i,1);
+/* The exam no longer draws 20 uniformly-random questions each time.
+   Instead all 506 questions sit in one ordered queue ("ring"),
+   persisted in progress.examRing:
+     - each ticket takes the next up-to-20 ids off the FRONT of the
+       queue, in ascending question-id order;
+     - a question answered correctly is dropped for good;
+     - a question answered wrongly (or left unanswered) is pushed to
+       the BACK of the queue, so it comes round again later instead
+       of repeating immediately;
+     - once the queue empties, every one of the 506 has been answered
+       correctly at least once: cyclesCompleted increments and the
+       queue refills with all 506, starting a new lap ("по кругу"). */
+function allQuestionIdsAscending(){
+  return Object.keys(state.allById).map(Number).sort(function(a,b){return a-b;});
+}
+function ensureExamRing(){
+  if (!state.progress.examRing || !Array.isArray(state.progress.examRing.ids)){
+    state.progress.examRing = {ids: allQuestionIdsAscending(), cyclesCompleted: 0};
   }
-  return picked;
+}
+function examPassCount(n){ return Math.ceil(n * 0.75); }
+function nextExamTicket(){
+  ensureExamRing();
+  var ring = state.progress.examRing;
+  if (!ring.ids.length) ring.ids = allQuestionIdsAscending();
+  var n = Math.min(EXAM_SIZE, ring.ids.length);
+  return ring.ids.slice(0, n);
 }
 
 function startExam(){
-  var ticket = sampleExamTicket();
+  var ticket = nextExamTicket();
   state.exam = {ticket: ticket, answers: new Array(ticket.length).fill(null), idx: 0};
   renderExamQuestion();
   showView("view-exam");
@@ -902,15 +927,31 @@ function finishExam(){
     if (ok) score++;
     return {q:q, chosen:chosen, correctOpt:correctOpt, ok:ok};
   });
-  var passed = score >= EXAM_PASS;
+  var passNeeded = examPassCount(ex.ticket.length);
+  var passed = score >= passNeeded;
 
-  var entry = {ts: Date.now(), score: score, passed: passed};
+  // advance the ring: served questions leave the front; wrong/unanswered
+  // ones go to the back so they come round again later, until every one
+  // of the 506 has been answered correctly at least once.
+  var ring = state.progress.examRing;
+  ring.ids.splice(0, ex.ticket.length);
+  var requeue = [];
+  details.forEach(function(d){ if (!d.ok) requeue.push(d.q.id); });
+  ring.ids = ring.ids.concat(requeue);
+  var cycleDone = false;
+  if (!ring.ids.length){
+    ring.cyclesCompleted = (ring.cyclesCompleted||0) + 1;
+    ring.ids = allQuestionIdsAscending();
+    cycleDone = true;
+  }
+
+  var entry = {ts: Date.now(), score: score, total: ex.ticket.length, passed: passed};
   state.progress.exam.history.push(entry);
   if (state.progress.exam.history.length > EXAM_HISTORY_CAP){
     state.progress.exam.history = state.progress.exam.history.slice(-EXAM_HISTORY_CAP);
   }
   if (!state.progress.exam.best || score > state.progress.exam.best.score){
-    state.progress.exam.best = {score:score, ts: Date.now()};
+    state.progress.exam.best = {score:score, total: ex.ticket.length, ts: Date.now()};
   }
   persistProgress();
 
@@ -918,6 +959,16 @@ function finishExam(){
   hero.className = "result-hero " + (passed ? "pass":"fail");
   $("exam-result-score").textContent = score + "/" + ex.ticket.length;
   $("exam-result-verdict").textContent = passed ? "Экзамен сдан" : "Экзамен не сдан";
+  $("exam-pass-note").textContent = "Порог сдачи: " + passNeeded + " из " + ex.ticket.length +
+    (ex.ticket.length === EXAM_SIZE ? " — как на официальном экзамене ICNF." : " (75%, укороченный билет в конце круга).");
+  var cycleNote = $("exam-cycle-note");
+  if (cycleDone){
+    cycleNote.hidden = false;
+    cycleNote.textContent = "Полный круг пройден: все 506 вопросов хотя бы раз отвечены верно (кругов пройдено: " +
+      ring.cyclesCompleted + "). Начинается новый круг.";
+  } else {
+    cycleNote.hidden = true;
+  }
 
   var list = $("exam-review");
   list.innerHTML = "";
