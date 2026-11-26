@@ -1,0 +1,1003 @@
+<meta charset="utf-8">
+<title>Carta de Caçador</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400&family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+/* ===================================================================
+   Carta de Caçador — тренажёр ICNF
+   Layout: dashboard home (section cards + progress) -> focused
+   single-question quiz view (familiarization / testing / exam) ->
+   result/review view. One scrolling column, no fixed chrome.
+   ================================================================= */
+:root{
+  /* color -- light (field-guide paper, forest + brass) */
+  --bg:#EEEEDF;
+  --surface:#FFFFFF;
+  --surface-2:#E3E3CF;
+  --fg:#1E2419;
+  --muted:#5B6350;
+  --border:#CDCDB4;
+  --accent:#3B5C34;
+  --accent-strong:#2B4526;
+  --accent-ink:#FAF9EF;
+  --gold:#96701A;
+  --gold-ink:#FFFFFF;
+  --success:#2F7D4F;
+  --success-bg:#E3F0E2;
+  --danger:#B23A2E;
+  --danger-bg:#F6E2DE;
+  --focus:#2B6CB0;
+
+  --font-display:'PT Serif', Georgia, 'Noto Serif', serif;
+  --font-body:'Inter', 'Helvetica Neue', Arial, sans-serif;
+  --font-mono:'JetBrains Mono', 'SF Mono', Consolas, monospace;
+
+  --radius-s:8px;
+  --radius-m:14px;
+  --radius-l:22px;
+  --shadow-card:0 1px 2px rgba(30,36,25,.06), 0 6px 20px -10px rgba(30,36,25,.18);
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#161B13;
+    --surface:#1F2618;
+    --surface-2:#263021;
+    --fg:#EAE9DC;
+    --muted:#A7AE98;
+    --border:#38412C;
+    --accent:#72A860;
+    --accent-strong:#8FC27B;
+    --accent-ink:#0E1309;
+    --gold:#DCAA42;
+    --gold-ink:#20170300;
+    --success:#67C48B;
+    --success-bg:#1C3324;
+    --danger:#E58274;
+    --danger-bg:#3A2320;
+    --focus:#79B2E8;
+    --shadow-card:0 1px 2px rgba(0,0,0,.3), 0 10px 26px -12px rgba(0,0,0,.6);
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#161B13;
+  --surface:#1F2618;
+  --surface-2:#263021;
+  --fg:#EAE9DC;
+  --muted:#A7AE98;
+  --border:#38412C;
+  --accent:#72A860;
+  --accent-strong:#8FC27B;
+  --accent-ink:#0E1309;
+  --gold:#DCAA42;
+  --gold-ink:#201703;
+  --success:#67C48B;
+  --success-bg:#1C3324;
+  --danger:#E58274;
+  --danger-bg:#3A2320;
+  --focus:#79B2E8;
+  --shadow-card:0 1px 2px rgba(0,0,0,.3), 0 10px 26px -12px rgba(0,0,0,.6);
+  color-scheme: dark;
+}
+
+*{box-sizing:border-box;}
+body{
+  background:var(--bg);
+  color:var(--fg);
+  font-family:var(--font-body);
+  font-size:16px;
+  line-height:1.5;
+  padding-left:max(16px, env(safe-area-inset-left,0px));
+  padding-right:max(16px, env(safe-area-inset-right,0px));
+}
+h1,h2,h3,h4{font-family:var(--font-display); font-weight:700; text-wrap:balance; margin:0;}
+p{margin:0;}
+button{font-family:inherit; font-size:inherit;}
+.tabular{font-variant-numeric:tabular-nums;}
+@media (prefers-reduced-motion: reduce){
+  *{animation-duration:0.001ms !important; transition-duration:0.001ms !important;}
+}
+
+.app{max-width:760px; margin:0 auto; padding-block:28px 64px; display:flex; flex-direction:column; gap:22px;}
+
+/* ---------- header ---------- */
+.app-header{display:flex; flex-direction:column; gap:14px;}
+.app-header .brand{display:flex; align-items:baseline; gap:10px; flex-wrap:wrap;}
+.app-header .brand .badge{
+  font-family:var(--font-mono); font-size:12px; letter-spacing:.08em; text-transform:uppercase;
+  color:var(--gold); border:1px solid var(--gold); border-radius:999px; padding:3px 10px;
+}
+.app-header h1{font-size:clamp(28px,6vw,38px); color:var(--accent-strong);}
+.app-header .subtitle{color:var(--muted); font-size:15px; max-width:56ch;}
+
+.stat-strip{display:grid; grid-template-columns:repeat(auto-fit,minmax(118px,1fr)); gap:10px;}
+.stat-tile{
+  background:var(--surface); border:1px solid var(--border); border-radius:var(--radius-m);
+  padding:12px 14px; display:flex; flex-direction:column; gap:2px;
+}
+.stat-tile .value{font-family:var(--font-mono); font-size:22px; font-weight:700; color:var(--accent-strong);}
+.stat-tile .label{font-size:12px; color:var(--muted); letter-spacing:.02em;}
+
+/* ---------- section switcher ---------- */
+.seg{display:inline-flex; background:var(--surface-2); border-radius:999px; padding:3px; gap:2px; align-self:flex-start;}
+.seg button{
+  border:none; background:transparent; color:var(--muted); padding:7px 14px; border-radius:999px;
+  font-weight:600; font-size:13px; cursor:pointer;
+}
+.seg button[aria-selected="true"]{background:var(--surface); color:var(--fg); box-shadow:var(--shadow-card);}
+
+/* ---------- section cards ---------- */
+.section-list{display:flex; flex-direction:column; gap:12px;}
+.section-card{
+  background:var(--surface); border:1px solid var(--border); border-radius:var(--radius-l);
+  padding:16px 18px; display:flex; flex-direction:column; gap:12px; box-shadow:var(--shadow-card);
+}
+.section-card .top{display:flex; justify-content:space-between; align-items:flex-start; gap:12px;}
+.section-card .names{display:flex; flex-direction:column; gap:2px; min-width:0;}
+.section-card .name-ru{font-family:var(--font-display); font-size:18px; font-weight:700;}
+.section-card .name-pt{font-size:13px; color:var(--muted); font-style:italic;}
+.section-card .count-pill{
+  font-family:var(--font-mono); font-size:12px; white-space:nowrap; color:var(--accent-strong);
+  background:var(--success-bg); border-radius:999px; padding:4px 10px; flex:none;
+}
+.progress-track{height:8px; border-radius:999px; background:var(--surface-2); overflow:hidden;}
+.progress-fill{height:100%; background:var(--accent); border-radius:999px; transition:width .4s ease;}
+.section-card .actions{display:flex; gap:8px; flex-wrap:wrap;}
+
+/* ---------- buttons ---------- */
+.btn{
+  display:inline-flex; align-items:center; justify-content:center; gap:8px;
+  border-radius:var(--radius-m); padding:10px 16px; font-weight:600; font-size:14px;
+  border:1px solid transparent; cursor:pointer; text-align:center; min-width:0;
+}
+.btn:focus-visible{outline:3px solid var(--focus); outline-offset:2px;}
+.btn-primary{background:var(--accent); color:var(--accent-ink);}
+.btn-primary:hover{background:var(--accent-strong);}
+.btn-primary:disabled{opacity:.45; cursor:not-allowed;}
+.btn-ghost{background:var(--surface-2); color:var(--fg);}
+.btn-ghost:hover{background:var(--border);}
+.btn-outline{background:transparent; color:var(--accent-strong); border-color:var(--accent);}
+.btn-gold{background:var(--gold); color:var(--gold-ink);}
+.btn-block{width:100%;}
+.btn-sm{padding:7px 12px; font-size:13px; border-radius:var(--radius-s);}
+
+/* ---------- exam CTA ---------- */
+.exam-card{
+  background:linear-gradient(135deg, var(--accent-strong), var(--accent));
+  color:var(--accent-ink); border-radius:var(--radius-l); padding:22px;
+  display:flex; flex-direction:column; gap:12px; box-shadow:var(--shadow-card);
+}
+.exam-card h2{color:var(--accent-ink); font-size:22px;}
+.exam-card .meta{font-size:13px; opacity:.85;}
+.exam-history{display:flex; flex-direction:column; gap:6px;}
+.exam-history .row{
+  display:flex; justify-content:space-between; align-items:center; font-size:13px;
+  background:var(--surface); border:1px solid var(--border); border-radius:var(--radius-s); padding:8px 12px;
+}
+.exam-history .row .score{font-family:var(--font-mono); font-weight:700;}
+.pass-pill{font-size:11px; font-weight:700; border-radius:999px; padding:2px 9px; letter-spacing:.03em;}
+.pass-pill.pass{background:var(--success-bg); color:var(--success);}
+.pass-pill.fail{background:var(--danger-bg); color:var(--danger);}
+
+/* ---------- quiz screen ---------- */
+.quiz-topbar{display:flex; justify-content:space-between; align-items:center; gap:10px; flex-wrap:wrap;}
+.quiz-topbar .where{display:flex; flex-direction:column; gap:2px;}
+.quiz-topbar .where .section-name{font-weight:700; font-size:14px;}
+.quiz-topbar .where .progress-text{font-size:12px; color:var(--muted); font-family:var(--font-mono);}
+.streak-dots{display:flex; gap:4px; align-items:center;}
+.streak-dots .dot{width:9px; height:9px; border-radius:50%; background:var(--surface-2); border:1px solid var(--border);}
+.streak-dots .dot.on{background:var(--gold); border-color:var(--gold);}
+
+.quiz-card{
+  background:var(--surface); border:1px solid var(--border); border-radius:var(--radius-l);
+  padding:22px; display:flex; flex-direction:column; gap:18px; box-shadow:var(--shadow-card);
+}
+.q-pt{font-family:var(--font-display); font-size:clamp(19px,4vw,23px); line-height:1.4;}
+.q-transcription{font-size:14px; color:var(--muted); font-style:italic;}
+.q-ru{font-size:15px; color:var(--fg); background:var(--surface-2); border-radius:var(--radius-s); padding:10px 12px;}
+.q-divider{height:1px; background:var(--border); border:none; margin:0;}
+
+.options{display:flex; flex-direction:column; gap:10px;}
+.option{
+  display:flex; align-items:flex-start; gap:12px; text-align:left;
+  border:1.5px solid var(--border); border-radius:var(--radius-m); background:var(--surface);
+  padding:12px 14px; cursor:pointer; width:100%;
+}
+.option:hover:not(:disabled){border-color:var(--accent);}
+.option .letter{
+  font-family:var(--font-mono); font-weight:700; color:var(--accent-strong);
+  background:var(--surface-2); border-radius:8px; width:26px; height:26px; flex:none;
+  display:flex; align-items:center; justify-content:center; font-size:13px;
+}
+.option .body{display:flex; flex-direction:column; gap:3px; min-width:0;}
+.option .opt-pt{font-weight:600; font-size:15px;}
+.option .opt-extra{font-size:12.5px; color:var(--muted);}
+.option .opt-ru{font-size:12.5px; color:var(--fg);}
+.option:disabled{cursor:default;}
+.option.is-correct{border-color:var(--success); background:var(--success-bg);}
+.option.is-correct .letter{background:var(--success); color:#fff;}
+.option.is-wrong{border-color:var(--danger); background:var(--danger-bg);}
+.option.is-wrong .letter{background:var(--danger); color:#fff;}
+.option.is-muted{opacity:.6;}
+
+.feedback-banner{
+  display:flex; align-items:center; gap:10px; border-radius:var(--radius-m); padding:12px 14px; font-weight:700;
+}
+.feedback-banner.ok{background:var(--success-bg); color:var(--success);}
+.feedback-banner.bad{background:var(--danger-bg); color:var(--danger);}
+
+.quiz-actions{display:flex; justify-content:flex-end; gap:10px;}
+
+/* ---------- result screen ---------- */
+.result-hero{display:flex; flex-direction:column; align-items:center; gap:8px; text-align:center; padding:18px 10px;}
+.result-hero .big-score{font-family:var(--font-mono); font-size:56px; font-weight:700;}
+.result-hero.pass .big-score{color:var(--success);}
+.result-hero.fail .big-score{color:var(--danger);}
+.result-hero .verdict{font-family:var(--font-display); font-size:22px;}
+.review-list{display:flex; flex-direction:column; gap:10px;}
+.review-item{
+  border:1px solid var(--border); border-radius:var(--radius-m); padding:14px; background:var(--surface);
+  display:flex; flex-direction:column; gap:8px;
+}
+.review-item .q-no{font-family:var(--font-mono); font-size:12px; color:var(--muted);}
+
+/* ---------- misc ---------- */
+.empty, .loading{display:flex; flex-direction:column; align-items:center; gap:10px; padding:60px 20px; color:var(--muted); text-align:center;}
+.spinner{width:28px; height:28px; border-radius:50%; border:3px solid var(--border); border-top-color:var(--accent); animation:spin 0.8s linear infinite;}
+@keyframes spin{to{transform:rotate(360deg);}}
+.footer-note{font-size:12px; color:var(--muted); text-align:center; padding-top:10px;}
+.footer-note a{color:var(--accent-strong);}
+.toast{
+  position:fixed; left:50%; bottom:max(20px, env(safe-area-inset-bottom,0px)); transform:translateX(-50%);
+  background:var(--fg); color:var(--bg); padding:9px 16px; border-radius:999px; font-size:13px; z-index:50;
+  box-shadow:var(--shadow-card);
+}
+[hidden]{display:none !important;}
+@media (max-width:480px){
+  .app{padding-block:18px 48px; gap:16px;}
+  .quiz-card{padding:16px;}
+}
+</style>
+<div class="app" id="app">
+
+  <!-- ================= LOADING ================= -->
+  <div class="loading" id="view-loading">
+    <div class="spinner" aria-hidden="true"></div>
+    <p>Загрузка банка вопросов ICNF…</p>
+  </div>
+
+  <!-- ================= HOME ================= -->
+  <div id="view-home" hidden>
+    <header class="app-header">
+      <div class="brand">
+        <h1>Carta de Caçador</h1>
+        <span class="badge">ICNF · 506 вопросов</span>
+      </div>
+      <p class="subtitle">Тренажёр для подготовки к экзамену на охотничье удостоверение в Португалии. Вопросы и правильные ответы — из официального вопросника ICNF.</p>
+      <div class="stat-strip" id="stat-strip"></div>
+    </header>
+
+    <section class="exam-card">
+      <h2>Экзамен — 20 вопросов вперемешку</h2>
+      <p class="meta">Как на настоящем экзамене: только португальский текст, порог сдачи — 15 из 20.</p>
+      <div style="display:flex; gap:10px; flex-wrap:wrap; align-items:center;">
+        <button class="btn btn-gold" id="btn-start-exam">Начать экзамен</button>
+        <span class="meta" id="exam-best-label"></span>
+      </div>
+      <div class="exam-history" id="exam-history" hidden></div>
+    </section>
+
+    <section>
+      <h2 style="font-size:18px; margin-bottom:10px;">Разделы</h2>
+      <div class="section-list" id="section-list"></div>
+    </section>
+
+    <p class="footer-note">Источник: <a href="https://www.icnf.pt/api/file/doc/2d8ae1589afbdf1e" target="_blank" rel="noopener">ICNF — Questionário para exame de carta de caçador</a>. Перевод и транскрипция вспомогательные; правильный ответ ICNF отмечен в данных. <span id="save-mode-note"></span></p>
+  </div>
+
+  <!-- ================= QUIZ (familiarization / testing) ================= -->
+  <div id="view-quiz" hidden>
+    <div class="quiz-topbar">
+      <div class="where">
+        <span class="section-name" id="quiz-section-name"></span>
+        <span class="progress-text tabular" id="quiz-progress"></span>
+      </div>
+      <div style="display:flex; align-items:center; gap:12px;">
+        <div class="streak-dots" id="quiz-streak" hidden></div>
+        <button class="btn btn-ghost btn-sm" id="btn-quiz-exit">Выйти</button>
+      </div>
+    </div>
+
+    <div class="quiz-card">
+      <div>
+        <p class="q-pt" id="q-pt"></p>
+        <p class="q-transcription" id="q-transcription" hidden></p>
+      </div>
+      <p class="q-ru" id="q-ru" hidden></p>
+      <hr class="q-divider">
+      <div class="options" id="q-options"></div>
+      <div class="feedback-banner" id="q-feedback" hidden></div>
+    </div>
+
+    <div class="quiz-actions">
+      <button class="btn btn-primary" id="btn-quiz-next" hidden>Далее →</button>
+    </div>
+  </div>
+
+  <!-- ================= SECTION MASTERED ================= -->
+  <div id="view-section-done" hidden>
+    <div class="result-hero pass">
+      <div class="big-score" id="done-section-score">✓</div>
+      <h2 class="verdict">Раздел освоен!</h2>
+      <p class="meta" id="done-section-name" style="color:var(--muted)"></p>
+    </div>
+    <div style="display:flex; gap:10px; justify-content:center; flex-wrap:wrap;">
+      <button class="btn btn-ghost" id="btn-done-repeat">Повторить раздел</button>
+      <button class="btn btn-primary" id="btn-done-home">К разделам</button>
+    </div>
+  </div>
+
+  <!-- ================= EXAM TICKET ================= -->
+  <div id="view-exam" hidden>
+    <div class="quiz-topbar">
+      <div class="where">
+        <span class="section-name">Экзамен</span>
+        <span class="progress-text tabular" id="exam-progress"></span>
+      </div>
+      <button class="btn btn-ghost btn-sm" id="btn-exam-exit">Прервать</button>
+    </div>
+
+    <div class="quiz-card">
+      <p class="q-pt" id="exam-q-pt"></p>
+      <hr class="q-divider">
+      <div class="options" id="exam-q-options"></div>
+    </div>
+
+    <div class="quiz-actions" style="justify-content:space-between;">
+      <button class="btn btn-ghost" id="btn-exam-prev">← Назад</button>
+      <button class="btn btn-primary" id="btn-exam-next">Далее →</button>
+    </div>
+  </div>
+
+  <!-- ================= EXAM RESULT ================= -->
+  <div id="view-exam-result" hidden>
+    <div class="result-hero" id="exam-result-hero">
+      <div class="big-score tabular" id="exam-result-score"></div>
+      <h2 class="verdict" id="exam-result-verdict"></h2>
+      <p class="meta" style="color:var(--muted)">Порог сдачи: 15 из 20 — как на официальном экзамене ICNF.</p>
+    </div>
+    <div style="display:flex; gap:10px; justify-content:center; flex-wrap:wrap;">
+      <button class="btn btn-primary" id="btn-exam-result-home">К разделам</button>
+      <button class="btn btn-ghost" id="btn-exam-result-retry">Новый билет</button>
+    </div>
+    <h3 style="font-size:16px; margin:6px 0;">Разбор билета</h3>
+    <div class="review-list" id="exam-review"></div>
+  </div>
+
+</div>
+<div class="toast" id="toast" hidden></div>
+<script>
+(function(){
+"use strict";
+
+/* ===================================================================
+   Carta de Caçador — тренажёр ICNF. Core: data loading, persistence,
+   home-screen rendering, small DOM helpers.
+   =================================================================== */
+
+var SECTION_FILES = [
+  "section1_documentos_conceitos.json",
+  "section2_biologia_mamiferos.json",
+  "section3_biologia_aves.json",
+  "section4_especies_nao_cinegeticas.json",
+  "section5_condicionamentos_gerais.json",
+  "section6_terrenos_cinegeticos.json",
+  "section7_periodos_metodos.json",
+  "section8_caca_arco_besta.json",
+  "section9_campos_treino.json",
+  "section10_caes_caca.json",
+  "section11_cetraria.json"
+];
+
+var MASTERY_STREAK = 5;   // "5-6 correct in a row" -> 5
+var EXAM_SIZE = 20;
+var EXAM_PASS = 15;
+var EXAM_HISTORY_CAP = 30;
+
+var state = {
+  sections: [],           // [{section_id, section_name_ru, section_name_pt, source, questions:[...]}]
+  allById: {},            // questionId -> {question, sectionIndex}
+  progress: null,         // {qstats:{}, exam:{history:[],best:null}, updatedAt}
+  db: null,
+  userId: null,
+  canPersist: false,
+  quiz: null,             // active familiarization/testing state
+  exam: null              // active exam ticket state
+};
+
+/* ---------------- tiny DOM helpers (textContent-only, no innerHTML
+   for any data-derived text, so question content can never be
+   mis-parsed as markup) ---------------- */
+function el(tag, attrs, children){
+  var e = document.createElement(tag);
+  if (attrs) for (var k in attrs){
+    if (k === "class") e.className = attrs[k];
+    else if (k === "html") { /* explicit opt-in for trusted static strings only */ e.innerHTML = attrs[k]; }
+    else e.setAttribute(k, attrs[k]);
+  }
+  if (children) children.forEach(function(c){
+    if (c === null || c === undefined) return;
+    if (typeof c === "string") e.appendChild(document.createTextNode(c));
+    else e.appendChild(c);
+  });
+  return e;
+}
+function text(tag, cls, str){ var e = el(tag, cls?{class:cls}:null); e.textContent = str; return e; }
+function $(id){ return document.getElementById(id); }
+function showView(id){
+  ["view-loading","view-home","view-quiz","view-section-done","view-exam","view-exam-result"].forEach(function(v){
+    $(v).hidden = (v !== id);
+  });
+  window.scrollTo(0,0);
+}
+var toastTimer = null;
+function toast(msg){
+  var t = $("toast");
+  t.textContent = msg;
+  t.hidden = false;
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(function(){ t.hidden = true; }, 2600);
+}
+
+/* ---------------- data loading ---------------- */
+function loadAllData(){
+  return Promise.all(SECTION_FILES.map(function(f){
+    return fetch("data/" + f).then(function(r){
+      if (!r.ok) throw new Error("HTTP " + r.status + " for " + f);
+      return r.json();
+    });
+  })).then(function(docs){
+    state.sections = docs;
+    docs.forEach(function(doc, sIdx){
+      doc.questions.forEach(function(q){
+        state.allById[q.id] = {question: q, sectionIndex: sIdx};
+      });
+    });
+  });
+}
+
+/* ---------------- persistence ----------------
+   Cross-device progress lives in the db capability under this
+   viewer's private subtree (data/users/<id>/progress) when db+user
+   are available; otherwise it falls back to localStorage, which is
+   per-browser only, and the UI says so. */
+function defaultProgress(){
+  return { qstats: {}, exam: { history: [], best: null }, updatedAt: 0 };
+}
+function localKey(){ return "cdc_progress_v1"; }
+function loadLocalProgress(){
+  try{
+    var raw = localStorage.getItem(localKey());
+    if (raw) return JSON.parse(raw);
+  }catch(e){}
+  return defaultProgress();
+}
+function saveLocalProgress(){
+  try{ localStorage.setItem(localKey(), JSON.stringify(state.progress)); }catch(e){}
+}
+
+var dbWriteChain = Promise.resolve();
+function persistProgress(){
+  state.progress.updatedAt = Date.now();
+  if (state.canPersist && state.db && state.userId){
+    var ref = state.db.doc("data/users/" + state.userId + "/progress");
+    var snapshot = JSON.parse(JSON.stringify(state.progress));
+    dbWriteChain = dbWriteChain.then(function(){
+      return ref.set(snapshot).catch(function(err){
+        console.error("db save failed", err);
+      });
+    });
+  } else {
+    saveLocalProgress();
+  }
+}
+
+function initPersistence(){
+  var useDb = (typeof claude !== "undefined" && claude && claude.use);
+  if (!useDb){
+    state.progress = loadLocalProgress();
+    state.canPersist = false;
+    return Promise.resolve();
+  }
+  return Promise.all([claude.use("db"), claude.use("user")]).then(function(res){
+    var db = res[0], user = res[1];
+    if (!db || !user){
+      state.progress = loadLocalProgress();
+      state.canPersist = false;
+      return;
+    }
+    return user.id().then(function(id){
+      if (!id){
+        state.progress = loadLocalProgress();
+        state.canPersist = false;
+        return;
+      }
+      state.db = db;
+      state.userId = id;
+      var ref = db.doc("data/users/" + id + "/progress");
+      return ref.get().then(function(snap){
+        state.progress = (snap.exists && snap.data()) ? snap.data() : defaultProgress();
+        if (!state.progress.qstats) state.progress.qstats = {};
+        if (!state.progress.exam) state.progress.exam = {history:[], best:null};
+        state.canPersist = true;
+      }).catch(function(err){
+        console.error("db read failed, falling back to local storage", err);
+        state.progress = loadLocalProgress();
+        state.canPersist = false;
+      });
+    });
+  }).catch(function(err){
+    console.error("capability init failed", err);
+    state.progress = loadLocalProgress();
+    state.canPersist = false;
+  });
+}
+
+/* ---------------- stats helpers ---------------- */
+function qStat(id){
+  var s = state.progress.qstats[String(id)];
+  if (!s) s = {streak:0, mastered:false, correct:0, wrong:0};
+  return s;
+}
+function setQStat(id, s){ state.progress.qstats[String(id)] = s; }
+
+function sectionStats(doc){
+  var total = doc.questions.length, mastered = 0;
+  doc.questions.forEach(function(q){ if (qStat(q.id).mastered) mastered++; });
+  return {total: total, mastered: mastered};
+}
+function overallStats(){
+  var total = 0, mastered = 0, correct = 0, wrong = 0;
+  state.sections.forEach(function(doc){
+    doc.questions.forEach(function(q){
+      var s = qStat(q.id);
+      total++; if (s.mastered) mastered++;
+      correct += s.correct; wrong += s.wrong;
+    });
+  });
+  var attempts = correct + wrong;
+  var acc = attempts ? Math.round(100*correct/attempts) : null;
+  return {total:total, mastered:mastered, accuracy:acc, attempts:attempts};
+}
+
+/* ---------------- home rendering ---------------- */
+function renderStatStrip(){
+  var o = overallStats();
+  var strip = $("stat-strip");
+  strip.innerHTML = "";
+  var tiles = [
+    [String(o.mastered) + " / " + o.total, "Освоено вопросов"],
+    [o.accuracy===null ? "—" : o.accuracy + "%", "Точность в проверке"],
+    [String(state.progress.exam.history.length), "Экзаменов сдано"],
+    [state.progress.exam.best ? (state.progress.exam.best.score + "/" + EXAM_SIZE) : "—", "Лучший результат"]
+  ];
+  tiles.forEach(function(t){
+    strip.appendChild(el("div", {class:"stat-tile"}, [
+      text("div","value tabular", t[0]),
+      text("div","label", t[1])
+    ]));
+  });
+}
+
+function renderExamCard(){
+  var best = state.progress.exam.best;
+  $("exam-best-label").textContent = best ? ("Лучший результат: " + best.score + "/" + EXAM_SIZE) : "Ещё не сдавали";
+  var hist = state.progress.exam.history.slice(-5).reverse();
+  var box = $("exam-history");
+  box.innerHTML = "";
+  if (!hist.length){ box.hidden = true; return; }
+  box.hidden = false;
+  hist.forEach(function(h){
+    var d = new Date(h.ts);
+    var dateStr = d.toLocaleDateString("ru-RU", {day:"2-digit", month:"2-digit", year:"2-digit"}) + " " +
+                  d.toLocaleTimeString("ru-RU", {hour:"2-digit", minute:"2-digit"});
+    box.appendChild(el("div",{class:"row"}, [
+      text("span", null, dateStr),
+      el("span", {class:"score tabular"}, [h.score + "/" + EXAM_SIZE]),
+      el("span", {class:"pass-pill " + (h.passed?"pass":"fail")}, [h.passed ? "Сдано" : "Не сдано"])
+    ]));
+  });
+}
+
+function renderSectionList(){
+  var list = $("section-list");
+  list.innerHTML = "";
+  state.sections.forEach(function(doc, idx){
+    var st = sectionStats(doc);
+    var pct = st.total ? Math.round(100*st.mastered/st.total) : 0;
+    var card = el("div", {class:"section-card"}, [
+      el("div", {class:"top"}, [
+        el("div", {class:"names"}, [
+          text("div","name-ru", doc.section_name_ru),
+          text("div","name-pt", doc.section_name_pt)
+        ]),
+        el("div", {class:"count-pill tabular"}, [st.mastered + " / " + st.total])
+      ]),
+      el("div", {class:"progress-track"}, [ el("div", {class:"progress-fill", style:"width:"+pct+"%"}) ]),
+      el("div", {class:"actions"}, [
+        el("button", {class:"btn btn-outline btn-sm", "data-act":"fam", "data-idx":idx}, ["Ознакомление ×3"]),
+        el("button", {class:"btn btn-primary btn-sm", "data-act":"test", "data-idx":idx}, ["Проверка"])
+      ])
+    ]);
+    list.appendChild(card);
+  });
+  list.querySelectorAll("button[data-act]").forEach(function(btn){
+    btn.addEventListener("click", function(){
+      var idx = parseInt(btn.getAttribute("data-idx"), 10);
+      if (btn.getAttribute("data-act") === "fam") startFamiliarization(idx);
+      else startTesting(idx);
+    });
+  });
+}
+
+function renderHome(){
+  $("save-mode-note").textContent = state.canPersist
+    ? "Прогресс сохраняется и синхронизируется между устройствами."
+    : "Прогресс сохраняется только в этом браузере (синхронизация между устройствами недоступна).";
+  renderStatStrip();
+  renderExamCard();
+  renderSectionList();
+  showView("view-home");
+}
+/* continues the IIFE opened in 03_js_core.js */
+
+/* =========================== FAMILIARIZATION =========================== */
+var FAM_LAPS = 3;
+
+function startFamiliarization(sectionIndex){
+  state.quiz = {mode:"fam", sectionIndex: sectionIndex, qIndex: 0, lap: 1};
+  $("quiz-streak").hidden = true;
+  $("q-ru").hidden = false;
+  $("q-transcription").hidden = false;
+  $("q-feedback").hidden = true;
+  $("btn-quiz-next").hidden = false;
+  renderFamQuestion();
+  showView("view-quiz");
+}
+
+function renderFamQuestion(){
+  var doc = state.sections[state.quiz.sectionIndex];
+  var q = doc.questions[state.quiz.qIndex];
+  $("quiz-section-name").textContent = doc.section_name_ru + " — ознакомление";
+  $("quiz-progress").textContent = "круг " + state.quiz.lap + "/" + FAM_LAPS + " · вопрос " + (state.quiz.qIndex+1) + "/" + doc.questions.length;
+
+  $("q-pt").textContent = q.pt;
+  $("q-transcription").textContent = q.transcription;
+  $("q-ru").textContent = q.ru;
+
+  var box = $("q-options");
+  box.innerHTML = "";
+  q.options.forEach(function(opt){
+    var optEl = el("button", {class:"option is-" + (opt.correct ? "correct":"muted"), disabled:"disabled"}, [
+      text("span","letter", opt.letter),
+      el("span", {class:"body"}, [
+        text("span","opt-pt", opt.pt),
+        text("span","opt-extra", opt.transcription),
+        text("span","opt-ru", opt.ru)
+      ])
+    ]);
+    box.appendChild(optEl);
+  });
+  $("btn-quiz-next").textContent = "Далее →";
+}
+
+function advanceFam(){
+  var doc = state.sections[state.quiz.sectionIndex];
+  state.quiz.qIndex++;
+  if (state.quiz.qIndex >= doc.questions.length){
+    state.quiz.qIndex = 0;
+    state.quiz.lap++;
+    if (state.quiz.lap > FAM_LAPS){
+      toast("Ознакомление с разделом «" + doc.section_name_ru + "» завершено");
+      renderHome();
+      return;
+    }
+  }
+  renderFamQuestion();
+}
+
+/* =========================== SECTION TESTING =========================== */
+function pickTestQuestion(sectionIndex, avoidId){
+  var doc = state.sections[sectionIndex];
+  var candidates = doc.questions.filter(function(q){ return !qStat(q.id).mastered; });
+  if (!candidates.length) return null;
+  if (avoidId !== undefined && candidates.length > 1){
+    var filtered = candidates.filter(function(q){ return q.id !== avoidId; });
+    if (filtered.length) candidates = filtered;
+  }
+  return candidates[Math.floor(Math.random()*candidates.length)];
+}
+
+function startTesting(sectionIndex){
+  var doc = state.sections[sectionIndex];
+  var first = pickTestQuestion(sectionIndex);
+  if (!first){
+    showSectionDone(sectionIndex);
+    return;
+  }
+  state.quiz = {mode:"test", sectionIndex: sectionIndex, currentId: first.id, answered:false};
+  renderTestQuestion();
+  showView("view-quiz");
+}
+
+function renderTestQuestion(){
+  var doc = state.sections[state.quiz.sectionIndex];
+  var q = state.allById[state.quiz.currentId].question;
+  var st = qStat(q.id);
+
+  $("quiz-section-name").textContent = doc.section_name_ru + " — проверка";
+  var stats = sectionStats(doc);
+  $("quiz-progress").textContent = "освоено " + stats.mastered + "/" + stats.total;
+
+  $("quiz-streak").hidden = false;
+  var dotsBox = $("quiz-streak");
+  dotsBox.innerHTML = "";
+  for (var i=0;i<MASTERY_STREAK;i++){
+    dotsBox.appendChild(el("span", {class:"dot" + (i < st.streak ? " on":"")}));
+  }
+
+  $("q-pt").textContent = q.pt;
+  $("q-transcription").hidden = true;
+  $("q-ru").hidden = true;
+  $("q-feedback").hidden = true;
+  $("btn-quiz-next").hidden = true;
+
+  var box = $("q-options");
+  box.innerHTML = "";
+  q.options.forEach(function(opt){
+    var btn = el("button", {class:"option", "data-letter": opt.letter}, [
+      text("span","letter", opt.letter),
+      el("span", {class:"body"}, [ text("span","opt-pt", opt.pt) ])
+    ]);
+    btn.addEventListener("click", function(){ answerTestQuestion(opt.letter); });
+    box.appendChild(btn);
+  });
+  state.quiz.answered = false;
+}
+
+function answerTestQuestion(letter){
+  if (state.quiz.answered) return;
+  state.quiz.answered = true;
+  var q = state.allById[state.quiz.currentId].question;
+  var correctOpt = q.options.filter(function(o){return o.correct;})[0];
+  var isCorrect = (letter === correctOpt.letter);
+
+  var st = qStat(q.id);
+  if (isCorrect){
+    st.streak++; st.correct++;
+    if (st.streak >= MASTERY_STREAK) st.mastered = true;
+  } else {
+    st.streak = 0; st.wrong++;
+  }
+  setQStat(q.id, st);
+  persistProgress();
+
+  // reveal
+  $("q-transcription").hidden = false;
+  $("q-ru").hidden = false;
+  var fb = $("q-feedback");
+  fb.hidden = false;
+  fb.className = "feedback-banner " + (isCorrect ? "ok":"bad");
+  fb.textContent = isCorrect ? "✓ Верно!" : ("✗ Неверно. Правильный ответ: " + correctOpt.letter);
+
+  var dotsBox = $("quiz-streak");
+  dotsBox.innerHTML = "";
+  for (var i=0;i<MASTERY_STREAK;i++){
+    dotsBox.appendChild(el("span", {class:"dot" + (i < st.streak ? " on":"")}));
+  }
+
+  document.querySelectorAll("#q-options .option").forEach(function(btn){
+    btn.disabled = true;
+    var l = btn.getAttribute("data-letter");
+    var opt = q.options.filter(function(o){return o.letter===l;})[0];
+    btn.querySelector(".body").appendChild(text("span","opt-extra", opt.transcription));
+    btn.querySelector(".body").appendChild(text("span","opt-ru", opt.ru));
+    if (opt.correct) btn.classList.add("is-correct");
+    else if (l === letter) btn.classList.add("is-wrong");
+  });
+
+  $("btn-quiz-next").hidden = false;
+  $("btn-quiz-next").textContent = st.mastered ? "Вопрос освоен →" : "Далее →";
+}
+
+function advanceTest(){
+  var sectionIndex = state.quiz.sectionIndex;
+  var next = pickTestQuestion(sectionIndex, state.quiz.currentId);
+  if (!next){
+    showSectionDone(sectionIndex);
+    return;
+  }
+  state.quiz.currentId = next.id;
+  renderTestQuestion();
+}
+
+function showSectionDone(sectionIndex){
+  var doc = state.sections[sectionIndex];
+  var stats = sectionStats(doc);
+  $("done-section-score").textContent = stats.mastered + "/" + stats.total;
+  $("done-section-name").textContent = doc.section_name_ru;
+  state.quiz = {mode:"done", sectionIndex: sectionIndex};
+  showView("view-section-done");
+}
+
+/* =========================== EXAM =========================== */
+function sampleExamTicket(){
+  var ids = Object.keys(state.allById).map(Number);
+  var pool = ids.slice();
+  var picked = [];
+  while (picked.length < EXAM_SIZE && pool.length){
+    var i = Math.floor(Math.random()*pool.length);
+    picked.push(pool[i]);
+    pool.splice(i,1);
+  }
+  return picked;
+}
+
+function startExam(){
+  var ticket = sampleExamTicket();
+  state.exam = {ticket: ticket, answers: new Array(ticket.length).fill(null), idx: 0};
+  renderExamQuestion();
+  showView("view-exam");
+}
+
+function renderExamQuestion(){
+  var ex = state.exam;
+  var qid = ex.ticket[ex.idx];
+  var q = state.allById[qid].question;
+
+  $("exam-progress").textContent = "вопрос " + (ex.idx+1) + " / " + ex.ticket.length +
+    " · отвечено " + ex.answers.filter(function(a){return a!==null;}).length + "/" + ex.ticket.length;
+  $("exam-q-pt").textContent = q.pt;
+
+  var box = $("exam-q-options");
+  box.innerHTML = "";
+  var chosen = ex.answers[ex.idx];
+  q.options.forEach(function(opt){
+    var btn = el("button", {class:"option" + (chosen===opt.letter ? " is-correct":""), "data-letter": opt.letter}, [
+      text("span","letter", opt.letter),
+      el("span", {class:"body"}, [ text("span","opt-pt", opt.pt) ])
+    ]);
+    btn.addEventListener("click", function(){
+      ex.answers[ex.idx] = opt.letter;
+      renderExamQuestion();
+    });
+    box.appendChild(btn);
+  });
+
+  $("btn-exam-prev").disabled = (ex.idx === 0);
+  $("btn-exam-next").textContent = (ex.idx === ex.ticket.length-1) ? "Завершить экзамен" : "Далее →";
+}
+
+function navExam(dir){
+  var ex = state.exam;
+  if (dir === 1 && ex.idx === ex.ticket.length-1){
+    finishExam();
+    return;
+  }
+  ex.idx = Math.max(0, Math.min(ex.ticket.length-1, ex.idx + dir));
+  renderExamQuestion();
+}
+
+function finishExam(){
+  var ex = state.exam;
+  var score = 0;
+  var details = ex.ticket.map(function(qid, i){
+    var q = state.allById[qid].question;
+    var correctOpt = q.options.filter(function(o){return o.correct;})[0];
+    var chosen = ex.answers[i];
+    var ok = (chosen === correctOpt.letter);
+    if (ok) score++;
+    return {q:q, chosen:chosen, correctOpt:correctOpt, ok:ok};
+  });
+  var passed = score >= EXAM_PASS;
+
+  var entry = {ts: Date.now(), score: score, passed: passed};
+  state.progress.exam.history.push(entry);
+  if (state.progress.exam.history.length > EXAM_HISTORY_CAP){
+    state.progress.exam.history = state.progress.exam.history.slice(-EXAM_HISTORY_CAP);
+  }
+  if (!state.progress.exam.best || score > state.progress.exam.best.score){
+    state.progress.exam.best = {score:score, ts: Date.now()};
+  }
+  persistProgress();
+
+  var hero = $("exam-result-hero");
+  hero.className = "result-hero " + (passed ? "pass":"fail");
+  $("exam-result-score").textContent = score + "/" + ex.ticket.length;
+  $("exam-result-verdict").textContent = passed ? "Экзамен сдан" : "Экзамен не сдан";
+
+  var list = $("exam-review");
+  list.innerHTML = "";
+  details.forEach(function(d, i){
+    var item = el("div", {class:"review-item"}, [
+      text("div","q-no", "Вопрос " + (i+1)),
+      text("p","q-pt", d.q.pt),
+      text("p","q-transcription", d.q.transcription),
+      text("p","q-ru", d.q.ru)
+    ]);
+    var optsBox = el("div", {class:"options"});
+    d.q.options.forEach(function(opt){
+      var cls = "option is-muted";
+      if (opt.correct) cls = "option is-correct";
+      else if (opt.letter === d.chosen) cls = "option is-wrong";
+      optsBox.appendChild(el("div", {class:cls}, [
+        text("span","letter", opt.letter),
+        el("span", {class:"body"}, [
+          text("span","opt-pt", opt.pt),
+          text("span","opt-extra", opt.transcription),
+          text("span","opt-ru", opt.ru)
+        ])
+      ]));
+    });
+    item.appendChild(optsBox);
+    if (!d.chosen){
+      item.appendChild(text("p","meta", "Без ответа"));
+    }
+    list.appendChild(item);
+  });
+
+  showView("view-exam-result");
+}
+
+/* =========================== WIRING / INIT =========================== */
+function wireEvents(){
+  $("btn-start-exam").addEventListener("click", startExam);
+  $("btn-quiz-exit").addEventListener("click", renderHome);
+  $("btn-quiz-next").addEventListener("click", function(){
+    if (state.quiz.mode === "fam") advanceFam();
+    else if (state.quiz.mode === "test") advanceTest();
+  });
+  $("btn-done-home").addEventListener("click", renderHome);
+  $("btn-done-repeat").addEventListener("click", function(){
+    var idx = state.quiz.sectionIndex;
+    var doc = state.sections[idx];
+    doc.questions.forEach(function(q){
+      setQStat(q.id, {streak:0, mastered:false, correct:0, wrong:0});
+    });
+    persistProgress();
+    startTesting(idx);
+  });
+  $("btn-exam-exit").addEventListener("click", function(){
+    toast("Экзамен прерван — результат не сохранён");
+    renderHome();
+  });
+  $("btn-exam-prev").addEventListener("click", function(){ navExam(-1); });
+  $("btn-exam-next").addEventListener("click", function(){ navExam(1); });
+  $("btn-exam-result-home").addEventListener("click", renderHome);
+  $("btn-exam-result-retry").addEventListener("click", startExam);
+}
+
+function init(){
+  wireEvents();
+  Promise.all([loadAllData(), initPersistence()]).then(function(){
+    renderHome();
+  }).catch(function(err){
+    console.error(err);
+    var lv = $("view-loading");
+    lv.innerHTML = "";
+    lv.appendChild(text("p", null, "Не удалось загрузить банк вопросов."));
+    lv.appendChild(text("p", null, String(err && err.message || err)));
+  });
+}
+
+if (document.readyState === "loading"){
+  document.addEventListener("DOMContentLoaded", init);
+} else {
+  init();
+}
+
+})();
+</script>
