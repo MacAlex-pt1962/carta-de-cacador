@@ -1,0 +1,559 @@
+{
+  "section_id": "caes_caca",
+  "section_name_ru": "Охотничьи собаки",
+  "section_name_pt": "Cães de caça",
+  "source": "ICNF - Questionário, Manual para exame de carta de caçador (https://www.icnf.pt/api/file/doc/2d8ae1589afbdf1e)",
+  "questions": [
+    {
+      "id": 480,
+      "pt": "Qual é o cão de caça vulgarmente designado como coelheiro?",
+      "transcription": "Куáл э у кáн ди кáса вулгáрменти дезигнáду кóму куэльéйру?",
+      "ru": "Какая охотничья собака в народе называется «куэльéйру» (кроличья)?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "O podengo pequeno",
+          "transcription": "У подéнгу пекéну",
+          "ru": "Малый португальский поденго",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "O podengo médio",
+          "transcription": "У подéнгу мéдиу",
+          "ru": "Средний португальский поденго",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "O podengo grande",
+          "transcription": "У подéнгу грáнди",
+          "ru": "Большой португальский поденго",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 481,
+      "pt": "Qual das seguintes raças de cães é indicada para a caça ao javali?",
+      "transcription": "Куáл даш сегúнтеш рáсаш ди кáйнш э индикáда пáра а кáса ау жавалú?",
+      "ru": "Какая из следующих пород собак подходит для охоты на кабана?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "O podengo médio",
+          "transcription": "У подéнгу мéдиу",
+          "ru": "Средний португальский поденго",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "O podengo grande",
+          "transcription": "У подéнгу грáнди",
+          "ru": "Большой португальский поденго",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "O Fox-hound",
+          "transcription": "У Фóкс-хáунд",
+          "ru": "Фоксхаунд",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 482,
+      "pt": "O podengo pequeno e o podengo médio são cães especialmente adaptados à caça de:",
+      "transcription": "У подéнгу пекéну и у подéнгу мéдиу сáн кáйнш эшпесиáлменти адаптáдуш а кáса ди:",
+      "ru": "Малый и средний поденго — собаки, особо приспособленные для охоты на:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Perdiz e codorniz",
+          "transcription": "Пердúз и кодорнúз",
+          "ru": "Куропатку и перепела",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Coelho-bravo",
+          "transcription": "Куэлью-брáву",
+          "ru": "Дикого кролика",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Patos e galeirão",
+          "transcription": "Пáтуш и гэлейрáн",
+          "ru": "Уток и лысуху",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 483,
+      "pt": "Indique qual das afirmações está correta:",
+      "transcription": "Индúки куáл даш афирмасóйнш эштá коррéта:",
+      "ru": "Укажите, какое из утверждений верно:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "O perdigueiro português é a única raça de cães adaptada à caça à perdiz",
+          "transcription": "У пердигéйру португéш э а ýника рáса ди кáйнш адаптáда а кáса а пердúз",
+          "ru": "Португальская пердигейро — единственная порода, приспособленная для охоты на куропатку",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "O podengo pequeno é vulgarmente designado por cão coelheiro",
+          "transcription": "У подéнгу пекéну э вулгáрменти дезигнáду пур кáн куэльéйру",
+          "ru": "Малый поденго в народе называют кроличьей собакой",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "O beagle é utilizado na caça ao coelho",
+          "transcription": "У бúгл э утилизáду на кáса ау куэлью",
+          "ru": "Бигль используется при охоте на кролика",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 484,
+      "pt": "Os baixotes são considerados:",
+      "transcription": "Уш байшóтиш сáн консидерáдуш:",
+      "ru": "Байшóтиш (низкорослые гончие, бассеты) считаются:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Cães de equipagem",
+          "transcription": "Кáйнш ди экипáжен",
+          "ru": "Стайными (гонными) собаками",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Cães de pista de sangue de caça maior",
+          "transcription": "Кáйнш ди пúшта ди сáнги ди кáса майóр",
+          "ru": "Собаками кровяного следа по крупной дичи",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Cães de parar",
+          "transcription": "Кáйнш ди парáр",
+          "ru": "Легавыми (стойка)",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 485,
+      "pt": "Os podengos são cães de raça portuguesa adaptados à caça de espécies cinegéticas:",
+      "transcription": "Уш подéнгуш сáн кáйнш ди рáса португéза адаптáдуш а кáса ди эшпéсиеш синежéтикаш:",
+      "ru": "Поденго — собаки португальской породы, приспособленные для охоты на охотничьи виды:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "De pelo",
+          "transcription": "Ди пéлу",
+          "ru": "Пушного зверя (дичь по следу)",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "De pena",
+          "transcription": "Ди пéна",
+          "ru": "Пернатой дичи",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "De pelo e de pena",
+          "transcription": "Ди пéлу и ди пéна",
+          "ru": "Пушного зверя и пернатой дичи",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 486,
+      "pt": "Qual das afirmações é correta?",
+      "transcription": "Куáл даш афирмасóйнш э коррéта?",
+      "ru": "Какое из утверждений верно?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "O pointer é um cão de porte médio e de pelo liso cor de fogo",
+          "transcription": "У пóйнтер э ун кáн ди пóрти мéдиу и ди пéлу лúзу кор ди фóгу",
+          "ru": "Пойнтер — собака среднего размера с гладкой шерстью огненного цвета",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "O coelheiro é um cão de pequeno porte, de pelo liso ou cerdoso",
+          "transcription": "У куэльéйру э ун кáн ди пекéну пóрти, ди пéлу лúзу оу сердóзу",
+          "ru": "Кроличья собака — маленькая собака с гладкой или жёсткой шерстью",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "O braco alemão é um cão de boa corpulência, de pelo liso ou cerdoso",
+          "transcription": "У брáку алемáн э ун кáн ди бóа корпулéнсия, ди пéлу лúзу оу сердóзу",
+          "ru": "Немецкий брак — крепкая собака с гладкой или жёсткой шерстью",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 487,
+      "pt": "O fox-terrier é especialmente indicado para caçar?",
+      "transcription": "У фóкс-терьéр э эшпесиáлменти индикáду пáра касáр?",
+      "ru": "Фокстерьер особо подходит для охоты на?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Perdiz",
+          "transcription": "Пердúз",
+          "ru": "Куропатку",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Raposa",
+          "transcription": "Рапóза",
+          "ru": "Лису",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Javali",
+          "transcription": "Жавалú",
+          "ru": "Кабана",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 488,
+      "pt": "Qual das seguintes frases está correta?",
+      "transcription": "Куáл даш сегúнтеш фрáзиш эштá коррéта?",
+      "ru": "Какое из следующих утверждений верно?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "O pointer está bem adaptado a caçar em terrenos muito dobrados",
+          "transcription": "У пóйнтер эштá бэн адаптáду а касáр эн терéнуш мýйту добрáдуш",
+          "ru": "Пойнтер хорошо приспособлен для охоты на сильно пересечённой местности",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "O setter irlandês cobra bem na água e em terra",
+          "transcription": "У сéтер ирландéш кóбра бэн на áгуа и эн тéрра",
+          "ru": "Ирландский сеттер хорошо подаёт (приносит дичь) как в воде, так и на суше",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "O podengo é um cão adaptado à caça de pena",
+          "transcription": "У подéнгу э ун кáн адаптáду а кáса ди пéна",
+          "ru": "Поденго — собака, приспособленная для охоты на пернатую дичь",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 489,
+      "pt": "Os Fox-hound são considerados:",
+      "transcription": "Уш Фóкс-хáунд сáн консидерáдуш:",
+      "ru": "Фоксхаунды считаются:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Cães de equipagem",
+          "transcription": "Кáйнш ди экипáжен",
+          "ru": "Стайными (гонными) собаками",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Cães de parar",
+          "transcription": "Кáйнш ди парáр",
+          "ru": "Легавыми (стойка)",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Cães que cobram bem",
+          "transcription": "Кáйнш ки кóбран бэн",
+          "ru": "Собаками, хорошо подающими дичь",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 490,
+      "pt": "Qual das afirmações é correta?",
+      "transcription": "Куáл даш афирмасóйнш э коррéта?",
+      "ru": "Какое из утверждений верно?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "O perdigueiro português, além de \"parar\", também cobra bem",
+          "transcription": "У пердигéйру португéш, алéн ди парáр, тамбéн кóбра бэн",
+          "ru": "Португальская пердигейро, помимо стойки, также хорошо подаёт дичь",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Os galgos não são considerados cães de caça em Portugal",
+          "transcription": "Уш гáлгуш нан сáн консидерáдуш кáйнш ди кáса эн Португáл",
+          "ru": "Борзые не считаются охотничьими собаками в Португалии",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "O pointer é um cão de tamanho médio e com pelo comprido",
+          "transcription": "У пóйнтер э ун кáн ди таманью мéдиу и кон пéлу компрúду",
+          "ru": "Пойнтер — собака среднего размера с длинной шерстью",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 491,
+      "pt": "O perdigueiro é um cão de raça portuguesa adaptado à caça de espécies cinegéticas de:",
+      "transcription": "У пердигéйру э ун кáн ди рáса португéза адаптáду а кáса ди эшпéсиеш синежéтикаш ди:",
+      "ru": "Пердигейро — собака португальской породы, приспособленная для охоты на охотничьи виды:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Pelo",
+          "transcription": "Пéлу",
+          "ru": "Пушного зверя",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Pena",
+          "transcription": "Пéна",
+          "ru": "Пернатой дичи",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Pelo e pena",
+          "transcription": "Пéлу и пéна",
+          "ru": "Пушного зверя и пернатой дичи",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 492,
+      "pt": "Os baixotes são cães principalmente adequados para:",
+      "transcription": "Уш байшóтиш сáн кáйнш принсипáлменти адекуáдуш пáра:",
+      "ru": "Байшóтиш (бассеты) — собаки, прежде всего подходящие для:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Seguir pistas de sangue de caça maior",
+          "transcription": "Сегúр пúшташ ди сáнги ди кáса майóр",
+          "ru": "Преследования по кровяному следу крупной дичи",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Perseguir lebres",
+          "transcription": "Персегúр лéбриш",
+          "ru": "Преследования зайцев",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Perseguir perdizes",
+          "transcription": "Персегúр пердúзиш",
+          "ru": "Преследования куропаток",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 493,
+      "pt": "Qual destas raças de cães é a mais indicada para a caça de pena?",
+      "transcription": "Куáл дéшташ рáсаш ди кáйнш э а máйш индикáда пáра а кáса ди пéна?",
+      "ru": "Какая из этих пород собак наиболее подходит для охоты на пернатую дичь?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Podengo médio",
+          "transcription": "Подéнгу мéдиу",
+          "ru": "Средний поденго",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Podengo pequeno",
+          "transcription": "Подéнгу пекéну",
+          "ru": "Малый поденго",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Perdigueiro português",
+          "transcription": "Пердигéйру португéш",
+          "ru": "Португальская пердигейро",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 494,
+      "pt": "Qual das seguintes raças de cães é indicada para a caça ao javali?",
+      "transcription": "Куáл даш сегúнтеш рáсаш ди кáйнш э индикáда пáра а кáса ау жавалú?",
+      "ru": "Какая из следующих пород собак подходит для охоты на кабана?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Podengo grande",
+          "transcription": "Подéнгу грáнди",
+          "ru": "Большой поденго",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Fox-houd",
+          "transcription": "Фóкс-хáунд",
+          "ru": "Фоксхаунд",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Beagle",
+          "transcription": "Бúгл",
+          "ru": "Бигль",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 495,
+      "pt": "Qual das seguintes raças de cães é a mais indicada para a caça de pelo?",
+      "transcription": "Куáл даш сегúнтеш рáсаш ди кáйнш э а máйш индикáда пáра а кáса ди пéлу?",
+      "ru": "Какая из следующих пород собак наиболее подходит для охоты на пушного зверя?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Braco alemão",
+          "transcription": "Брáку алемáн",
+          "ru": "Немецкий брак",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Podengo médio",
+          "transcription": "Подéнгу мéдиу",
+          "ru": "Средний поденго",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Pointer",
+          "transcription": "Пóйнтер",
+          "ru": "Пойнтер",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 496,
+      "pt": "Qual das afirmações está correta:",
+      "transcription": "Куáл даш афирмасóйнш эштá коррéта:",
+      "ru": "Какое из утверждений верно:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "O perdigueiro português é a única raça adaptada para a caça à perdiz",
+          "transcription": "У пердигéйру португéш э а ýника рáса адаптáда пáра а кáса а пердúз",
+          "ru": "Португальская пердигейро — единственная порода, приспособленная для охоты на куропатку",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "O epagneul breton cobra bem em terra e na água",
+          "transcription": "У эпаньéл бретáн кóбра бэн эн тéрра и на áгуа",
+          "ru": "Бретонский эпаньоль хорошо подаёт дичь как на суше, так и в воде",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "O terrier destina-se a seguir pistas de sangue de caça maior",
+          "transcription": "У терьéр дештúна-си а сегúр пúшташ ди сáнги ди кáса майóр",
+          "ru": "Терьер предназначен для преследования по кровяному следу крупной дичи",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 497,
+      "pt": "O podengo médio é um cão mais adaptado para caçar:",
+      "transcription": "У подéнгу мéдиу э ун кáн máйш адаптáду пáра касáр:",
+      "ru": "Средний поденго — собака, более приспособленная для охоты на:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Ao coelho",
+          "transcription": "Ау куэлью",
+          "ru": "Кролика",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Ao javali",
+          "transcription": "Ау жавалú",
+          "ru": "Кабана",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "À perdiz-vermelha",
+          "transcription": "А пердúз-вермéлья",
+          "ru": "Красную куропатку",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 498,
+      "pt": "Indique qual destas raças de cães é a mais indicada para a caça de pena:",
+      "transcription": "Индúки куáл дéшташ рáсаш ди кáйнш э а máйш индикáда пáра а кáса ди пéна:",
+      "ru": "Укажите, какая из этих пород собак наиболее подходит для охоты на пернатую дичь:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Beagle",
+          "transcription": "Бúгл",
+          "ru": "Бигль",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Setter inglês",
+          "transcription": "Сéтер инглéш",
+          "ru": "Английский сеттер",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Fox-terrier",
+          "transcription": "Фóкс-терьéр",
+          "ru": "Фокстерьер",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}

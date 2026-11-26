@@ -1,0 +1,96 @@
+{
+  "section_id": "cetraria",
+  "section_name_ru": "Соколиная охота",
+  "section_name_pt": "Caça de cetraria",
+  "source": "ICNF - Questionário, Manual para exame de carta de caçador (https://www.icnf.pt/api/file/doc/2d8ae1589afbdf1e)",
+  "questions": [
+    {
+      "id": 499,
+      "pt": "O esmerilhão é um pequeno falcão ideal para caçar:",
+      "transcription": "У эзмерильáн э ун пекéну фалкáн идеáл пáра касáр:",
+      "ru": "Дербник (эзмерильáн) — маленький сокол, идеальный для охоты на:",
+      "options": [
+        {"letter": "A", "pt": "Codornizes", "transcription": "Кодорнúзиш", "ru": "Перепелов", "correct": true},
+        {"letter": "B", "pt": "Coelhos", "transcription": "Куэльюш", "ru": "Кроликов", "correct": false},
+        {"letter": "C", "pt": "Patos", "transcription": "Пáтуш", "ru": "Уток", "correct": false}
+      ]
+    },
+    {
+      "id": 500,
+      "pt": "Qual das seguintes afirmações está correta?",
+      "transcription": "Куáл даш сегúнтеш афирмасóйнш эштá коррéта?",
+      "ru": "Какое из следующих утверждений верно?",
+      "options": [
+        {"letter": "A", "pt": "A alimentação das aves de presa pode ser constituída essencialmente por rações", "transcription": "А алиментасáн даш áвиш ди прéза пóди сер конституúда эссенсиáлменти пур расóйнш", "ru": "Питание хищных птиц может в основном состоять из готовых кормов", "correct": false},
+        {"letter": "B", "pt": "A alimentação das aves de presa deve ser idêntica à que consumiriam no estado selvagem", "transcription": "А алиментасáн даш áвиш ди прéза дéви сер идéнтика а ки консумирúан ну эштáду сельвáжен", "ru": "Питание хищных птиц должно быть идентично тому, что они потребляли бы в дикой природе", "correct": true},
+        {"letter": "C", "pt": "Os alimentos dados às aves de presa não podem ter penas ou pêlos", "transcription": "Уш алимéнтуш дáдуш аш áвиш ди прéза нан пóдэн тер пéнаш оу пéлуш", "ru": "Корм, даваемый хищным птицам, не должен содержать перьев или шерсти", "correct": false}
+      ]
+    },
+    {
+      "id": 501,
+      "pt": "O Açor é uma ave de presa de \"baixo-voo\", utilizadas na caça:",
+      "transcription": "У Асóр э ýма áви ди прéза ди бáйшу-вóу, утилизáдаш на кáса:",
+      "ru": "Ястреб-тетеревятник — хищная птица «низкого полёта», используемая на охоте:",
+      "options": [
+        {"letter": "A", "pt": "De pêlo", "transcription": "Ди пéлу", "ru": "На пушного зверя", "correct": false},
+        {"letter": "B", "pt": "De pena", "transcription": "Ди пéна", "ru": "На пернатую дичь", "correct": false},
+        {"letter": "C", "pt": "Tanto de pena como de pelo", "transcription": "Тáнту ди пéна кóму ди пéлу", "ru": "Как на пернатую дичь, так и на пушного зверя", "correct": true}
+      ]
+    },
+    {
+      "id": 502,
+      "pt": "Indique a frase correta:",
+      "transcription": "Индúки а фрáзи коррéта:",
+      "ru": "Укажите верное утверждение:",
+      "options": [
+        {"letter": "A", "pt": "O Açor é a ave clássica da caça em alto-voo", "transcription": "У Асóр э а áви клáсика да кáса эн áлту-вóу", "ru": "Ястреб-тетеревятник — классическая птица для охоты «высоким полётом»", "correct": false},
+        {"letter": "B", "pt": "O Açor é a ave clássica da caça em baixo-voo", "transcription": "У Асóр э а áви клáсика да кáса эн бáйшу-вóу", "ru": "Ястреб-тетеревятник — классическая птица для охоты «низким полётом»", "correct": true},
+        {"letter": "C", "pt": "O Gavião é a ave clássica da caça em alto-voo", "transcription": "У Гавиáн э а áви клáсика да кáса эн áлту-вóу", "ru": "Перепелятник — классическая птица для охоты «высоким полётом»", "correct": false}
+      ]
+    },
+    {
+      "id": 503,
+      "pt": "As aves de presa de sexo masculino são designadas em cetraria por \"terçó\". O \"terçó\" é:",
+      "transcription": "Аш áвиш ди прéза ди сéксу маскулúну сáн дезигнáдаш эн сетрарúа пур терсó. У терсó э:",
+      "ru": "Хищных птиц мужского пола в соколиной охоте называют «терсó». «Терсó» является:",
+      "options": [
+        {"letter": "A", "pt": "Mais corpulento do que a fêmea", "transcription": "Máйш корпулéнту ду ки а фéмеа", "ru": "Более крупным, чем самка", "correct": false},
+        {"letter": "B", "pt": "Do mesmo tamanho que a fêmea", "transcription": "Ду мéзму таманью ки а фéмеа", "ru": "Того же размера, что и самка", "correct": false},
+        {"letter": "C", "pt": "Mais ágil do que a fêmea", "transcription": "Máйш áжил ду ки а фéмеа", "ru": "Более проворным, чем самка", "correct": true}
+      ]
+    },
+    {
+      "id": 504,
+      "pt": "A condição física de uma ave de presa é avaliada:",
+      "transcription": "А кондисáн фúзика ди ýма áви ди прéза э авалиáда:",
+      "ru": "Физическое состояние хищной птицы оценивается:",
+      "options": [
+        {"letter": "A", "pt": "Pelo peso", "transcription": "Пéлу пéзу", "ru": "По весу", "correct": true},
+        {"letter": "B", "pt": "Pelo tamanho", "transcription": "Пéлу таманью", "ru": "По размеру", "correct": false},
+        {"letter": "C", "pt": "Pelas penas", "transcription": "Пéлаш пéнаш", "ru": "По перьям", "correct": false}
+      ]
+    },
+    {
+      "id": 505,
+      "pt": "O que é o processo de cetraria?",
+      "transcription": "У ки э у просéссу ди сетрарúа?",
+      "ru": "Что такое способ охоты «соколиная охота» (сетрариа)?",
+      "options": [
+        {"letter": "A", "pt": "Aquele em que o caçador, utiliza aves de presa para capturar espécies cinegéticas, apenas com o auxílio de cães de caça e com ou sem pau", "transcription": "Акéли эн ки у касадóр, утилúза áвиш ди прéза пáра каптурáр эшпéсиеш синежéтикаш, апéнаш кон у аушúлиу ди кáйнш ди кáса и кон оу сен пáу", "ru": "Способ, при котором охотник использует хищных птиц для отлова охотничьих видов, только с помощью охотничьих собак и с палкой или без неё", "correct": true},
+        {"letter": "B", "pt": "Aquele em que o caçador, utiliza arco ou besta para capturar espécies cinegéticas", "transcription": "Акéли эн ки у касадóр, утилúза áрку оу бéшта пáра каптурáр эшпéсиеш синежéтикаш", "ru": "Способ, при котором охотник использует лук или арбалет для отлова охотничьих видов", "correct": false},
+        {"letter": "C", "pt": "Aquele em que o caçador, utiliza armadilhas para capturar espécies cinegéticas", "transcription": "Акéли эн ки у касадóр, утилúза армадúльяш пáра каптурáр эшпéсиеш синежéтикаш", "ru": "Способ, при котором охотник использует ловушки для отлова охотничьих видов", "correct": false}
+      ]
+    },
+    {
+      "id": 506,
+      "pt": "Na iniciação das aves de presa, o amansamento deve preferencialmente ser realizado:",
+      "transcription": "На инисиасáн даш áвиш ди прéза, у амансамéнту дéви преференсиáлменти сер реализáду:",
+      "ru": "При первоначальном приучении хищных птиц приручение (амансамéнту) предпочтительно должно проводиться:",
+      "options": [
+        {"letter": "A", "pt": "De dia", "transcription": "Ди дúа", "ru": "Днём", "correct": false},
+        {"letter": "B", "pt": "De noite", "transcription": "Ди нóйти", "ru": "Ночью", "correct": true},
+        {"letter": "C", "pt": "Indiferentemente de noite ou de dia", "transcription": "Индиферентементи ди нóйти оу ди дúа", "ru": "Безразлично, ночью или днём", "correct": false}
+      ]
+    }
+  ]
+}

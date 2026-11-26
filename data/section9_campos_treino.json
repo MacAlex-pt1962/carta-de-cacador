@@ -1,0 +1,63 @@
+{
+  "section_id": "campos_treino",
+  "section_name_ru": "Тренировочные поля",
+  "section_name_pt": "Campos de treino de caça",
+  "source": "ICNF - Questionário, Manual para exame de carta de caçador (https://www.icnf.pt/api/file/doc/2d8ae1589afbdf1e)",
+  "questions": [
+    {
+      "id": 475,
+      "pt": "Nos campos de treino de caça é permitido:",
+      "transcription": "Нуш кáмпуш ди трéйну ди кáса э пермитúду:",
+      "ru": "На охотничьих тренировочных полях разрешено:",
+      "options": [
+        {"letter": "A", "pt": "Treinar aves de presa", "transcription": "Трейнáр áвиш ди прéза", "ru": "Тренировать хищных птиц", "correct": true},
+        {"letter": "B", "pt": "Realizar batidas ao javali", "transcription": "Реализáр батúдаш ау жавалú", "ru": "Проводить облавы на кабана", "correct": false},
+        {"letter": "C", "pt": "Treinar cães de caça utilizando espécies não cinegéticas", "transcription": "Трейнáр кáйнш ди кáса утилизáнду эшпéсиеш нан синежéтикаш", "ru": "Тренировать охотничьих собак с использованием неохотничьих видов", "correct": false}
+      ]
+    },
+    {
+      "id": 476,
+      "pt": "Nos campos de treino de caça qual das seguintes atividades pode ser praticada?",
+      "transcription": "Нуш кáмпуш ди трéйну ди кáса куáл даш сегúнтеш ативидáдиш пóди сер пратикáда?",
+      "ru": "На охотничьих тренировочных полях какая из следующих деятельностей может осуществляться?",
+      "options": [
+        {"letter": "A", "pt": "Exercício de tiro com arma de fogo em perdizes criadas em cativeiro", "transcription": "Эзерсúсиу ди тúру кон áрма ди фóгу эн пердúзиш криáдаш эн кативéйру", "ru": "Стрельба из огнестрельного оружия по куропаткам, выращенным в неволе", "correct": true},
+        {"letter": "B", "pt": "Montarias aos javalis", "transcription": "Монтарúаш аош жавалúш", "ru": "Облавные охоты на кабанов", "correct": false},
+        {"letter": "C", "pt": "Caçar espécies cinegéticas da fauna selvagem para treinar aves de presa", "transcription": "Касáр эшпéсиеш синежéтикаш да фáуна сельвáжэн пáра трейнáр áвиш ди прéза", "ru": "Охота на диких охотничьих видов фауны для тренировки хищных птиц", "correct": false}
+      ]
+    },
+    {
+      "id": 477,
+      "pt": "Diga qual das afirmações está correta?",
+      "transcription": "Дúга куáл даш афирмасóйнш эштá коррéта?",
+      "ru": "Скажите, какое из утверждений верно?",
+      "options": [
+        {"letter": "A", "pt": "Nos campos de treino os utilizadores devem assegurar a recolha de cartuchos vazios resultantes do exercício do tiro", "transcription": "Нуш кáмпуш ди трéйну уш утилизадóриш дéвэн асегурáр а рекóлья ди картýшуш вáзиуш рэзултáнтиш ду эзерсúсиу ду тúру", "ru": "На тренировочных полях пользователи должны обеспечивать сбор пустых гильз после стрельбы", "correct": true},
+        {"letter": "B", "pt": "Nos campos de treino os utilizadores não podem utilizar armas de caça", "transcription": "Нуш кáмпуш ди трéйну уш утилизадóриш нан пóдэн утилизáр áрмаш ди кáса", "ru": "На тренировочных полях пользователи не могут использовать охотничье оружие", "correct": false},
+        {"letter": "C", "pt": "Nos campos de treino os utilizadores devem possuir licença de caça", "transcription": "Нуш кáмпуш ди трéйну уш утилизадóриш дéвэн посуúр лисéнса ди кáса", "ru": "На тренировочных полях пользователи должны иметь охотничью лицензию", "correct": false}
+      ]
+    },
+    {
+      "id": 478,
+      "pt": "Nos campos de treino de caça pode ser autorizada a prática de uma das seguintes atividades:",
+      "transcription": "Нуш кáмпуш ди трéйну ди кáса пóди сер ауторизáда а прáтика ди ýма даш сегúнтеш ативидáдиш:",
+      "ru": "На охотничьих тренировочных полях может быть разрешена одна из следующих деятельностей:",
+      "options": [
+        {"letter": "A", "pt": "Treino de furões com coelhos mansos", "transcription": "Трéйну ди фурóйнш кон куэльюш мáнсуш", "ru": "Тренировка хорьков с домашними кроликами", "correct": false},
+        {"letter": "B", "pt": "Exercício de tiro com besta", "transcription": "Эзерсúсиу ди тúру кон бéшта", "ru": "Стрельба из арбалета", "correct": true},
+        {"letter": "C", "pt": "Treinar cães de caça utilizando espécies cinegéticas silvestres", "transcription": "Трейнáр кáйнш ди кáса утилизáнду эшпéсиеш синежéтикаш силвéштриш", "ru": "Тренировка охотничьих собак с использованием диких охотничьих видов", "correct": false}
+      ]
+    },
+    {
+      "id": 479,
+      "pt": "Nos campos de treino de caça, entre outras atividades de carácter venatório, pode ser autorizado:",
+      "transcription": "Нуш кáмпуш ди трéйну ди кáса, éнтри óутраш ативидáдиш ди карáтер венатóриу, пóди сер аутóризáду:",
+      "ru": "На охотничьих тренировочных полях, среди прочей охотничьей деятельности, может быть разрешена:",
+      "options": [
+        {"letter": "A", "pt": "O treino de aves de presa", "transcription": "У трéйну ди áвиш ди прéза", "ru": "Тренировка хищных птиц", "correct": true},
+        {"letter": "B", "pt": "A realização de montarias", "transcription": "А реализасáн ди монтарúаш", "ru": "Проведение облавных охот", "correct": false},
+        {"letter": "C", "pt": "A realização de batidas às raposas", "transcription": "А реализасáн ди батúдаш аш рапóзаш", "ru": "Проведение облав на лис", "correct": false}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "section_id": "caca_arco_besta",
+  "section_name_ru": "Охота с луком и арбалетом",
+  "section_name_pt": "Caça com arco e besta",
+  "source": "ICNF - Questionário, Manual para exame de carta de caçador (https://www.icnf.pt/api/file/doc/2d8ae1589afbdf1e)",
+  "questions": [
+    {
+      "id": 463,
+      "pt": "O Arqueiro ou Besteiro, ao disparar a um animal, deve encontrar-se a uma distância:",
+      "transcription": "У Аркéйру оу Бештéйру, ау диспарáр а ун анимáл, дéви энконтрáр-си а ýма диштáнсия:",
+      "ru": "Лучник или арбалетчик при стрельбе по животному должен находиться на расстоянии:",
+      "options": [
+        {"letter": "A", "pt": "Inferior a 30 metros", "transcription": "Инфериóр а трúнта мéтруш", "ru": "Менее 30 метров", "correct": true},
+        {"letter": "B", "pt": "Superior a 30 metros", "transcription": "Супериóр а трúнта мéтруш", "ru": "Более 30 метров", "correct": false},
+        {"letter": "C", "pt": "Superior a 40 metros", "transcription": "Супериóр а куарéнта мéтруш", "ru": "Более 40 метров", "correct": false}
+      ]
+    },
+    {
+      "id": 464,
+      "pt": "O Arqueiro ou Besteiro deve disparar sobre o animal, apontando:",
+      "transcription": "У Аркéйру оу Бештéйру дéви диспарáр сóбри у анимáл, апонтáнду:",
+      "ru": "Лучник или арбалетчик должен стрелять в животное, целясь:",
+      "options": [
+        {"letter": "A", "pt": "À espinal medula", "transcription": "А эшпинáл медýла", "ru": "В спинной мозг", "correct": false},
+        {"letter": "B", "pt": "Ao cérebro", "transcription": "Ау сéребру", "ru": "В мозг", "correct": false},
+        {"letter": "C", "pt": "À cavidade torácica", "transcription": "А кавидáде торáсика", "ru": "В грудную полость", "correct": true}
+      ]
+    },
+    {
+      "id": 465,
+      "pt": "Fora do exercício da caça, as pontas das flechas ou virotões para caça maior devem:",
+      "transcription": "Фóра ду эзерсúсиу да кáса, аш пóнташ даш флéшаш оу виротóйнш пáра кáса майóр дéвэн:",
+      "ru": "Вне охотничьей деятельности наконечники стрел или болтов для крупной дичи должны:",
+      "options": [
+        {"letter": "A", "pt": "Ser acondicionadas na aljava", "transcription": "Сер акондисионáдаш на альжáва", "ru": "Храниться в колчане", "correct": true},
+        {"letter": "B", "pt": "Embrulhadas em papel", "transcription": "Эмбрульядаш эн папéл", "ru": "Быть завёрнутыми в бумагу", "correct": false},
+        {"letter": "C", "pt": "Estar sempre visíveis", "transcription": "Эштáр сéмпри визúвэйш", "ru": "Быть всегда на виду", "correct": false}
+      ]
+    },
+    {
+      "id": 466,
+      "pt": "O caçador no ato venatório, ao utilizar arco ou besta, deve:",
+      "transcription": "У касадóр ну áту венатóриу, ау утилизáр áрку оу бéшта, дéви:",
+      "ru": "Охотник во время охоты, используя лук или арбалет, должен:",
+      "options": [
+        {"letter": "A", "pt": "Armar o arco ou besta, próximo do local do disparo", "transcription": "Армáр у áрку оу бéшта, прóксиму ду локáл ду диспáру", "ru": "Заряжать (взводить) лук или арбалет вблизи места выстрела", "correct": true},
+        {"letter": "B", "pt": "Ter o arco ou besta pronto a disparar", "transcription": "Тер у áрку оу бéшта прóнту а диспарáр", "ru": "Держать лук или арбалет готовым к выстрелу", "correct": false},
+        {"letter": "C", "pt": "Transportar sempre duas flechas ou virotões na mão", "transcription": "Транспортáр сéмпри дýаш флéшаш оу виротóйнш на мáн", "ru": "Всегда носить две стрелы или болта в руке", "correct": false}
+      ]
+    },
+    {
+      "id": 467,
+      "pt": "O caçador só poderá utilizar besta, na caça maior, se esta possuir:",
+      "transcription": "У касадóр só подерá утилизáр бéшта, на кáса майóр, си éшта посуúр:",
+      "ru": "Охотник сможет использовать арбалет для охоты на крупную дичь только если он оснащён:",
+      "options": [
+        {"letter": "A", "pt": "Patilha de segurança", "transcription": "Патúлья ди сегурáнса", "ru": "Предохранителем", "correct": true},
+        {"letter": "B", "pt": "Potência inferior a 125 libras", "transcription": "Потéнсия инфериóр а сэнту-и-винти-и-сúнку лúбраш", "ru": "Мощностью менее 125 фунтов", "correct": false},
+        {"letter": "C", "pt": "Potência inferior a 100 libras", "transcription": "Потéнсия инфериóр а сэн лúбраш", "ru": "Мощностью менее 100 фунтов", "correct": false}
+      ]
+    },
+    {
+      "id": 468,
+      "pt": "Na caça com arco ou besta qual o tipo de ponta permitido na caça maior?",
+      "transcription": "На кáса кон áрку оу бéшта куáл у тúпу ди пóнта пермитúду на кáса майóр?",
+      "ru": "При охоте с луком или арбалетом какой тип наконечника разрешён для крупной дичи?",
+      "options": [
+        {"letter": "A", "pt": "Com barbela", "transcription": "Кон барбéла", "ru": "С зазубриной", "correct": false},
+        {"letter": "B", "pt": "Com lâminas", "transcription": "Кон лáминаш", "ru": "С лезвиями", "correct": true},
+        {"letter": "C", "pt": "Ogival", "transcription": "Оживáл", "ru": "Остроконечный (огивальный)", "correct": false}
+      ]
+    },
+    {
+      "id": 469,
+      "pt": "Fora do exercício da caça o transporte de arco ou besta deve efetuar-se em estojo próprio, com exceção dos casos de deslocações entre locais de espera, desde que a distância entre eles não exceda:",
+      "transcription": "Фóра ду эзерсúсиу да кáса у транспóрти ди áрку оу бéшта дéви эфетуáр-си эн эштóжу прóприу, кон эксэпсáн душ кáзуш ди дешлокасóйнш éнтри локáйш ди эшпéра, дéзди ки а диштáнсия éнтри élis нан эксéда:",
+      "ru": "Вне охотничьей деятельности переноска лука или арбалета должна осуществляться в чехле, за исключением перемещений между местами засидки, если расстояние между ними не превышает:",
+      "options": [
+        {"letter": "A", "pt": "100 metros", "transcription": "Сэн мéтруш", "ru": "100 метров", "correct": true},
+        {"letter": "B", "pt": "150 metros", "transcription": "Сэн-и-синкóэнта мéтруш", "ru": "150 метров", "correct": false},
+        {"letter": "C", "pt": "200 metros", "transcription": "Дузéнтуш мéтруш", "ru": "200 метров", "correct": false}
+      ]
+    },
+    {
+      "id": 470,
+      "pt": "O caçador ao preparar o disparo com arco ou besta verifica que a presa pressentiu a sua presença e afasta-se pelo que deve:",
+      "transcription": "У касадóр ау препарáр у диспáру кон áрку оу бéшта верифúка ки а прéза прессентúу а сýа презéнса и афáшта-си пéлу ки дéви:",
+      "ru": "Охотник, готовясь к выстрелу из лука или арбалета, замечает, что добыча почуяла его присутствие и удаляется, поэтому он должен:",
+      "options": [
+        {"letter": "A", "pt": "Disparar correndo a mão", "transcription": "Диспарáр коррéнду а мáн", "ru": "Выстрелить с ходу (спешно)", "correct": false},
+        {"letter": "B", "pt": "Esperar que o animal se imobilize", "transcription": "Эшперáр ки у анимáл си имобилúзи", "ru": "Подождать, пока животное остановится", "correct": true},
+        {"letter": "C", "pt": "Disparar calculando o ponto de cruzamento do animal com o projétil", "transcription": "Диспарáр калкулáнду у пóнту ди крузамéнту ду анимáл кон у прожéтил", "ru": "Стрелять, рассчитав точку пересечения животного с снарядом", "correct": false}
+      ]
+    },
+    {
+      "id": 471,
+      "pt": "No exercício da caça com arco ou besta qual a largura mínima de corte das pontas das flechas ou virotões, a utilizar na caça maior?",
+      "transcription": "Ну эзерсúсиу да кáса кон áрку оу бéшта куáл а ларгýра мúнима ди кóрти даш пóнташ даш флéшаш оу виротóйнш, а утилизáр на кáса майóр?",
+      "ru": "При охоте с луком или арбалетом какова минимальная режущая ширина наконечников стрел или болтов для крупной дичи?",
+      "options": [
+        {"letter": "A", "pt": "20 mm", "transcription": "Вúнти милúметруш", "ru": "20 мм", "correct": false},
+        {"letter": "B", "pt": "22 mm", "transcription": "Вúнти-и-дóйш милúметруш", "ru": "22 мм", "correct": false},
+        {"letter": "C", "pt": "25 mm", "transcription": "Вúнти-и-сúнку милúметруш", "ru": "25 мм", "correct": true}
+      ]
+    },
+    {
+      "id": 472,
+      "pt": "No exercício da caça com arco ou besta, ao ultrapassar um obstáculo, o caçador deve:",
+      "transcription": "Ну эзерсúсиу да кáса кон áрку оу бéшта, ау ултрапассáр ун обштáкулу, у касадóр дéви:",
+      "ru": "При охоте с луком или арбалетом, преодолевая препятствие, охотник должен:",
+      "options": [
+        {"letter": "A", "pt": "Atirar a flecha ou virotão para o outro lado do obstáculo", "transcription": "Атирáр а флéша оу виротáн пáра у óутру лáду ду обштáкулу", "ru": "Бросить стрелу или болт на другую сторону препятствия", "correct": false},
+        {"letter": "B", "pt": "Colocar as flechas ou virotões na aljava", "transcription": "Колокáр аш флéшаш оу виротóйнш на альжáва", "ru": "Убрать стрелы или болты в колчан", "correct": true},
+        {"letter": "C", "pt": "Saltar com a flecha ou virotão montado na arma mas sem levar o arco em tensão", "transcription": "Сальтáр кон а флéша оу виротáн монтáду на áрма маш сен левáр у áрку эн тенсáн", "ru": "Перепрыгнуть со стрелой или болтом на оружии, но не натягивая лук", "correct": false}
+      ]
+    },
+    {
+      "id": 473,
+      "pt": "Na caça com arco ou besta, as pontas das flechas ou virotões a utilizar na caça maior devem ter, no mínimo:",
+      "transcription": "На кáса кон áрку оу бéшта, аш пóнташ даш флéшаш оу виротóйнш а утилизáр на кáса майóр дéвэн тер, ну мúниму:",
+      "ru": "При охоте с луком или арбалетом наконечники стрел или болтов для крупной дичи должны иметь минимум:",
+      "options": [
+        {"letter": "A", "pt": "Duas farpas", "transcription": "Дýаш фáрпаш", "ru": "Два зазубренных шипа", "correct": false},
+        {"letter": "B", "pt": "Duas lâminas", "transcription": "Дýаш лáминаш", "ru": "Два лезвия", "correct": true},
+        {"letter": "C", "pt": "Duas lâminas com barbela", "transcription": "Дýаш лáминаш кон барбéла", "ru": "Два лезвия с зазубриной", "correct": false}
+      ]
+    },
+    {
+      "id": 474,
+      "pt": "Na caça com arco ou besta a partir de uma plataforma elevada deve visar-se:",
+      "transcription": "На кáса кон áрку оу бéшта а пáртир ди ýма платафóрма элевáда дéви визáр-си:",
+      "ru": "При охоте с луком или арбалетом с возвышенной платформы (вышки) целиться следует:",
+      "options": [
+        {"letter": "A", "pt": "A coluna vertebral, por causar morte instantânea", "transcription": "А колýна вертебрáл, пур кауза́р мóрти инштантáнеа", "ru": "В позвоночник, так как это вызывает мгновенную смерть", "correct": false},
+        {"letter": "B", "pt": "O tórax, por ser o local onde se encontram órgãos vitais", "transcription": "У тóракс, пур сер у локáл óнди си энкóнтран óргáнуш витáйш", "ru": "В грудную клетку, так как там находятся жизненно важные органы", "correct": true},
+        {"letter": "C", "pt": "O rim, por ser uma zona pouca protegida", "transcription": "У рин, пур сер ýма зóна пóука протежúда", "ru": "В почку, так как это малозащищённая зона", "correct": false}
+      ]
+    }
+  ]
+}
