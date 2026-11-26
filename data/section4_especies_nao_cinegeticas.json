@@ -1,0 +1,1197 @@
+{
+  "section_id": "especies_nao_cinegeticas",
+  "section_name_ru": "Неохотничьи виды",
+  "section_name_pt": "Espécies não cinegéticas",
+  "source": "ICNF - Questionário, Manual para exame de carta de caçador (https://www.icnf.pt/api/file/doc/2d8ae1589afbdf1e)",
+  "questions": [
+    {
+      "id": 321,
+      "pt": "O principal efeito das aves de rapina sobre as presas em geral e a caça em particular:",
+      "transcription": "У принсипáл эфéйту даш áвиш ди рапúна сóбри аш прéзаш эн жерáл и а кáса эн партикулáр:",
+      "ru": "Главный эффект хищных птиц на добычу в целом и на дичь в частности:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "É de extermínio",
+          "transcription": "Э ди эштерминиу",
+          "ru": "Истребляющий",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "É de seleção",
+          "transcription": "Э ди селесáн",
+          "ru": "Отбирающий (селективный)",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "É insignificante",
+          "transcription": "Э инсигнификáнти",
+          "ru": "Незначительный",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 322,
+      "pt": "Qual das frases está incorreta?",
+      "transcription": "Куáл даш фрáзиш эштá инкоррéта?",
+      "ru": "Какое утверждение неверно?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "O açor é uma ave de rapina diurna",
+          "transcription": "У асóр э ýма áви ди рапúна диýрна",
+          "ru": "Ястреб-тетеревятник — дневная хищная птица",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "O grifo é um necrófago",
+          "transcription": "У грúфу э ун некрóфагу",
+          "ru": "Сип (гриф) — падальщик",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "A coruja-do-mato é uma ave de rapina diurna",
+          "transcription": "А корýжа-ду-мáту э ýма áви ди рапúна диýрна",
+          "ru": "Неясыть — дневная хищная птица",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 323,
+      "pt": "Qual dos seguintes grupos é composto só por rapinas diurnas?",
+      "transcription": "Куáл душ сегúнтеш грýпуш э компóшту só пур рапúнаш диýрнаш?",
+      "ru": "Какая из следующих групп состоит исключительно из дневных хищных птиц?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Abutres, águias e mochos",
+          "transcription": "Абýтриш, áгиаш и мóшуш",
+          "ru": "Грифы, орлы и совки",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Bufos, corujas e abutres",
+          "transcription": "Бýфуш, корýжаш и абýтриш",
+          "ru": "Филины, совы и грифы",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Milhafres, falcões e peneireiros",
+          "transcription": "Мильяфриш, фалкóйнш и пенейрéйруш",
+          "ru": "Коршуны, соколы и пустельги",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 324,
+      "pt": "Qual das frases está correta?",
+      "transcription": "Куáл даш фрáзиш эштá коррéта?",
+      "ru": "Какое утверждение верно?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "As aves de rapina são importantes para a caça e para a agricultura",
+          "transcription": "Аш áвиш ди рапúна сáн импортáнтеш пáра а кáса и пáра а агрикултýра",
+          "ru": "Хищные птицы важны для охоты и для сельского хозяйства",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "As aves de rapina são um fator de desequilíbrio nas populações animais",
+          "transcription": "Аш áвиш ди рапúна сáн ун фатóр ди дезекилúбриу наш популасóйнш анимáйш",
+          "ru": "Хищные птицы — фактор дисбаланса в популяциях животных",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "As aves de rapina são o principal fator de diminuição da caça",
+          "transcription": "Аш áвиш ди рапúна сáн у принсипáл фатóр ди диминуисáн да кáса",
+          "ru": "Хищные птицы — главный фактор сокращения дичи",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 325,
+      "pt": "Em termos alimentares, o lince-ibérico é uma espécie:",
+      "transcription": "Эн тéрмуш алиментáреш, у лúнси-ибéрику э ýма эшпéсие:",
+      "ru": "По характеру питания пиренейская рысь — это вид:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Exclusivamente insectívora",
+          "transcription": "Эшклузивáменти инсектúвора",
+          "ru": "Исключительно насекомоядный",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Exclusivamente carnívora",
+          "transcription": "Эшклузивáменти карнúвора",
+          "ru": "Исключительно хищный (плотоядный)",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Omnívora",
+          "transcription": "Омнúвора",
+          "ru": "Всеядный",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 326,
+      "pt": "A alimentação do lince-ibérico baseia-se em:",
+      "transcription": "А алиментасáн ду лúнси-ибéрику базéя-си эн:",
+      "ru": "Питание пиренейской рыси основано на:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Coelhos-bravos",
+          "transcription": "Куэльюш-брáвуш",
+          "ru": "Диких кроликах",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Lebres",
+          "transcription": "Лéбриш",
+          "ru": "Зайцах",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Perdizes",
+          "transcription": "Пердúзеш",
+          "ru": "Куропатках",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 327,
+      "pt": "O lince-ibérico é um animal territorial. Cada animal vive numa área individual que oscila:",
+      "transcription": "У лúнси-ибéрику э ун анимáл территориáл. Кáда анимáл вúви нýма áреа индивидуáл ки ошсúла:",
+      "ru": "Пиренейская рысь — территориальное животное. Каждая особь живёт на индивидуальном участке, который колеблется:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Entre 300 e 500 hectares",
+          "transcription": "Éнтри трезéнтуш и кинжентуш эктáриш",
+          "ru": "Между 300 и 500 гектарами",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Entre 500 e 800 hectares",
+          "transcription": "Éнтри кинжентуш и óйтосентуш эктáриш",
+          "ru": "Между 500 и 800 гектарами",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Entre 700 e 900 hectares",
+          "transcription": "Éнтри сетесéнтуш и новесéнтуш эктáриш",
+          "ru": "Между 700 и 900 гектарами",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 328,
+      "pt": "Em Portugal, a abetarda é uma ave:",
+      "transcription": "Эн Португáл, а абетáрда э ýма áви:",
+      "ru": "В Португалии дрофа — птица:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Residente",
+          "transcription": "Резидéнти",
+          "ru": "Оседлая (резидентная)",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Migradora de inverno",
+          "transcription": "Мигрaдóра ди инвéрну",
+          "ru": "Зимующая перелётная",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Migradora de verão",
+          "transcription": "Мигрaдóра ди верáн",
+          "ru": "Летняя перелётная",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 329,
+      "pt": "A abetarda pode ser observada:",
+      "transcription": "А абетáрда пóди сер обсервáда:",
+      "ru": "Дрофу можно наблюдать:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Nas zonas rochosas e muito declivosas",
+          "transcription": "Наш зóнаш рошóзаш и мýйту деклившаш",
+          "ru": "В скалистых и сильно пересечённых зонах",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Nas planícies cerealíferas abertas",
+          "transcription": "Наш планúсиеш сереалúфераш абéрташ",
+          "ru": "На открытых зерновых равнинах",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Nas zonas densamente arborizadas",
+          "transcription": "Наш зóнаш денсáменти арборизáдаш",
+          "ru": "В густо лесистых зонах",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 330,
+      "pt": "Qual das afirmações está correta?",
+      "transcription": "Куáл даш афирмасóйнш эштá коррéта?",
+      "ru": "Какое из утверждений верно?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "A abetarda é uma espécie cinegética embora não seja permitida a sua caça",
+          "transcription": "А абетáрда э ýма эшпéсие синежéтика эмбóра нан сéжа пермитúда а сýа кáса",
+          "ru": "Дрофа — охотничий вид, хотя охота на неё не разрешена",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "As aves de rapina são importantes para a caça e para a agricultura",
+          "transcription": "Аш áвиш ди рапúна сáн импортáнтеш пáра а кáса и пáра а агрикултýра",
+          "ru": "Хищные птицы важны для охоты и для сельского хозяйства",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "As espécies que não constam do calendário venatório são consideradas protegidas",
+          "transcription": "Аш эшпéсиеш ки нан кóнштан ду календáриу венатóриу сáн консидерáдаш протежúдаш",
+          "ru": "Виды, не входящие в охотничий календарь, считаются охраняемыми",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 331,
+      "pt": "A abetarda:",
+      "transcription": "А абетáрда:",
+      "ru": "Дрофа:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "É uma espécie cinegética e pode ser caçada de outubro a dezembro",
+          "transcription": "Э ýма эшпéсие синежéтика и пóди сер касáда ди оутýбру а дезéмбру",
+          "ru": "Охотничий вид, на который можно охотиться с октября по декабрь",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Não é uma espécie cinegética",
+          "transcription": "Нан э ýма эшпéсие синежéтика",
+          "ru": "Не является охотничьим видом",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "É uma espécie cinegética e pode ser caçada nas condições definidas em edital do Instituto de Conservação da Natureza e das Florestas",
+          "transcription": "Э ýма эшпéсие синежéтика и пóди сер касáда наш кондисóйнш дефинúдаш эн эдитáл ду Ищитýту ди Консервасáн да Натурéза и даш Флорéшташ",
+          "ru": "Охотничий вид, на который можно охотиться на условиях, определённых указом ICNF",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 332,
+      "pt": "Durante a maior parte do ano, as abetardas mantêm-se normalmente:",
+      "transcription": "Дурáнти а майóр пáрти ду áну, аш абетáрдаш мантэн-си нормáлменти:",
+      "ru": "Большую часть года дрофы обычно держатся:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Em bandos separados por sexo",
+          "transcription": "Эн бáндуш сепарáдуш пур сéксу",
+          "ru": "Стаями, разделёнными по полу",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Em casais",
+          "transcription": "Эн казáйш",
+          "ru": "Парами",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Em bandos com exemplares dos dois sexos",
+          "transcription": "Эн бáндуш кон эзэмплáриш душ дóйш сéксуш",
+          "ru": "Стаями со смешанным составом по полу",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 333,
+      "pt": "O lince-ibérico é:",
+      "transcription": "У лúнси-ибéрику э:",
+      "ru": "Пиренейская рысь — это:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Uma espécie de caça maior",
+          "transcription": "Ýма эшпéсие ди кáса майóр",
+          "ru": "Вид крупной дичи",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Uma espécie de caça menor",
+          "transcription": "Ýма эшпéсие ди кáса менóр",
+          "ru": "Вид мелкой дичи",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Uma espécie não cinegética",
+          "transcription": "Ýма эшпéсие нан синежéтика",
+          "ru": "Неохотничий вид",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 334,
+      "pt": "O habitat do lince-ibérico é tipicamente constituído por:",
+      "transcription": "У абитáт ду лúнси-ибéрику э типикáменти конституúду пур:",
+      "ru": "Местообитание пиренейской рыси обычно состоит из:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Matagais densos, em áreas de escassa influência humana",
+          "transcription": "Матагáйш дéнсуш, эн áреаш ди эшкáса инфлуéнсия умáна",
+          "ru": "Густых зарослей кустарника в зонах с минимальным влиянием человека",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Zonas cerealíferas, entrecortadas por bosques de árvores de folha caduca",
+          "transcription": "Зóнаш сереалúфераш, энтрикортáдаш пур бóшкиш ди áрвориш ди фóлья кадýка",
+          "ru": "Зерновых зон, перемежающихся лиственными лесами",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Terrenos muito acidentados, entrecortados com áreas cultivadas",
+          "transcription": "Терéнуш мýйту асидентáдуш, энтрикортáдуш кон áреаш культивáдаш",
+          "ru": "Сильно пересечённой местности, перемежающейся возделанными землями",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 335,
+      "pt": "As aves de rapina merecem o estatuto de espécies integralmente protegidas, pelo que:",
+      "transcription": "Аш áвиш ди рапúна мерéсэн у эштатýту ди эшпéсиеш интегралменти протежúдаш, пéлу ки:",
+      "ru": "Хищные птицы заслуживают статус полностью охраняемых видов, в связи с чем:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Só podem ser caçadas com autorização expressa do ICNF",
+          "transcription": "Só пóдэн сер касáдаш кон аутóризасáн эшпрéса ду ИСЭНЭФЭ",
+          "ru": "На них можно охотиться только с явного разрешения ICNF",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Podem ser caçadas sempre que provoquem prejuízos na agricultura",
+          "transcription": "Пóдэн сер касáдаш сéмпри ки провóкэн прежуúзуш на агрикултýра",
+          "ru": "На них можно охотиться, если они наносят ущерб сельскому хозяйству",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Nunca podem ser caçadas",
+          "transcription": "Нýнка пóдэн сер касáдаш",
+          "ru": "На них нельзя охотиться никогда",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 336,
+      "pt": "A abundância e diversidade das aves de rapina são indicadores seguros de que uma região:",
+      "transcription": "А абундáнсия и диверсидáде даш áвиш ди рапúна сáн индикадóриш сегýруш ди ки ýма режиáн:",
+      "ru": "Обилие и разнообразие хищных птиц — надёжный показатель того, что регион:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Possui comunidades animais ricas e sãs",
+          "transcription": "Посýй комунидáдиш анимáйш рúкаш и сáнш",
+          "ru": "Обладает богатыми и здоровыми животными сообществами",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Possui uma elevada degradação do habitat",
+          "transcription": "Посýй ýма элевáда деградасáн ду абитáт",
+          "ru": "Имеет высокую деградацию местообитания",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Possui fraca densidade das populações presa",
+          "transcription": "Посýй фрáка денсидáде даш популасóйнш прéза",
+          "ru": "Имеет слабую плотность популяций добычи",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 337,
+      "pt": "Em que situação pode ser autorizada a caça à águia-pesqueira?",
+      "transcription": "Эн ки ситуасáн пóди сер ауторизáда а кáса а áгиа-пешкéйра?",
+      "ru": "В какой ситуации может быть разрешена охота на скопу?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Quando se pretende utilizar em cetraria",
+          "transcription": "Куáнду си претéнди утилизáр эн сетрарúа",
+          "ru": "Когда планируется использовать в соколиной охоте",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Desde que tenha carta de caçador de cetreiro",
+          "transcription": "Дéзди киténья кáрта ди касадóр ди сетрéйру",
+          "ru": "При наличии удостоверения охотника-сокольника",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Nunca",
+          "transcription": "Нýнка",
+          "ru": "Никогда",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 338,
+      "pt": "Qual das frases está correta?",
+      "transcription": "Куáл даш фрáзиш эштá коррéта?",
+      "ru": "Какое утверждение верно?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "As aves de rapina capturam, preferencialmente, animais velhos e doentes, contribuindo para a sanidade das populações",
+          "transcription": "Аш áвиш ди рапúна каптýран, преференсиáлменти, анимáйш вéльюш и доéнтеш, контрибуúнду пáра а санидáде даш популасóйнш",
+          "ru": "Хищные птицы преимущественно ловят старых и больных животных, способствуя здоровью популяций",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "As aves de rapina exterminam a caça",
+          "transcription": "Аш áвиш ди рапúна эштермúнан а кáса",
+          "ru": "Хищные птицы истребляют дичь",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "A degradação do habitat provoca o aumento das populações de aves de rapina",
+          "transcription": "А деградасáн ду абитáт провóка у аумéнту даш популасóйнш ди áвиш ди рапúна",
+          "ru": "Деградация местообитания вызывает рост популяций хищных птиц",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 339,
+      "pt": "Qual das espécies mencionadas não é cinegética?",
+      "transcription": "Куáл даш эшпéсиеш менсионáдаш нан э синежéтика?",
+      "ru": "Какой из упомянутых видов не является охотничьим?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "O gaio",
+          "transcription": "У гáйу",
+          "ru": "Сойка",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "O melro",
+          "transcription": "У мéлру",
+          "ru": "Чёрный дрозд",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "O gavião",
+          "transcription": "У гавиáн",
+          "ru": "Перепелятник (ястреб)",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 340,
+      "pt": "Qual das espécies abaixo mencionadas não é cinegética?",
+      "transcription": "Куáл даш эшпéсиеш абáйшу менсионáдаш нан э синежéтика?",
+      "ru": "Какой из перечисленных ниже видов не является охотничьим?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Abibe",
+          "transcription": "Абúби",
+          "ru": "Чибис",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Saca-rabos",
+          "transcription": "Сáка-рáбуш",
+          "ru": "Сака-рабос",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Melro",
+          "transcription": "Мéлру",
+          "ru": "Чёрный дрозд",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 341,
+      "pt": "Indique qual a situação em que se pode caçar uma perdiz-cinzenta ou charrela?",
+      "transcription": "Индúки куáл а ситуасáн эн ки си пóди касáр ýма пердúз-синзéнта оу шаррéла?",
+      "ru": "Укажите, в какой ситуации можно охотиться на серую куропатку (шаррелу)?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Nas condições definidas em edital do Instituto da Conservação da Natureza e das Florestas",
+          "transcription": "Наш кондисóйнш дефинúдаш эн эдитáл ду Ищитýту да Консервасáн да Натурéза и даш Флорéшташ",
+          "ru": "На условиях, определённых указом ICNF",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Em terrenos cinegéticos ordenados",
+          "transcription": "Эн терéнуш синежéтикуш орденáдуш",
+          "ru": "На благоустроенных охотничьих угодьях",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Em nenhuma situação",
+          "transcription": "Эн неньюма ситуасáн",
+          "ru": "Ни в какой ситуации",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 342,
+      "pt": "A qual destas espécies não pode ser autorizada a sua caça?",
+      "transcription": "А куáл дéшташ эшпéсиеш нан пóди сер ауторизáда а сýа кáса?",
+      "ru": "На какой из этих видов нельзя разрешить охоту?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Pato-trombeteiro",
+          "transcription": "Пáту-тромбетéйру",
+          "ru": "Широконоска",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Tarambola-dourada",
+          "transcription": "Тарамбóла-доурáда",
+          "ru": "Золотистая ржанка",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Tarambola-prateada",
+          "transcription": "Тарамбóла-пратеáда",
+          "ru": "Тулес (серебристая ржанка)",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 343,
+      "pt": "Quando se pode caçar um açor?",
+      "transcription": "Куáнду си пóди касáр ун асóр?",
+      "ru": "Когда можно охотиться на ястреба-тетеревятника?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Quando se pretende fazer criação em cativeiro",
+          "transcription": "Куáнду си претéнди фазéр криасáн эн кативéйру",
+          "ru": "Когда планируется разведение в неволе",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Quando se pretende praticar cetraria",
+          "transcription": "Куáнду си претéнди пратикáр сетрарúа",
+          "ru": "Когда планируется заниматься соколиной охотой",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Nunca se pode caçar",
+          "transcription": "Нýнка си пóди касáр",
+          "ru": "Охотиться нельзя никогда",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 344,
+      "pt": "Qual das espécies mencionadas não é cinegética?",
+      "transcription": "Куáл даш эшпéсиеш менсионáдаш нан э синежéтика?",
+      "ru": "Какой из упомянутых видов не является охотничьим?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Pega",
+          "transcription": "Пéга",
+          "ru": "Сорока",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Gaio",
+          "transcription": "Гáйу",
+          "ru": "Сойка",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Abetarda",
+          "transcription": "Абетáрда",
+          "ru": "Дрофа",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 345,
+      "pt": "Indique qual a situação em que se pode capturar uma ave de rapina?",
+      "transcription": "Индúки куáл а ситуасáн эн ки си пóди каптурáр ýма áви ди рапúна?",
+      "ru": "Укажите, в какой ситуации можно отловить хищную птицу?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Quando se pretende utilizar em cetraria",
+          "transcription": "Куáнду си претéнди утилизáр эн сетрарúа",
+          "ru": "Когда планируется использовать в соколиной охоте",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Nenhuma",
+          "transcription": "Неньюма",
+          "ru": "Ни в какой",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Desde que se tenha carta de cetreiro",
+          "transcription": "Дéзди ки си ténья кáрта ди сетрéйру",
+          "ru": "При наличии удостоверения сокольника",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 346,
+      "pt": "Qual das espécies abaixo mencionadas não é cinegética?",
+      "transcription": "Куáл даш эшпéсиеш абáйшу менсионáдаш нан э синежéтика?",
+      "ru": "Какой из перечисленных ниже видов не является охотничьим?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Muflão",
+          "transcription": "Муфлáн",
+          "ru": "Муфлон",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Texugo",
+          "transcription": "Тешýгу",
+          "ru": "Барсук",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Corço",
+          "transcription": "Кóрсу",
+          "ru": "Косуля",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 347,
+      "pt": "Qual das seguintes espécies não pode ser caçada?",
+      "transcription": "Куáл даш сегúнтеш эшпéсиеш нан пóди сер касáда?",
+      "ru": "На какой из следующих видов нельзя охотиться?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Muflão",
+          "transcription": "Муфлáн",
+          "ru": "Муфлон",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Gamo",
+          "transcription": "Гáму",
+          "ru": "Лань",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Charrela ou perdiz-cinzenta",
+          "transcription": "Шаррéла оу пердúз-синзéнта",
+          "ru": "Шаррела (серая куропатка)",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 348,
+      "pt": "As aves de rapina podem ser caçadas?",
+      "transcription": "Аш áвиш ди рапúна пóдэн сер касáдаш?",
+      "ru": "Можно ли охотиться на хищных птиц?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Não",
+          "transcription": "Нан",
+          "ru": "Нет",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Sim, desde que constem na portaria do calendário venatório",
+          "transcription": "Син, дéзди ки кóнштэн на портáриа ду календáриу венатóриу",
+          "ru": "Да, если они указаны в постановлении об охотничьем календаре",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Sim, com uma autorização do Instituto de Conservação da Natureza e das Florestas caso provoquem prejuízos",
+          "transcription": "Син, кон ýма аутóризасáн ду Ищитýту ди Консервасáн да Натурéза и даш Флорéшташ кáзу провóкэн прежуúзуш",
+          "ru": "Да, с разрешения ICNF, если они причиняют ущерб",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 349,
+      "pt": "A abetarda:",
+      "transcription": "А абетáрда:",
+      "ru": "Дрофа:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "É uma espécie cinegética cuja caça pode ser autorizada de outubro a dezembro",
+          "transcription": "Э ýма эшпéсие синежéтика кýжа кáса пóди сер ауторизáда ди оутýбру а дезéмбру",
+          "ru": "Охотничий вид, охота на который может быть разрешена с октября по декабрь",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Não é uma espécie cinegética",
+          "transcription": "Нан э ýма эшпéсие синежéтика",
+          "ru": "Не является охотничьим видом",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "É uma espécie cinegética e pode ser caçada nas condições definidas em edital do Instituto de Conservação da Natureza e das Florestas",
+          "transcription": "Э ýма эшпéсие синежéтика и пóди сер касáда наш кондисóйнш дефинúдаш эн эдитáл ду Ищитýту ди Консервасáн да Натурéза и даш Флорéшташ",
+          "ru": "Охотничий вид, на который можно охотиться на условиях, определённых указом ICNF",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 350,
+      "pt": "Normalmente as aves de rapina têm sobre as populações de espécies cinegéticas de que se alimentam:",
+      "transcription": "Нормáлменти аш áвиш ди рапúна тэн сóбри аш популасóйнш ди эшпéсиеш синежéтикаш ди ки си алиментáн:",
+      "ru": "Обычно хищные птицы оказывают на популяции охотничьих видов, которыми питаются:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Um efeito de seleção tornando-as mais saudáveis",
+          "transcription": "Ун эфéйту ди селесáн торнáнду-аш máйш сауáвэйш",
+          "ru": "Селективный эффект, делающий их более здоровыми",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Um efeito prejudicial, contribuindo para o aumento de doenças",
+          "transcription": "Ун эфéйту прежудисиáл, контрибуúнду пáра у аумéнту ди доэнсаш",
+          "ru": "Вредный эффект, способствующий росту заболеваемости",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Um efeito prejudicial, porque reduzem fortemente as populações cinegéticas",
+          "transcription": "Ун эфéйту прежудисиáл, пуркé редýзэн фортементи аш популасóйнш синежéтикаш",
+          "ru": "Вредный эффект, так как сильно сокращают охотничьи популяции",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 351,
+      "pt": "Qual das espécies mencionadas não é cinegética?",
+      "transcription": "Куáл даш эшпéсиеш менсионáдаш нан э синежéтика?",
+      "ru": "Какой из упомянутых видов не является охотничьим?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Pato branco",
+          "transcription": "Пáту брáнку",
+          "ru": "Белолобый гусь (пату бранку)",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Piadeira",
+          "transcription": "Пиадéйра",
+          "ru": "Свиязь",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Negrinha",
+          "transcription": "Негрúнья",
+          "ru": "Хохлатая чернеть (негринья)",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 352,
+      "pt": "As aves de rapina alimentam-se preferencialmente de:",
+      "transcription": "Аш áвиш ди рапúна алимéнтан-си преференсиáлменти ди:",
+      "ru": "Хищные птицы питаются преимущественно:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Animais mais robustos reduzindo substancialmente as populações",
+          "transcription": "Анимáйш máйш робýштуш редузúнду субстансиáлменти аш популасóйнш",
+          "ru": "Более крепкими животными, существенно сокращая популяции",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Presas mais saudáveis e robustas",
+          "transcription": "Прéзаш máйш сауáвэйш и робýшташ",
+          "ru": "Более здоровой и крепкой добычей",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Presas debilitadas contribuindo assim para populações mais saudáveis",
+          "transcription": "Прéзаш дебилитáдаш контрибуúнду асин пáра популасóйнш máйш сауáвэйш",
+          "ru": "Ослабленной добычей, способствуя тем самым более здоровым популяциям",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 353,
+      "pt": "\"As aves de rapina são importantes para a caça\" é uma afirmação:",
+      "transcription": "Аш áвиш ди рапúна сáн импортáнтеш пáра а кáса э ýма афирмасáн:",
+      "ru": "Утверждение «хищные птицы важны для охоты» является:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Falsa, porque as aves de rapina diminuem drasticamente as populações cinegéticas",
+          "transcription": "Фáльса, пуркé аш áвиш ди рапúна диминýэн драштикаменти аш популасóйнш синежéтикаш",
+          "ru": "Ложным, так как хищные птицы резко сокращают охотничьи популяции",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Falsa, porque as aves de rapina não interferem nas populações das espécies cinegéticas",
+          "transcription": "Фáльса, пуркé аш áвиш ди рапúна нан интерфéрэн наш популасóйнш даш эшпéсиеш синежéтикаш",
+          "ru": "Ложным, так как хищные птицы не влияют на популяции охотничьих видов",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Verdadeiras, porque capturam preferencialmente animais doentes e velhos contribuindo para a sanidade das populações",
+          "transcription": "Вердадéйраш, пуркé каптýран преференсиáлменти анимáйш доéнтеш и вéльюш контрибуúнду пáра а санидáде даш популасóйнш",
+          "ru": "Верным, так как они преимущественно ловят больных и старых животных, способствуя здоровью популяций",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 354,
+      "pt": "Qual das seguintes espécies é protegida:",
+      "transcription": "Куáл даш сегúнтеш эшпéсиеш э протежúда:",
+      "ru": "Какой из следующих видов охраняемый:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Gamo",
+          "transcription": "Гáму",
+          "ru": "Лань",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Lince",
+          "transcription": "Лúнси",
+          "ru": "Рысь",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Muflão",
+          "transcription": "Муфлáн",
+          "ru": "Муфлон",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 355,
+      "pt": "Qual das seguintes espécies não é cinegética?",
+      "transcription": "Куáл даш сегúнтеш эшпéсиеш нан э синежéтика?",
+      "ru": "Какой из следующих видов не является охотничьим?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Gamo",
+          "transcription": "Гáму",
+          "ru": "Лань",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Muflão",
+          "transcription": "Муфлáн",
+          "ru": "Муфлон",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Lince",
+          "transcription": "Лúнси",
+          "ru": "Рысь",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 356,
+      "pt": "Qual destas espécies não é cinegética?",
+      "transcription": "Куáл дéшташ эшпéсиеш нан э синежéтика?",
+      "ru": "Какой из этих видов не является охотничьим?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Gaio",
+          "transcription": "Гáйу",
+          "ru": "Сойка",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Lobo",
+          "transcription": "Лóбу",
+          "ru": "Волк",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Pega-rabuda",
+          "transcription": "Пéга-рабýда",
+          "ru": "Сорока",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 357,
+      "pt": "Durante a maior parte do ano, as abetardas:",
+      "transcription": "Дурáнти а майóр пáрти ду áну, аш абетáрдаш:",
+      "ru": "Большую часть года дрофы:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Vivem em bandos do mesmo sexo",
+          "transcription": "Вúвэн эн бáндуш ду мéзму сéксу",
+          "ru": "Живут стаями одного пола",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Vivem em bandos de ambos os sexos",
+          "transcription": "Вúвэн эн бáндуш ди áмбуш уш сéксуш",
+          "ru": "Живут смешанными по полу стаями",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Vivem em casais",
+          "transcription": "Вúвэн эн казáйш",
+          "ru": "Живут парами",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 358,
+      "pt": "Qual das seguintes espécies não é cinegética?",
+      "transcription": "Куáл даш сегúнтеш эшпéсиеш нан э синежéтика?",
+      "ru": "Какой из следующих видов не является охотничьим?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Arrabio",
+          "transcription": "Аррáбиу",
+          "ru": "Шилохвость",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Milhafre",
+          "transcription": "Мильяфри",
+          "ru": "Коршун",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Pato-trombeteiro",
+          "transcription": "Пáту-тромбетéйру",
+          "ru": "Широконоска",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 359,
+      "pt": "Qual das seguintes espécies é protegida?",
+      "transcription": "Куáл даш сегúнтеш эшпéсиеш э протежúда?",
+      "ru": "Какой из следующих видов охраняемый?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Águia-imperial",
+          "transcription": "Áгиа-империáл",
+          "ru": "Испанский орёл-могильник",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Tarambola-dourada",
+          "transcription": "Тарамбóла-доурáда",
+          "ru": "Золотистая ржанка",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Narceja-comum",
+          "transcription": "Нарсéжа-комýн",
+          "ru": "Обыкновенный бекас",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 360,
+      "pt": "Indique qual o grupo constituído unicamente por espécies cinegéticas:",
+      "transcription": "Индúки куáл у грýпу конституúду уникаменти пур эшпéсиеш синежéтикаш:",
+      "ru": "Укажите, какая группа состоит исключительно из охотничьих видов:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Abetarda, arrabio, tarambola-prateada",
+          "transcription": "Абетáрда, аррáбиу, тарамбóла-пратеáда",
+          "ru": "Дрофа, шилохвость, тулес",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Perdiz-cinzenta, piadeira, narceja-grande",
+          "transcription": "Пердúз-синзéнта, пиадéйра, нарсéжа-грáнди",
+          "ru": "Серая куропатка, свиязь, дупель",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Narceja-galega, pega-rabuda, saca-rabos",
+          "transcription": "Нарсéжа-галéга, пéга-рабýда, сáка-рáбуш",
+          "ru": "Гаршнеп, сорока, сака-рабос",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 361,
+      "pt": "Em que situação se podem caçar aves de rapina?",
+      "transcription": "Эн ки ситуасáн си пóдэн касáр áвиш ди рапúна?",
+      "ru": "В какой ситуации можно охотиться на хищных птиц?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Quando causam prejuízos na agricultura",
+          "transcription": "Куáнду кáузан прежуúзуш на агрикултýра",
+          "ru": "Когда они наносят ущерб сельскому хозяйству",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Quando o Instituto da Conservação da Natureza e das Florestas autoriza",
+          "transcription": "Куáнду у Ищитýту да Консервасáн да Натурéза и даш Флорéшташ аутóриза",
+          "ru": "Когда это разрешает ICNF",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Nunca",
+          "transcription": "Нýнка",
+          "ru": "Никогда",
+          "correct": true
+        }
+      ]
+    }
+  ]
+}
