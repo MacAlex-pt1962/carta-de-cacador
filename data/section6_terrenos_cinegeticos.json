@@ -1,0 +1,41 @@
+{
+  "section_id": "terrenos_cinegeticos",
+  "section_name_ru": "Охотничьи угодья",
+  "section_name_pt": "Terrenos cinegéticos",
+  "source": "ICNF - Questionário, Manual para exame de carta de caçador (https://www.icnf.pt/api/file/doc/2d8ae1589afbdf1e)",
+  "questions": [
+    {
+      "id": 413,
+      "pt": "Como é que um caçador pode ter acesso a uma zona de caça municipal?",
+      "transcription": "Кóму э ки ун касадóр пóди тер асéсу а ýма зóна ди кáса муниципáл?",
+      "ru": "Как охотник может получить доступ к муниципальному охотничьему угодью?",
+      "options": [
+        {"letter": "A", "pt": "Só se fizer a inscrição prévia e for contemplado em sorteio público", "transcription": "Só си физéр а инскрисáн прéвиа и фор контемплáду эн сортéйу пýблику", "ru": "Только если подаст предварительную заявку и будет отобран в публичной жеребьёвке", "correct": true},
+        {"letter": "B", "pt": "Só se for associado da zona de caça municipal", "transcription": "Só си фор асосиáду да зóна ди кáса муниципáл", "ru": "Только если является членом муниципального охотничьего угодья", "correct": false},
+        {"letter": "C", "pt": "Só se for proprietário de terrenos integrados na zona de caça municipal", "transcription": "Só си фор проприетáриу ди терéнуш интеградуш на зóна ди кáса муниципáл", "ru": "Только если является собственником земель, входящих в муниципальное угодье", "correct": false}
+      ]
+    },
+    {
+      "id": 414,
+      "pt": "Têm acesso às zonas de caça turísticas:",
+      "transcription": "Тэн асéсу аш зóнаш ди кáса турúштикаш:",
+      "ru": "Доступ к туристическим охотничьим угодьям имеют:",
+      "options": [
+        {"letter": "A", "pt": "Só os proprietários dos terrenos e seus convidados", "transcription": "Só уш проприетáриуш душ терéнуш и сéуш конвидáдуш", "ru": "Только собственники земель и их гости", "correct": false},
+        {"letter": "B", "pt": "Só os caçadores estrangeiros, os sócios e seus convidados", "transcription": "Só уш касадóриш эштранжéйруш, уш сóсиуш и сéуш конвидáдуш", "ru": "Только иностранные охотники, члены и их гости", "correct": false},
+        {"letter": "C", "pt": "Todos os caçadores que cumpram as normas privativas de funcionamento das mesmas", "transcription": "Тóдуш уш касадóриш ки кýмпран аш нóрмаш приватúваш ди функсионамéнту даш мéзмаш", "ru": "Все охотники, соблюдающие собственные правила функционирования этих угодий", "correct": true}
+      ]
+    },
+    {
+      "id": 415,
+      "pt": "Têm acesso às zonas de caça associativas:",
+      "transcription": "Тэн асéсу аш зóнаш ди кáса асосиатúваш:",
+      "ru": "Доступ к ассоциативным (кооперативным) охотничьим угодьям имеют:",
+      "options": [
+        {"letter": "A", "pt": "Só os proprietários dos terrenos", "transcription": "Só уш проприетáриуш душ терéнуш", "ru": "Только собственники земель", "correct": false},
+        {"letter": "B", "pt": "Só os caçadores estrangeiros", "transcription": "Só уш касадóриш эштранжéйруш", "ru": "Только иностранные охотники", "correct": false},
+        {"letter": "C", "pt": "Só os caçadores associados e os convidados", "transcription": "Só уш касадóриш асосиáдуш и уш конвидáдуш", "ru": "Только охотники-члены ассоциации и их гости", "correct": true}
+      ]
+    }
+  ]
+}
