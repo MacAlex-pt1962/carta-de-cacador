@@ -1,0 +1,1487 @@
+{
+  "section_id": "condicionamentos_gerais",
+  "section_name_ru": "Общие ограничения на охоту",
+  "section_name_pt": "Condicionamentos venatórios gerais",
+  "source": "ICNF - Questionário, Manual para exame de carta de caçador (https://www.icnf.pt/api/file/doc/2d8ae1589afbdf1e)",
+  "questions": [
+    {
+      "id": 362,
+      "pt": "Em que locais é proibido caçar, bem como numa faixa de proteção de 500 metros?",
+      "transcription": "Эн ки локáйш э проибúду касáр, бэн кóму нýма фáйша ди протесáн ди кинжéнтуш мéтруш?",
+      "ru": "В каких местах запрещена охота, а также в защитной полосе 500 метров?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Nos povoados",
+          "transcription": "Нуш повоáдуш",
+          "ru": "В населённых пунктах",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Nos terrenos adjacentes a estabelecimentos hospitalares",
+          "transcription": "Нуш терéнуш ажасéнтиш а эштабелесимéнтуш оспиталáриш",
+          "ru": "На землях, прилегающих к больничным учреждениям",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Nos terrenos ocupados com culturas frutícolas",
+          "transcription": "Нуш терéнуш окупáдуш кон культýраш фрутúколаш",
+          "ru": "На землях, занятых плодовыми культурами",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 363,
+      "pt": "Em que locais é proibido caçar, bem como numa faixa de proteção de 500 metros?",
+      "transcription": "Эн ки локáйш э проибúду касáр, бэн кóму нýма фáйша ди протесáн ди кинжéнтуш мéтруш?",
+      "ru": "В каких местах запрещена охота, а также в защитной полосе 500 метров?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Nos terrenos adjacentes a instalações militares ou de forças de segurança",
+          "transcription": "Нуш терéнуш ажасéнтиш а инсталасóйнш милитáриш оу ди фóрсаш ди сегурáнса",
+          "ru": "На землях, прилегающих к военным объектам или силам безопасности",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Das linhas de caminho-de-ferro",
+          "transcription": "Даш лúньяш ди каминью-ди-фéрру",
+          "ru": "От железнодорожных путей",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Nos terrenos ocupados com culturas hortícolas",
+          "transcription": "Нуш терéнуш окупáдуш кон культýраш ортúколаш",
+          "ru": "На землях, занятых овощными культурами",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 364,
+      "pt": "Nas estradas nacionais e linhas de caminho-de-ferro, é:",
+      "transcription": "Наш эштрáдаш насионáйш и лúньяш ди каминью-ди-фéрру, э:",
+      "ru": "На национальных дорогах и железнодорожных путях:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Proibido caçar, bem como numa faixa de proteção de 100 metros",
+          "transcription": "Проибúду касáр, бэн кóму нýма фáйша ди протесáн ди сэн мéтруш",
+          "ru": "Запрещено охотиться, а также в защитной полосе 100 метров",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Proibido caçar, bem como numa faixa de proteção de 250 metros",
+          "transcription": "Проибúду касáр, бэн кóму нýма фáйша ди протесáн ди дузéнтуш-и-синкóэнта мéтруш",
+          "ru": "Запрещено охотиться, а также в защитной полосе 250 метров",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Proibido caçar, mas só quando existe trânsito",
+          "transcription": "Проибúду касáр, маш só куáнду эжúщти трáнзиту",
+          "ru": "Запрещено охотиться, но только при наличии движения",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 365,
+      "pt": "É proibido caçar nos povoados e numa faixa de proteção de:",
+      "transcription": "Э проибúду касáр нуш повоáдуш и нýма фáйша ди протесáн ди:",
+      "ru": "Запрещена охота в населённых пунктах, а также в защитной полосе:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "500 metros",
+          "transcription": "Кинжéнтуш мéтруш",
+          "ru": "500 метров",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "250 metros",
+          "transcription": "Дузéнтуш-и-синкóэнта мéтруш",
+          "ru": "250 метров",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "750 metros",
+          "transcription": "Сэтесéнтуш-и-синкóэнта мéтруш",
+          "ru": "750 метров",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 366,
+      "pt": "Em que locais é proibido caçar, bem como numa faixa de proteção de 500 metros?",
+      "transcription": "Эн ки локáйш э проибúду касáр, бэн кóму нýма фáйша ди протесáн ди кинжéнтуш мéтруш?",
+      "ru": "В каких местах запрещена охота, а также в защитной полосе 500 метров?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Estradas nacionais, itinerários principais e autoestradas",
+          "transcription": "Эштрáдаш насионáйш, итинерáриуш принсипáйш и аутуэштрáдаш",
+          "ru": "Национальные дороги, главные маршруты и автомагистрали",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Praias de banho e terrenos adjacentes a estabelecimentos de ensino",
+          "transcription": "Прáяш ди бáнью и терéнуш ажасéнтиш а эштабелесимéнтуш ди энсúну",
+          "ru": "Пляжи для купания и земли, прилегающие к учебным заведениям",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Aeródromos, estradas regionais e estradas municipais",
+          "transcription": "Аэрóдромуш, эштрáдаш режионáйш и эштрáдаш муниципáйш",
+          "ru": "Аэродромы, региональные и муниципальные дороги",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 367,
+      "pt": "Em que locais é proibido caçar, bem como em quaisquer terrenos que os circundem numa faixa de proteção de 100 metros?",
+      "transcription": "Эн ки локáйш э проибúду касáр, бэн кóму эн куайшкéр терéнуш ки уш сиркýндэн нýма фáйша ди протесáн ди сэн мéтруш?",
+      "ru": "В каких местах запрещена охота, а также на любых окружающих их землях в защитной полосе 100 метров?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Nos apiários e pombais devidamente sinalizados",
+          "transcription": "Нуз апиáриуш и помбáйш девидаменти синализáдуш",
+          "ru": "На надлежаще обозначенных пасеках и голубятнях",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Nos aparcamentos de gado devidamente sinalizados",
+          "transcription": "Нуз апаркамéнтуш ди гáду девидаменти синализáдуш",
+          "ru": "На надлежаще обозначенных загонах для скота",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Nos olivais e pomares com instalação de rega gota-a-gota",
+          "transcription": "Нуз оливáйш и помáриш кон инсталасáн ди рéга гóта-а-гóта",
+          "ru": "В оливковых рощах и садах с капельным орошением",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 368,
+      "pt": "É proibido caçar numa faixa de proteção de 500 metros em terrenos adjacentes a:",
+      "transcription": "Э проибúду касáр нýма фáйша ди протесáн ди кинжéнтуш мéтруш эн терéнуш ажасéнтиш а:",
+      "ru": "Запрещена охота в защитной полосе 500 метров на землях, прилегающих к:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Aeródromos, cemitérios, estradas regionais e estradas municipais",
+          "transcription": "Аэрóдромуш, семитéриуш, эштрáдаш режионáйш и эштрáдаш муниципáйш",
+          "ru": "Аэродромам, кладбищам, региональным и муниципальным дорогам",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Instalações turísticas, parques de campismo e desportivos",
+          "transcription": "Инсталасóйнш турúштикаш, пáркиш ди кампúзму и дешпортúвуш",
+          "ru": "Туристическим объектам, кемпингам и спортивным паркам",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Áreas de refúgio de caça e aparcamentos de gado devidamente sinalizados",
+          "transcription": "Áреаш ди рефýжиу ди кáса и апаркамéнтуш ди гáду девидаменти синализáдуш",
+          "ru": "Охотничьим заказникам и надлежаще обозначенным загонам для скота",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 369,
+      "pt": "É sempre proibido caçar:",
+      "transcription": "Э сéмпри проибúду касáр:",
+      "ru": "Охота всегда запрещена:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Nos aeródromos, cemitérios e estradas municipais",
+          "transcription": "Нуз аэрóдромуш, семитéриуш и эштрáдаш муниципáйш",
+          "ru": "На аэродромах, кладбищах и муниципальных дорогах",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Nos terrenos ocupados com plantações florestais com altura média superior a 1,50 metros",
+          "transcription": "Нуш терéнуш окупáдуш кон плантасóйнш флорештáйш кон алтýра мéдиа супериóр а ýн вúргула синкóэнта мéтруш",
+          "ru": "На землях с лесными насаждениями средней высотой более 1,50 метра",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Nos olivais, pomares e vinhas",
+          "transcription": "Нуз оливáйш, помáриш и вúньяш",
+          "ru": "В оливковых рощах, садах и виноградниках",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 370,
+      "pt": "É proibido caçar:",
+      "transcription": "Э проибúду касáр:",
+      "ru": "Запрещена охота:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "A 300 metros das casas de habitação",
+          "transcription": "А трезéнтуш мéтруш даш кáзаш ди абитасáн",
+          "ru": "В 300 метрах от жилых домов",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "A 250 metros de uma estrada nacional",
+          "transcription": "А дузéнтуш-и-синкóэнта мéтруш ди ýма эштрáда насионáл",
+          "ru": "В 250 метрах от национальной дороги",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Nos aparcamentos de gado",
+          "transcription": "Нуз апаркамéнтуш ди гáду",
+          "ru": "В загонах для скота",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 371,
+      "pt": "Num aparcamento de gado devidamente sinalizado:",
+      "transcription": "Нун апаркамéнту ди гáду девидаменти синализáду:",
+      "ru": "В надлежаще обозначенном загоне для скота:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "É proibido caçar",
+          "transcription": "Э проибúду касáр",
+          "ru": "Охота запрещена",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "É proibido caçar a menos de 250 metros dos animais",
+          "transcription": "Э проибúду касáр а мéнуш ди дузéнтуш-и-синкóэнта мéтруш душ анимáйш",
+          "ru": "Запрещена охота ближе 250 метров от животных",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "É proibido caçar a menos de 100 metros de gado bravo",
+          "transcription": "Э проибúду касáр а мéнуш ди сэн мéтруш ди гáду брáву",
+          "ru": "Запрещена охота ближе 100 метров от полудикого скота",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 372,
+      "pt": "Nos locais abaixo indicados é proibido caçar sem consentimento de quem de direito, mas há um deles que carece obrigatoriamente de sinalização. Qual é?",
+      "transcription": "Нуш локáйш абáйшу индикáдуш э проибúду касáр сен консентимéнту ди кэн ди дирéйту, маш á ун дэлиш ки карéси обригаториáменти ди синализасáн. Куáл э?",
+      "ru": "В указанных ниже местах охота без согласия правомочного лица запрещена, но для одного из них обязательна маркировка. Какое это место?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Quintais anexos a casas de habitação",
+          "transcription": "Кинтáйш анéксуш а кáзаш ди абитасáн",
+          "ru": "Приусадебные участки при жилых домах",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Jardins anexos a casas de habitação",
+          "transcription": "Жардúнш анéксуш а кáзаш ди абитасáн",
+          "ru": "Сады при жилых домах",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Zonas de caça",
+          "transcription": "Зóнаш ди кáса",
+          "ru": "Охотничьи угодья",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 373,
+      "pt": "Num olival, onde esteja este sinal, pode-se caçar?",
+      "transcription": "Нун оливáл, óнди эштéжа éщти синáл, пóди-си касáр?",
+      "ru": "В оливковой роще, где установлен этот знак, можно ли охотиться?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Não",
+          "transcription": "Нан",
+          "ru": "Нет",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Sim",
+          "transcription": "Син",
+          "ru": "Да",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Sim, desde que não tenha azeitona",
+          "transcription": "Син, дéзди ки нан ténья азейтóна",
+          "ru": "Да, если нет оливок",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 374,
+      "pt": "É proibido o exercício da caça numa estrada nacional, bem como numa faixa de proteção de:",
+      "transcription": "Э проибúду у эзерсúсиу да кáса нýма эштрáда насионáл, бэн кóму нýма фáйша ди протесáн ди:",
+      "ru": "Охота запрещена на национальной дороге, а также в защитной полосе:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "100 metros",
+          "transcription": "Сэн мéтруш",
+          "ru": "100 метров",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "250 metros",
+          "transcription": "Дузéнтуш-и-синкóэнта мéтруш",
+          "ru": "250 метров",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "300 metros",
+          "transcription": "Трезéнтуш мéтруш",
+          "ru": "300 метров",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 375,
+      "pt": "Este sinal indica:",
+      "transcription": "Éщти синáл индúка:",
+      "ru": "Этот знак указывает:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Zona de caça turística",
+          "transcription": "Зóна ди кáса турúштика",
+          "ru": "Туристическое охотничье угодье",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Proibição de caçar",
+          "transcription": "Проибисáн ди касáр",
+          "ru": "Запрет охоты",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Aparcamento de gado",
+          "transcription": "Апаркамéнту ди гáду",
+          "ru": "Загон для скота",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 376,
+      "pt": "A partir de que distância de uma escola se pode caçar?",
+      "transcription": "А пáртир ди ки диштáнсия ди ýма эшкóла си пóди касáр?",
+      "ru": "Начиная с какого расстояния от школы можно охотиться?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "150 metros",
+          "transcription": "Сэн-и-синкóэнта мéтруш",
+          "ru": "150 метров",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "200 metros",
+          "transcription": "Дузéнтуш мéтруш",
+          "ru": "200 метров",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "500 metros",
+          "transcription": "Кинжéнтуш мéтруш",
+          "ru": "500 метров",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 377,
+      "pt": "É proibido caçar nas áreas percorridas por incêndios bem como numa faixa de 250 metros em redor:",
+      "transcription": "Э проибúду касáр наз áреаш перкорúдаш пур инсéндиуш бэн кóму нýма фáйша ди дузéнтуш-и-синкóэнта мéтруш эн редóр:",
+      "ru": "Запрещена охота на территориях, пройденных пожарами, а также в полосе 250 метров вокруг них:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Só enquanto dura o incêndio",
+          "transcription": "Só энкуáнту дýра у инсéндиу",
+          "ru": "Только пока длится пожар",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Enquanto dura o incêndio e durante os 30 dias seguintes",
+          "transcription": "Энкуáнту дýра у инсéндиу и дурáнти уш трúнта дúаш сегúнтеш",
+          "ru": "Пока длится пожар и в течение следующих 30 дней",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Enquanto dura o incêndio e durante os 10 dias seguintes",
+          "transcription": "Энкуáнту дýра у инсéндиу и дурáнти уш дэш дúаш сегúнтеш",
+          "ru": "Пока длится пожар и в течение следующих 10 дней",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 378,
+      "pt": "Em terrenos cinegéticos não ordenados, na caça de salto uma linha de caçadores não pode incluir mais de:",
+      "transcription": "Эн терéнуш синежéтикуш нан орденáдуш, на кáса ди сáлту ýма лúнья ди касадóриш нан пóди инклуúр máйш ди:",
+      "ru": "На неблагоустроенных охотничьих угодьях при охоте «де сальто» (загоном) линия охотников не может включать более:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "2 caçadores",
+          "transcription": "Дóйш касадóриш",
+          "ru": "2 охотников",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "5 caçadores",
+          "transcription": "Сúнку касадóриш",
+          "ru": "5 охотников",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "10 Caçadores",
+          "transcription": "Дэш касадóриш",
+          "ru": "10 охотников",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 379,
+      "pt": "É proibido caçar nas praias de banho bem como numa faixa de proteção de:",
+      "transcription": "Э проибúду касáр наш прáяш ди бáнью бэн кóму нýма фáйша ди протесáн ди:",
+      "ru": "Запрещена охота на пляжах для купания, а также в защитной полосе:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "500 metros",
+          "transcription": "Кинжéнтуш мéтруш",
+          "ru": "500 метров",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "150 metros",
+          "transcription": "Сэн-и-синкóэнта мéтруш",
+          "ru": "150 метров",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "100 metros",
+          "transcription": "Сэн мéтруш",
+          "ru": "100 метров",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 380,
+      "pt": "A proibição de caçar sem consentimento de quem de direito, só é eficaz e depende de sinalização em que situação?",
+      "transcription": "А проибисáн ди касáр сен консентимéнту ди кэн ди дирéйту, só э эфикáз и депéнди ди синализасáн эн ки ситуасáн?",
+      "ru": "В какой ситуации запрет охоты без согласия правомочного лица действует только при наличии маркировки?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Nos terrenos circundados em toda sua extensão por um muro de 1,5 metros de altura",
+          "transcription": "Нуш терéнуш сиркундáдуш эн тóда сýа эштенсáн пур ун мýру ди ýн вúргула синкóэнта мéтруш ди алтýра",
+          "ru": "На землях, полностью окружённых стеной высотой 1,5 метра",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Nos quintais anexos a casas de habitação",
+          "transcription": "Нуш кинтáйш анéксуш а кáзаш ди абитасáн",
+          "ru": "На приусадебных участках при жилых домах",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Nas zonas de caça",
+          "transcription": "Наш зóнаш ди кáса",
+          "ru": "На охотничьих угодьях",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 381,
+      "pt": "Qual das afirmações está correta?",
+      "transcription": "Куáл даш афирмасóйнш эштá коррéта?",
+      "ru": "Какое из утверждений верно?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "É permitido caçar a mais de 100 metros das linhas de caminho de ferro",
+          "transcription": "Э пермитúду касáр а máйш ди сэн мéтруш даш лúньяш ди каминью ди фéрру",
+          "ru": "Разрешено охотиться на расстоянии более 100 метров от железнодорожных путей",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "É permitido caçar a mais de 100 metros das praias de banho",
+          "transcription": "Э пермитúду касáр а máйш ди сэн мéтруш даш прáяш ди бáнью",
+          "ru": "Разрешено охотиться на расстоянии более 100 метров от пляжей для купания",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "É permitido caçar a mais de 100 metros dos aeroportos",
+          "transcription": "Э пермитúду касáр а máйш ди сэн мéтруш дуз аэропóртуш",
+          "ru": "Разрешено охотиться на расстоянии более 100 метров от аэропортов",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 382,
+      "pt": "É proibido o exercício da caça numa linha de caminho-de-ferro, bem como numa faixa de proteção de:",
+      "transcription": "Э проибúду у эзерсúсиу да кáса нýма лúнья ди каминью-ди-фéрру, бэн кóму нýма фáйша ди протесáн ди:",
+      "ru": "Охота запрещена на железнодорожном пути, а также в защитной полосе:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "100 metros",
+          "transcription": "Сэн мéтруш",
+          "ru": "100 метров",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "150 metros",
+          "transcription": "Сэн-и-синкóэнта мéтруш",
+          "ru": "150 метров",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "200 metros",
+          "transcription": "Дузéнтуш мéтруш",
+          "ru": "200 метров",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 383,
+      "pt": "Numa faixa de terreno de 100 metros ao longo das linhas de caminho-de-ferro, o caçador:",
+      "transcription": "Нýма фáйша ди терéну ди сэн мéтруш ау лóнгу даш лúньяш ди каминью-ди-фéрру, у касадóр:",
+      "ru": "В полосе земли шириной 100 метров вдоль железнодорожных путей охотник:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Nunca pode caçar",
+          "transcription": "Нýнка пóди касáр",
+          "ru": "Никогда не может охотиться",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Pode caçar com consentimento de quem de direito",
+          "transcription": "Пóди касáр кон консентимéнту ди кэн ди дирéйту",
+          "ru": "Может охотиться с согласия правомочного лица",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Pode caçar sem arma de fogo",
+          "transcription": "Пóди касáр сен áрма ди фóгу",
+          "ru": "Может охотиться без огнестрельного оружия",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 384,
+      "pt": "Qual das afirmações está correta?",
+      "transcription": "Куáл даш афирмасóйнш эштá коррéта?",
+      "ru": "Какое из утверждений верно?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "É permitido caçar a 250 metros das linhas de caminho-de-ferro",
+          "transcription": "Э пермитúду касáр а дузéнтуш-и-синкóэнта мéтруш даш лúньяш ди каминью-ди-фéрру",
+          "ru": "Разрешено охотиться в 250 метрах от железнодорожных путей",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "É permitido caçar a 250 metros das praias de banho",
+          "transcription": "Э пермитúду касáр а дузéнтуш-и-синкóэнта мéтруш даш прáяш ди бáнью",
+          "ru": "Разрешено охотиться в 250 метрах от пляжей для купания",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "É permitido caçar a 250 metros dos aeroportos",
+          "transcription": "Э пермитúду касáр а дузéнтуш-и-синкóэнта мéтруш дуз аэропóртуш",
+          "ru": "Разрешено охотиться в 250 метрах от аэропортов",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 385,
+      "pt": "Qual das seguintes frases está correta?",
+      "transcription": "Куáл даш сегúнтеш фрáзиш эштá коррéта?",
+      "ru": "Какое из следующих утверждений верно?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "É crime caçar com uma taxa de álcool no sangue inferior a 1,2 g/l",
+          "transcription": "Э крúми касáр кон ýма тáша ди áлкоол ну сáнги инфериóр а ýн вúргула дóйш грáмаш пур лúтру",
+          "ru": "Является преступлением охотиться с концентрацией алкоголя в крови менее 1,2 г/л",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "É crime caçar javalis em terrenos cobertos de neve",
+          "transcription": "Э крúми касáр жавалúш эн терéнуш кобéртуш ди нéви",
+          "ru": "Является преступлением охотиться на кабанов на заснеженных землях",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "É crime caçar em zonas de caça às quais não se tenha legalmente acesso",
+          "transcription": "Э крúми касáр эн зóнаш ди кáса аш куáйш нан си ténья легáлменти асéсу",
+          "ru": "Является преступлением охотиться на угодьях, к которым нет законного доступа",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 386,
+      "pt": "Constitui crime de caça:",
+      "transcription": "Конштитýй крúми ди кáса:",
+      "ru": "Является охотничьим преступлением:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Caçar a 50 metros das estradas municipais alcatroadas",
+          "transcription": "Касáр а синкóэнта мéтруш даш эштрáдаш муниципáйш алкатроáдаш",
+          "ru": "Охота в 50 метрах от асфальтированных муниципальных дорог",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Utilizar auxiliares fora das condições estabelecidas",
+          "transcription": "Утилизáр аушилиáриш фóра даш кондисóйнш эштабелесúдаш",
+          "ru": "Использование вспомогательных животных вне установленных условий",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Utilizar chamarizes na caça aos patos",
+          "transcription": "Утилизáр шамарúзиш на кáса аош пáтуш",
+          "ru": "Использование манков при охоте на уток",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 387,
+      "pt": "Indique qual das frases está correta:",
+      "transcription": "Индúки куáл даш фрáзиш эштá коррéта:",
+      "ru": "Укажите, какое из утверждений верно:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "É permitido caçar as espécies que constem do calendário venatório publicado anualmente",
+          "transcription": "Э пермитúду касáр аш эшпéсиеш ки кóнштэн ду календáриу венатóриу публикáду ануáлменти",
+          "ru": "Разрешено охотиться на виды, указанные в ежегодно публикуемом охотничьем календаре",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "É permitido caçar todas as espécies classificadas como cinegéticas",
+          "transcription": "Э пермитúду касáр тóдаш аш эшпéсиеш класификáдаш кóму синежéтикаш",
+          "ru": "Разрешено охотиться на все виды, классифицированные как охотничьи",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "É permitido caçar qualquer espécie que cause prejuízos na agricultura",
+          "transcription": "Э пермитúду касáр куалкéр эшпéсие ки кáузи прежуúзуш на агрикултýра",
+          "ru": "Разрешено охотиться на любой вид, наносящий ущерб сельскому хозяйству",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 388,
+      "pt": "A utilização de cartuchos carregados com zagalotes:",
+      "transcription": "А утилизасáн ди картýшуш каррегáдуш кон загалóтиш:",
+      "ru": "Использование патронов, снаряжённых картечью (загалóтиш):",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "É permitida aos associados das zonas de caça associativas nas batidas às raposas",
+          "transcription": "Э пермитúда аош асосиáдуш даш зóнаш ди кáса асосиатúваш наш батúдаш аш рапóзаш",
+          "ru": "Разрешено членам кооперативных охотничьих угодий на облавах на лис",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "É permitida aos caçadores das zonas de caça municipais nas montarias aos javalis",
+          "transcription": "Э пермитúда аош касадóриш даш зóнаш ди кáса муниципáйш наш монтарúаш аош жавалúш",
+          "ru": "Разрешено охотникам муниципальных угодий на облавных охотах на кабанов",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "É proibida na caça",
+          "transcription": "Э проибúда на кáса",
+          "ru": "Запрещено на охоте",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 389,
+      "pt": "Os cartuchos carregados com chumbos de diâmetro superior a 4,5 mm, vulgarmente designados por zagalotes:",
+      "transcription": "Уш картýшуш каррегáдуш кон шýмбуш ди диáметру супериóр а куáтру вúргула синку милúметруш, вулгáрменти дезигнáдуш пур загалóтиш:",
+      "ru": "Патроны, снаряжённые дробью диаметром более 4,5 мм, в народе называемой картечью (загалóтиш):",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Podem ser utilizados na caça à raposa",
+          "transcription": "Пóдэн сер утилизáдуш на кáса а рапóза",
+          "ru": "Можно использовать при охоте на лис",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Não podem ser utilizados na caça",
+          "transcription": "Нан пóдэн сер утилизáдуш на кáса",
+          "ru": "Нельзя использовать на охоте",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Podem ser utilizados na caça ao veado pelo processo de aproximação",
+          "transcription": "Пóдэн сер утилизáдуш на кáса ау виáду пéлу просéссу ди апроксимасáн",
+          "ru": "Можно использовать при охоте на благородного оленя скрадом",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 390,
+      "pt": "Na caça às espécies de caça menor sedentária:",
+      "transcription": "На кáса аш эшпéсиеш ди кáса менóр седентáрия:",
+      "ru": "При охоте на виды оседлой мелкой дичи:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "É proibida a utilização e a detenção de cartuchos carregados com bala",
+          "transcription": "Э проибúда а утилизасáн и а детенсáн ди картýшуш каррегáдуш кон бáла",
+          "ru": "Запрещено использование и хранение патронов, снаряжённых пулей",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "É proibida a utilização e a detenção de cartuchos carregados com chumbos",
+          "transcription": "Э проибúда а утилизасáн и а детенсáн ди картýшуш каррегáдуш кон шýмбуш",
+          "ru": "Запрещено использование и хранение патронов, снаряжённых дробью",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "É proibida a utilização de cães de caça",
+          "transcription": "Э проибúда а утилизасáн ди кáйнш ди кáса",
+          "ru": "Запрещено использование охотничьих собак",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 391,
+      "pt": "A utilização de armas semiautomáticas que comportem mais de três munições:",
+      "transcription": "А утилизасáн ди áрмаш семиаутомáтикаш ки компóртэн máйш ди трэш мунисóйнш:",
+      "ru": "Использование полуавтоматического оружия вместимостью более трёх патронов:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "É permitida na caça às espécies de caça maior",
+          "transcription": "Э пермитúда на кáса аш эшпéсиеш ди кáса майóр",
+          "ru": "Разрешено при охоте на крупную дичь",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "É permitida na caça aos tordos",
+          "transcription": "Э пермитúда на кáса аош тóрдуш",
+          "ru": "Разрешено при охоте на дроздов",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "É proibida",
+          "transcription": "Э проибúда",
+          "ru": "Запрещено",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 392,
+      "pt": "Na caça às espécies de caça maior:",
+      "transcription": "На кáса аш эшпéсиеш ди кáса майóр:",
+      "ru": "При охоте на крупную дичь:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "É proibida a utilização de espingardas caçadeiras",
+          "transcription": "Э проибúда а утилизасáн ди эшпингáрдаш касадéйраш",
+          "ru": "Запрещено использование гладкоствольных охотничьих ружей",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "É proibida a utilização e a detenção de cartuchos carregados com chumbos",
+          "transcription": "Э проибúда а утилизасáн и а детенсáн ди картýшуш каррегáдуш кон шýмбуш",
+          "ru": "Запрещено использование и хранение патронов, снаряжённых дробью",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "É proibida a utilização e a detenção de cartuchos carregados com bala",
+          "transcription": "Э проибúда а утилизасáн и а детенсáн ди картýшуш каррегáдуш кон бáла",
+          "ru": "Запрещено использование и хранение патронов, снаряжённых пулей",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 393,
+      "pt": "Nos olivais é proibido caçar:",
+      "transcription": "Нуз оливáйш э проибúду касáр:",
+      "ru": "В оливковых рощах охота запрещена:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Sempre",
+          "transcription": "Сéмпри",
+          "ru": "Всегда",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Nunca",
+          "transcription": "Нýнка",
+          "ru": "Никогда",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Se estiverem sinalizados com o sinal de proibição de caçar",
+          "transcription": "Си эштивéрэн синализáдуш кон у синáл ди проибисáн ди касáр",
+          "ru": "Если они обозначены знаком запрета охоты",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 394,
+      "pt": "Numa área delimitada por este sinal:",
+      "transcription": "Нýма áреа делимитáда пур éщти синáл:",
+      "ru": "На территории, ограниченной этим знаком:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Não se pode caçar",
+          "transcription": "Нан си пóди касáр",
+          "ru": "Охотиться нельзя",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Pode-se caçar mediante consentimento de quem de direito",
+          "transcription": "Пóди-си касáр медиáнти консентимéнту ди кэн ди дирéйту",
+          "ru": "Можно охотиться с согласия правомочного лица",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Pode-se caçar mediante consentimento do presidente da junta de freguesia",
+          "transcription": "Пóди-си касáр медиáнти консентимéнту ду президéнти да жýнта ди фрегезúа",
+          "ru": "Можно охотиться с согласия председателя приходского совета",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 395,
+      "pt": "Qual dos seguintes atos não constitui crime de caça?",
+      "transcription": "Куáл душ сегúнтеш áтуш нан конштитýй крúми ди кáса?",
+      "ru": "Какое из следующих действий не является охотничьим преступлением?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Caçar espécies não cinegéticas",
+          "transcription": "Касáр эшпéсиеш нан синежéтикаш",
+          "ru": "Охота на неохотничьи виды",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Caçar com uma taxa de álcool no sangue inferior a 1,2 g/l",
+          "transcription": "Касáр кон ýма тáша ди áлкоол ну сáнги инфериóр а ýн вúргула дóйш грáмаш пур лúтру",
+          "ru": "Охота с концентрацией алкоголя в крови менее 1,2 г/л",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Caçar em áreas de não caça",
+          "transcription": "Касáр эн áреаш ди нан кáса",
+          "ru": "Охота на территориях запрета охоты",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 396,
+      "pt": "A partir de que distância de uma instalação militar se pode caçar?",
+      "transcription": "А пáртир ди ки диштáнсия ди ýма инсталасáн милитáр си пóди касáр?",
+      "ru": "Начиная с какого расстояния от военного объекта можно охотиться?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "200 metros",
+          "transcription": "Дузéнтуш мéтруш",
+          "ru": "200 метров",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "250 metros",
+          "transcription": "Дузéнтуш-и-синкóэнта мéтруш",
+          "ru": "250 метров",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "500 metros",
+          "transcription": "Кинжéнтуш мéтруш",
+          "ru": "500 метров",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 397,
+      "pt": "Num terreno circundado com este sinal, não é permitido:",
+      "transcription": "Нун терéну сиркундáду кон éщти синáл, нан э пермитúду:",
+      "ru": "На земле, окружённой этим знаком, не разрешено:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Treinar cães de caça",
+          "transcription": "Трейнáр кáйнш ди кáса",
+          "ru": "Тренировать охотничьих собак",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Praticar atividades de caráter cinegético",
+          "transcription": "Пратикáр ативидáдиш ди карáтер синежéтику",
+          "ru": "Заниматься деятельностью охотничьего характера",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Caçar sem consentimento de quem de direito",
+          "transcription": "Касáр сен консентимéнту ди кэн ди дирéйту",
+          "ru": "Охотиться без согласия правомочного лица",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 398,
+      "pt": "Indique a frase correta:",
+      "transcription": "Индúки а фрáзи коррéта:",
+      "ru": "Укажите верное утверждение:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "É permitido caçar num pinhal em que as espécies florestais tenham uma altura média superior a 80cm",
+          "transcription": "Э пермитúду касáр нун пиньял эн ки аш эшпéсиеш флорештáйш téньян ýма алтýра мéдиа супериóр а óйтэнта сантимéтруш",
+          "ru": "Разрешено охотиться в сосняке, где лесные насаждения имеют среднюю высоту более 80 см",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "É permitido caçar num refúgio de caça desde que seja sócio de um clube de caçadores",
+          "transcription": "Э пермитúду касáр нун рефýжиу ди кáса дéзди ки сéжа сóсиу ди ун клýби ди касадóриш",
+          "ru": "Разрешено охотиться в охотничьем заказнике, если вы член охотничьего клуба",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "É permitido caçar a menos de 100 metros de uma estrada nacional",
+          "transcription": "Э пермитúду касáр а мéнуш ди сэн мéтруш ди ýма эштрáда насионáл",
+          "ru": "Разрешено охотиться ближе 100 метров от национальной дороги",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 399,
+      "pt": "Num eucaliptal com altura média de 1 metro:",
+      "transcription": "Нун эукалиптáл кон алтýра мéдиа ди ýн мéтру:",
+      "ru": "В эвкалиптовой роще со средней высотой 1 метр:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "É sempre proibido caçar",
+          "transcription": "Э сéмпри проибúду касáр",
+          "ru": "Охота всегда запрещена",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "É proibido caçar, desde que o diâmetro do tronco seja inferior a 5 cm",
+          "transcription": "Э проибúду касáр, дéзди ки у диáметру ду трóнку сéжа инфериóр а синку сантимéтруш",
+          "ru": "Охота запрещена, если диаметр ствола менее 5 см",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "É permitido caçar",
+          "transcription": "Э пермитúду касáр",
+          "ru": "Охота разрешена",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 400,
+      "pt": "Qual dos seguintes atos constitui crime de caça?",
+      "transcription": "Куáл душ сегúнтеш áтуш конштитýй крúми ди кáса?",
+      "ru": "Какое из следующих действий является охотничьим преступлением?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Caçar sem licença de caça",
+          "transcription": "Касáр сен лисéнса ди кáса",
+          "ru": "Охота без охотничьей лицензии",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Caçar em áreas de direito à não caça",
+          "transcription": "Касáр эн áреаш ди дирéйту а нан кáса",
+          "ru": "Охота на территориях с правом запрета охоты",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Caçar sem trazer consigo a carta de caçador",
+          "transcription": "Касáр сен трáзер консúгу а кáрта ди касадóр",
+          "ru": "Охота без удостоверения охотника при себе",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 401,
+      "pt": "É proibido caçar nos olivais?",
+      "transcription": "Э проибúду касáр нуз оливáйш?",
+      "ru": "Запрещена ли охота в оливковых рощах?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Sim, é sempre proibido",
+          "transcription": "Син, э сéмпри проибúду",
+          "ru": "Да, всегда запрещена",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Não",
+          "transcription": "Нан",
+          "ru": "Нет",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Só quando sinalizados com o sinal de proibição de caçar",
+          "transcription": "Só куáнду синализáдуш кон у синáл ди проибисáн ди касáр",
+          "ru": "Только когда они обозначены знаком запрета охоты",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 402,
+      "pt": "Num quintal de uma casa de habitação, bem como numa faixa envolvente de 250 metros, é:",
+      "transcription": "Нун кинтáл ди ýма кáза ди абитасáн, бэн кóму нýма фáйша энволвéнти ди дузéнтуш-и-синкóэнта мéтруш, э:",
+      "ru": "На приусадебном участке жилого дома, а также в окружающей полосе 250 метров:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Sempre proibido caçar",
+          "transcription": "Сéмпри проибúду касáр",
+          "ru": "Охота всегда запрещена",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Sempre permitido caçar",
+          "transcription": "Сéмпри пермитúду касáр",
+          "ru": "Охота всегда разрешена",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Proibido caçar sem consentimento de quem de direito",
+          "transcription": "Проибúду касáр сен консентимéнту ди кэн ди дирéйту",
+          "ru": "Охота запрещена без согласия правомочного лица",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 403,
+      "pt": "Qual das seguintes situações não constitui crime de caça?",
+      "transcription": "Куáл даш сегúнтеш ситуасóйнш нан конштитýй крúми ди кáса?",
+      "ru": "Какая из следующих ситуаций не является охотничьим преступлением?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Caçar com uma taxa de álcool no sangue superior a 1,2g/l",
+          "transcription": "Касáр кон ýма тáша ди áлкоол ну сáнги супериóр а ýн вúргула дóйш грáмаш пур лúтру",
+          "ru": "Охота с концентрацией алкоголя в крови более 1,2 г/л",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Caçar com uma taxa de álcool no sangue inferior a 1,2g/l",
+          "transcription": "Касáр кон ýма тáша ди áлкоол ну сáнги инфериóр а ýн вúргула дóйш грáмаш пур лúтру",
+          "ru": "Охота с концентрацией алкоголя в крови менее 1,2 г/л",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Caçar com uma taxa de álcool no sangue igual a 1,2g/l",
+          "transcription": "Касáр кон ýма тáша ди áлкоол ну сáнги игуáл а ýн вúргула дóйш грáмаш пур лúтру",
+          "ru": "Охота с концентрацией алкоголя в крови, равной 1,2 г/л",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 404,
+      "pt": "É proibido o exercício da caça numa estrada nacional, bem como numa faixa de proteção de:",
+      "transcription": "Э проибúду у эзерсúсиу да кáса нýма эштрáда насионáл, бэн кóму нýма фáйша ди протесáн ди:",
+      "ru": "Охота запрещена на национальной дороге, а также в защитной полосе:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "100 metros",
+          "transcription": "Сэн мéтруш",
+          "ru": "100 метров",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "150 metros",
+          "transcription": "Сэн-и-синкóэнта мéтруш",
+          "ru": "150 метров",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "200 metros",
+          "transcription": "Дузéнтуш мéтруш",
+          "ru": "200 метров",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 405,
+      "pt": "Qual dos seguintes atos não constitui crime de caça?",
+      "transcription": "Куáл душ сегúнтеш áтуш нан конштитýй крúми ди кáса?",
+      "ru": "Какое из следующих действий не является охотничьим преступлением?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Deter, transportar ou usar furão sem autorização",
+          "transcription": "Детéр, транспортáр оу узáр фурáн сен аутóризасáн",
+          "ru": "Содержание, перевозка или использование хорька без разрешения",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Utilizar auxiliares fora das condições estabelecidas",
+          "transcription": "Утилизáр аушилиáриш фóра даш кондисóйнш эштабелесúдаш",
+          "ru": "Использование вспомогательных животных вне установленных условий",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Caçar com uma taxa de álcool no sangue inferior a 1,2g/l",
+          "transcription": "Касáр кон ýма тáша ди áлкоол ну сáнги инфериóр а ýн вúргула дóйш грáмаш пур лúтру",
+          "ru": "Охота с концентрацией алкоголя в крови менее 1,2 г/л",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 406,
+      "pt": "Caçar uma espécie não cinegética, é:",
+      "transcription": "Касáр ýма эшпéсие нан синежéтика, э:",
+      "ru": "Охота на неохотничий вид является:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Contra ordenação grave",
+          "transcription": "Кóнтра орденасáн грáви",
+          "ru": "Серьёзным административным правонарушением",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Crime de caça",
+          "transcription": "Крúми ди кáса",
+          "ru": "Охотничьим преступлением",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Conduta negligente",
+          "transcription": "Кондýта неглижéнти",
+          "ru": "Халатным поведением",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 407,
+      "pt": "Indique em quais dos terrenos a proibição de caçar só se torna eficaz desde que sinalizados:",
+      "transcription": "Индúки эн куáйш душ терéнуш а проибисáн ди касáр só си тóрна эфикáз дéзди ки синализáдуш:",
+      "ru": "Укажите, на каких землях запрет охоты вступает в силу только при наличии маркировки:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Áreas de refúgio de caça",
+          "transcription": "Áреаш ди рефýжиу ди кáса",
+          "ru": "Охотничьи заказники",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Queimadas e terrenos percorridos por incêndios",
+          "transcription": "Кэймáдаш и терéнуш перкорúдуш пур инсéндиуш",
+          "ru": "Выжженные участки и земли, пройденные пожарами",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Instalações turísticas e parques de campismo",
+          "transcription": "Инсталасóйнш турúштикаш и пáркиш ди кампúзму",
+          "ru": "Туристические объекты и кемпинги",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 408,
+      "pt": "A 200 metros de uma casa de habitação pode praticar-se o ato venatório?",
+      "transcription": "А дузéнтуш мéтруш ди ýма кáза ди абитасáн пóди пратикáр-си у áту венатóриу?",
+      "ru": "В 200 метрах от жилого дома можно ли заниматься охотничьей деятельностью?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Sim, mas só pelo processo de espera",
+          "transcription": "Син, маш só пéлу просéссу ди эшпéра",
+          "ru": "Да, но только способом засидки (ожидания)",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Sim, sem quaisquer restrições",
+          "transcription": "Син, сен куайшкéр рештрисóйнш",
+          "ru": "Да, без каких-либо ограничений",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Sim, mas só com autorização de quem de direito",
+          "transcription": "Син, маш só кон аутóризасáн ди кэн ди дирéйту",
+          "ru": "Да, но только с разрешения правомочного лица",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 409,
+      "pt": "Constitui crime de caça:",
+      "transcription": "Конштитýй крúми ди кáса:",
+      "ru": "Является охотничьим преступлением:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Caçar sem ser portador de bilhete de identidade",
+          "transcription": "Касáр сен сер портадóр ди бильéти ди идентидáде",
+          "ru": "Охота без удостоверения личности при себе",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Caçar sem estar habilitado com carta de caçador",
+          "transcription": "Касáр сен эштáр абилитáду кон кáрта ди касадóр",
+          "ru": "Охота без действующего удостоверения охотника",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Caçar a 200 metros de um pombal devidamente sinalizado",
+          "transcription": "Касáр а дузéнтуш мéтруш ди ун помбáл девидаменти синализáду",
+          "ru": "Охота в 200 метрах от надлежаще обозначенной голубятни",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 410,
+      "pt": "Constitui crime de caça:",
+      "transcription": "Конштитýй крúми ди кáса:",
+      "ru": "Является охотничьим преступлением:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Caçar a 50 metros das estradas municipais alcatroadas",
+          "transcription": "Касáр а синкóэнта мéтруш даш эштрáдаш муниципáйш алкатроáдаш",
+          "ru": "Охота в 50 метрах от асфальтированных муниципальных дорог",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Utilizar auxiliares fora das condições estabelecidas",
+          "transcription": "Утилизáр аушилиáриш фóра даш кондисóйнш эштабелесúдаш",
+          "ru": "Использование вспомогательных животных вне установленных условий",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Utilizar chamarizes na caça aos patos",
+          "transcription": "Утилизáр шамарúзиш на кáса аош пáтуш",
+          "ru": "Использование манков при охоте на уток",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 411,
+      "pt": "Constitui crime de caça:",
+      "transcription": "Конштитýй крúми ди кáса:",
+      "ru": "Является охотничьим преступлением:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Abandonar os animais que auxiliam e acompanham o caçador no exercício da caça",
+          "transcription": "Абандонáр уш анимáйш ки аушúлиан и акомпáньян у касадóр ну эзерсúсиу да кáса",
+          "ru": "Бросить животных, которые помогают и сопровождают охотника во время охоты",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Caçar patos à espera, até 100 metros dos planos água, depois das 16 horas e até ao pôr-do-sol",
+          "transcription": "Касáр пáтуш а эшпéра, атé сэн мéтруш душ плáнуш áгуа, депóйш даш дезасéйш óраш и атé ау пор-ду-сóл",
+          "ru": "Охота на уток засидкой, до 100 метров от водной глади, после 16 часов и до захода солнца",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Caçar com uma taxa de álcool no sangue igual a 1,0 g/l",
+          "transcription": "Касáр кон ýма тáша ди áлкоол ну сáнги игуáл а ýн грáму пур лúтру",
+          "ru": "Охота с концентрацией алкоголя в крови, равной 1,0 г/л",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 412,
+      "pt": "A criação em cativeiro de espécies cinegéticas e subespécies não identificadas em portaria é:",
+      "transcription": "А криасáн эн кативéйру ди эшпéсиеш синежéтикаш и субэшпéсиеш нан идентификáдаш эн портáриа э:",
+      "ru": "Разведение в неволе охотничьих видов и подвидов, не указанных в постановлении:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Proibida",
+          "transcription": "Проибúда",
+          "ru": "Запрещено",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Permitida desde que a produção seja para consumo alimentar",
+          "transcription": "Пермитúда дéзди ки а продусáн сéжа пáра консýму алиментáр",
+          "ru": "Разрешено, если продукция предназначена для питания",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Permitida desde que a produção se destine a largadas em campos de treino de caça",
+          "transcription": "Пермитúда дéзди ки а продусáн си дештúни а ларгáдаш эн кáмпуш ди трéйну ди кáса",
+          "ru": "Разрешено, если продукция предназначена для выпуска на тренировочных полях",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}
