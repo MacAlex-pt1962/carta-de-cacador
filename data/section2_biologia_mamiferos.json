@@ -1,0 +1,1209 @@
+{
+  "section_id": "biologia_mamiferos",
+  "section_name_ru": "Биология млекопитающих",
+  "section_name_pt": "Biologia das espécies cinegéticas (Mamíferos)",
+  "source": "ICNF - Questionário, Manual para exame de carta de caçador (https://www.icnf.pt/api/file/doc/2d8ae1589afbdf1e)",
+  "questions": [
+    {
+      "id": 59,
+      "pt": "Em termos alimentares, o coelho é:",
+      "transcription": "Эн тéрмуш алиментáреш, у куэлью э:",
+      "ru": "В плане питания кролик является:",
+      "options": [
+        {"letter": "A", "pt": "Um pequeno carnívoro", "transcription": "Ун пекéну карнúвору", "ru": "Маленьким хищником", "correct": false},
+        {"letter": "B", "pt": "Um pequeno omnívoro", "transcription": "Ун пекéну омнúвору", "ru": "Маленьким всеядным животным", "correct": false},
+        {"letter": "C", "pt": "Um pequeno herbívoro", "transcription": "Ун пекéну эрбúвору", "ru": "Маленьким травоядным животным", "correct": true}
+      ]
+    },
+    {
+      "id": 60,
+      "pt": "Quando em fuga, a corrida do coelho caracteriza-se por ser:",
+      "transcription": "Куáнду эн фýга, а коррúда ду куэлью карактерúза-си пур сер:",
+      "ru": "Во время бегства бег кролика характеризуется как:",
+      "options": [
+        {"letter": "A", "pt": "Retilínea", "transcription": "Ретилúнеа", "ru": "Прямолинейный", "correct": false},
+        {"letter": "B", "pt": "Em alongados ziguezagues", "transcription": "Эн алонгáдуш зигезáгиш", "ru": "Растянутыми зигзагами", "correct": false},
+        {"letter": "C", "pt": "Em apertados ziguezagues", "transcription": "Эн апертáдуш зигезáгиш", "ru": "Резкими (короткими) зигзагами", "correct": true}
+      ]
+    },
+    {
+      "id": 61,
+      "pt": "O coelho vive preferencialmente em:",
+      "transcription": "У куэлью вúви преференсиáлменти эн:",
+      "ru": "Кролик предпочтительно живёт в:",
+      "options": [
+        {"letter": "A", "pt": "Zonas de mato abundante", "transcription": "Зóнаш ди мáту абундáнти", "ru": "Зонах с обильным кустарником", "correct": true},
+        {"letter": "B", "pt": "Zonas de arvoredo muito denso", "transcription": "Зóнаш ди арворéду мýйту дéнсу", "ru": "Зонах с очень густым лесом", "correct": false},
+        {"letter": "C", "pt": "Zonas arenosas e húmidas", "transcription": "Зóнаш аренóзаш и ýмидаш", "ru": "Песчаных и влажных зонах", "correct": false}
+      ]
+    },
+    {
+      "id": 62,
+      "pt": "A alimentação do coelho é constituída essencialmente por:",
+      "transcription": "А алиментасáн ду куэлью э конституúда эссенсиáлменти пур:",
+      "ru": "Питание кролика в основном состоит из:",
+      "options": [
+        {"letter": "A", "pt": "Raízes, caules e pequenos insetos", "transcription": "Раúзеш, кáулиш и пекéнуш инсéтуш", "ru": "Корней, стеблей и мелких насекомых", "correct": false},
+        {"letter": "B", "pt": "Plantas herbáceas, raízes, caules, grãos e cascas suculentas", "transcription": "Плáнташ эрбáсиаш, раúзеш, кáулиш, грáнуш и кáскаш сукулéнташ", "ru": "Травянистых растений, корней, стеблей, зерна и сочной коры", "correct": true},
+        {"letter": "C", "pt": "Plantas herbáceas, raízes e pequenos batráquios", "transcription": "Плáнташ эрбáсиаш, раúзеш и пекéнуш батрáкиуш", "ru": "Травянистых растений, корней и мелких земноводных", "correct": false}
+      ]
+    },
+    {
+      "id": 63,
+      "pt": "O coelho é um animal de hábitos:",
+      "transcription": "У куэлью э ун анимáл ди áбитуш:",
+      "ru": "Кролик — животное с привычками:",
+      "options": [
+        {"letter": "A", "pt": "Noturnos e crepusculares", "transcription": "Нотýрнуш и крепускулáреш", "ru": "Ночными и сумеречными", "correct": true},
+        {"letter": "B", "pt": "Essencialmente diurnos", "transcription": "Эссенсиáлменти диýрнуш", "ru": "Преимущественно дневными", "correct": false},
+        {"letter": "C", "pt": "Essencialmente noturnos", "transcription": "Эссенсиáлменти нотýрнуш", "ru": "Преимущественно ночными", "correct": false}
+      ]
+    },
+    {
+      "id": 64,
+      "pt": "Os coelhos vivem, normalmente em:",
+      "transcription": "Уш куэльюш вúвэн, нормáлменти эн:",
+      "ru": "Кролики обычно живут в:",
+      "options": [
+        {"letter": "A", "pt": "Colónias, com galerias extensas e muito ramificadas", "transcription": "Колóниаш, кон галерúаш эштéнсаш и мýйту рамификáдаш", "ru": "Колониях, с протяжёнными и сильно разветвлёнными норами", "correct": true},
+        {"letter": "B", "pt": "Colónias, com galerias extensas não ramificadas", "transcription": "Колóниаш, кон галерúаш эштéнсаш нан рамификáдаш", "ru": "Колониях, с протяжёнными неразветвлёнными норами", "correct": false},
+        {"letter": "C", "pt": "Tocas de habitação individuais", "transcription": "Тóкаш ди абитасáн индивидуáйш", "ru": "Отдельных индивидуальных норах", "correct": false}
+      ]
+    },
+    {
+      "id": 65,
+      "pt": "As coelhas prenhes têm as ninhadas:",
+      "transcription": "Аш куэльяш прéньеш тэн аш ниньядаш:",
+      "ru": "Беременные крольчихи рожают выводок:",
+      "options": [
+        {"letter": "A", "pt": "Numa ramificação profunda da toca de habitação", "transcription": "Нýма рамификасáн профýнда да тóка ди абитасáн", "ru": "В глубоком ответвлении жилой норы", "correct": false},
+        {"letter": "B", "pt": "Numa toca especial afastada da colónia", "transcription": "Нýма тóка эшпесиáл афаштáда да колóниа", "ru": "В специальной норе в стороне от колонии", "correct": true},
+        {"letter": "C", "pt": "Numa ramificação superficial da toca de habitação", "transcription": "Нýма рамификасáн суперфисиáл да тóка ди абитасáн", "ru": "В поверхностном ответвлении жилой норы", "correct": false}
+      ]
+    },
+    {
+      "id": 66,
+      "pt": "As tocas de reprodução dos coelhos são formadas por:",
+      "transcription": "Аш тóкаш ди репродусáн душ куэльюш сáн формáдаш пур:",
+      "ru": "Норы для размножения кроликов состоят из:",
+      "options": [
+        {"letter": "A", "pt": "Uma galeria simples e profunda", "transcription": "Ýма галерúа сúмплиш и профýнда", "ru": "Простого и глубокого хода", "correct": true},
+        {"letter": "B", "pt": "Uma galeria complexa e profunda", "transcription": "Ýма галерúа комплéкса и профýнда", "ru": "Сложного и глубокого хода", "correct": false},
+        {"letter": "C", "pt": "Uma galeria simples e superficial", "transcription": "Ýма галерúа сúмплиш и суперфисиáл", "ru": "Простого и неглубокого хода", "correct": false}
+      ]
+    },
+    {
+      "id": 67,
+      "pt": "As tocas de reprodução dos coelhos são construídas:",
+      "transcription": "Аш тóкаш ди репродусáн душ куэльюш сáн конструúдаш:",
+      "ru": "Норы для размножения кроликов строятся:",
+      "options": [
+        {"letter": "A", "pt": "Pelas fêmeas", "transcription": "Пéлаш фéмеаш", "ru": "Самками", "correct": true},
+        {"letter": "B", "pt": "Por ambos os sexos", "transcription": "Пур áмбуш уш сéксуш", "ru": "Обоими полами", "correct": false},
+        {"letter": "C", "pt": "Só pelos machos", "transcription": "Só пéлуш мáшуш", "ru": "Только самцами", "correct": false}
+      ]
+    },
+    {
+      "id": 68,
+      "pt": "As tocas de reprodução dos coelhos são constituídas por:",
+      "transcription": "Аш тóкаш ди репродусáн душ куэльюш сáн конституúдаш пур:",
+      "ru": "Норы для размножения кроликов состоят из:",
+      "options": [
+        {"letter": "A", "pt": "Uma única abertura, forrada com ervas e folhas secas", "transcription": "Ýма ýника абертýра, форáда кон éрваш и фóльяш сéкаш", "ru": "Одного входа, выстланного травой и сухими листьями", "correct": false},
+        {"letter": "B", "pt": "Uma única abertura, forrada com pelos da própria fêmea", "transcription": "Ýма ýника абертýра, форáда кон пéлуш да прóприа фéмеа", "ru": "Одного входа, выстланного шерстью самой самки", "correct": true},
+        {"letter": "C", "pt": "Uma única abertura, forrada com ervas, folhas e cascas secas", "transcription": "Ýма ýника абертýра, форáда кон éрваш, фóльяш и кáскаш сéкаш", "ru": "Одного входа, выстланного травой, листьями и сухой корой", "correct": false}
+      ]
+    },
+    {
+      "id": 69,
+      "pt": "Ao fim de quanto tempo, as coelhas mudam os filhos para as tocas de habitação?",
+      "transcription": "Ау фин ди куáнту тéмпу, аш куэльяш мýдан уш фúльюш пáра аш тóкаш ди абитасáн?",
+      "ru": "Через сколько времени крольчихи переводят детёнышей в жилую нору?",
+      "options": [
+        {"letter": "A", "pt": "1 Semana", "transcription": "Ýма семáна", "ru": "1 неделя", "correct": false},
+        {"letter": "B", "pt": "2 Semanas", "transcription": "Дýаш семáнаш", "ru": "2 недели", "correct": false},
+        {"letter": "C", "pt": "3 Semanas", "transcription": "Трэш семáнаш", "ru": "3 недели", "correct": true}
+      ]
+    },
+    {
+      "id": 70,
+      "pt": "O coelho-bravo está apto a reproduzir-se a partir da idade seguinte:",
+      "transcription": "У куэлью-брáву эштá áпту а репродузúр-си а пáртир да идáде сегúнти:",
+      "ru": "Дикий кролик способен размножаться начиная с возраста:",
+      "options": [
+        {"letter": "A", "pt": "Quatro meses", "transcription": "Куáтру мéзеш", "ru": "Четыре месяца", "correct": false},
+        {"letter": "B", "pt": "Seis meses", "transcription": "Сéйш мéзеш", "ru": "Шесть месяцев", "correct": true},
+        {"letter": "C", "pt": "Doze meses", "transcription": "Дóзи мéзеш", "ru": "Двенадцать месяцев", "correct": false}
+      ]
+    },
+    {
+      "id": 71,
+      "pt": "Em comprimento, as orelhas do coelho são:",
+      "transcription": "Эн компримéнту, аз орéльяш ду куэлью сáн:",
+      "ru": "По длине уши кролика:",
+      "options": [
+        {"letter": "A", "pt": "Maiores que as da lebre", "transcription": "Майóриш ки аш да лéбри", "ru": "Больше, чем у зайца", "correct": false},
+        {"letter": "B", "pt": "Maiores que o comprimento da sua cabeça", "transcription": "Майóриш ки у компримéнту да суа кабéса", "ru": "Больше длины его головы", "correct": false},
+        {"letter": "C", "pt": "Menores que o comprimento da sua cabeça", "transcription": "Менóриш ки у компримéнту да суа кабéса", "ru": "Меньше длины его головы", "correct": true}
+      ]
+    },
+    {
+      "id": 72,
+      "pt": "A época de reprodução mais intensa do coelho ocorre de:",
+      "transcription": "А éпока ди репродусáн máйш интéнса ду куэлью окóрри ди:",
+      "ru": "Наиболее интенсивный период размножения кролика приходится на:",
+      "options": [
+        {"letter": "A", "pt": "Março a maio", "transcription": "Мáрсу а мáйу", "ru": "С марта по май", "correct": true},
+        {"letter": "B", "pt": "Março a agosto", "transcription": "Мáрсу а агóшту", "ru": "С марта по август", "correct": false},
+        {"letter": "C", "pt": "Durante todo o ano", "transcription": "Дурáнти тóду у áну", "ru": "В течение всего года", "correct": false}
+      ]
+    },
+    {
+      "id": 73,
+      "pt": "Nas coelhas, o período de gestação é de:",
+      "transcription": "Наш куэльяш, у перúоду ди жештасáн э ди:",
+      "ru": "У крольчих срок беременности составляет:",
+      "options": [
+        {"letter": "A", "pt": "25 a 30 dias", "transcription": "Винти-и-сúнку а трúнта дúаш", "ru": "25–30 дней", "correct": false},
+        {"letter": "B", "pt": "27 a 30 dias", "transcription": "Винти-и-сéти а трúнта дúаш", "ru": "27–30 дней", "correct": false},
+        {"letter": "C", "pt": "28 a 30 dias", "transcription": "Винти-и-óйту а трúнта дúаш", "ru": "28–30 дней", "correct": true}
+      ]
+    },
+    {
+      "id": 74,
+      "pt": "As coelhas têm, em média, quantas ninhadas por ano?",
+      "transcription": "Аш куэльяш тэн, эн мéдиа, куáнташ ниньядаш пур áну?",
+      "ru": "Сколько в среднем выводков в год бывает у крольчих?",
+      "options": [
+        {"letter": "A", "pt": "1 a 4", "transcription": "Ýн а куáтру", "ru": "1–4", "correct": false},
+        {"letter": "B", "pt": "3 a 5", "transcription": "Трэш а сúнку", "ru": "3–5", "correct": true},
+        {"letter": "C", "pt": "2 a 5", "transcription": "Дóйш а сúнку", "ru": "2–5", "correct": false}
+      ]
+    },
+    {
+      "id": 75,
+      "pt": "Os láparos nascem:",
+      "transcription": "Уш лáпаруш нáсэн:",
+      "ru": "Крольчата рождаются:",
+      "options": [
+        {"letter": "A", "pt": "Cegos, surdos e sem pelo", "transcription": "Сéгуш, сýрдуш и сен пéлу", "ru": "Слепыми, глухими и без шерсти", "correct": true},
+        {"letter": "B", "pt": "De olhos abertos e com pelo", "transcription": "Ди óльюш абéртуш и кон пéлу", "ru": "С открытыми глазами и с шерстью", "correct": false},
+        {"letter": "C", "pt": "Cegos, surdos e com pelo", "transcription": "Сéгуш, сýрдуш и кон пéлу", "ru": "Слепыми, глухими, но с шерстью", "correct": false}
+      ]
+    },
+    {
+      "id": 76,
+      "pt": "Ao nível das doenças epidémicas do coelho, qual das frases está correta?",
+      "transcription": "Ау нúвел даш доэнсаш эпидéмикаш ду куэлью, куáл даш фрáзиш эштá коррéта?",
+      "ru": "В отношении эпидемических болезней кролика, какое утверждение верно?",
+      "options": [
+        {"letter": "A", "pt": "Nos repovoamentos proceda ao seu controlo sanitário e vacinação", "transcription": "Нуш реповоамéнтуш просéда ау сéу контрóлу санитáриу и васинасáн", "ru": "При заселении (репопуляции) проводите санитарный контроль и вакцинацию", "correct": true},
+        {"letter": "B", "pt": "Pode esfolar os coelhos caçados no campo", "transcription": "Пóди эшфолáр уш куэльюш касáдуш ну кáмпу", "ru": "Можно свежевать добытых кроликов прямо в поле", "correct": false},
+        {"letter": "C", "pt": "Se esfolar os coelhos caçados dê as vísceras aos cães", "transcription": "Си эшфолáр уш куэльюш касáдуш дэ аш вúсерраш аош кáйнш", "ru": "При свежевании добытых кроликов отдавайте внутренности собакам", "correct": false}
+      ]
+    },
+    {
+      "id": 77,
+      "pt": "Ao nível das doenças epidémicas, qual das seguintes medidas pode contribuir para o ordenamento do coelho-bravo?",
+      "transcription": "Ау нúвел даш доэнсаш эпидéмикаш, куáл даш сегúнтеш медúдаш пóди контрибуúр пáра у орденамéнту ду куэлью-брáву?",
+      "ru": "В отношении эпидемических болезней, какая из следующих мер способствует правильному управлению популяцией дикого кролика?",
+      "options": [
+        {"letter": "A", "pt": "Queimar os coelhos vítimas de doenças", "transcription": "Кэймáр уш куэльюш вúтимаш ди доэнсаш", "ru": "Сжигать кроликов, павших от болезней", "correct": true},
+        {"letter": "B", "pt": "Não realizar a queima de restolhos", "transcription": "Нан реализáр а кэйма ди реш толюш", "ru": "Не проводить сжигание стерни", "correct": false},
+        {"letter": "C", "pt": "Construir tocas ou \"morouços\"", "transcription": "Конструúр тóкаш оуморóусуш", "ru": "Строить искусственные норы («морóусуш»)", "correct": false}
+      ]
+    },
+    {
+      "id": 78,
+      "pt": "O coelho pode viver até aos:",
+      "transcription": "У куэлью пóди вивéр атé аош:",
+      "ru": "Кролик может жить до:",
+      "options": [
+        {"letter": "A", "pt": "5 anos", "transcription": "Сúнку áнуш", "ru": "5 лет", "correct": false},
+        {"letter": "B", "pt": "10 anos", "transcription": "Дэш áнуш", "ru": "10 лет", "correct": true},
+        {"letter": "C", "pt": "15 anos", "transcription": "Кúнзи áнуш", "ru": "15 лет", "correct": false}
+      ]
+    },
+    {
+      "id": 79,
+      "pt": "O coelho é atacado por uma doença contagiosa grave. Indique qual:",
+      "transcription": "У куэлью э атакáду пур ýма доэнса контажиóза грáви. Индúки куáл:",
+      "ru": "На кролика нападает тяжёлая заразная болезнь. Укажите какая:",
+      "options": [
+        {"letter": "A", "pt": "Coccidiose", "transcription": "Коксидиóзи", "ru": "Кокцидиоз", "correct": false},
+        {"letter": "B", "pt": "Mixomatose", "transcription": "Миксоматóзи", "ru": "Миксоматоз", "correct": true},
+        {"letter": "C", "pt": "Brucelose", "transcription": "Брусэлóзи", "ru": "Бруцеллёз", "correct": false}
+      ]
+    },
+    {
+      "id": 80,
+      "pt": "Os coelhos abrem os olhos ao fim de:",
+      "transcription": "Уш куэльюш áбрэн уз óльюш ау фин ди:",
+      "ru": "Кролики открывают глаза через:",
+      "options": [
+        {"letter": "A", "pt": "5 dias", "transcription": "Сúнку дúаш", "ru": "5 дней", "correct": false},
+        {"letter": "B", "pt": "10 dias", "transcription": "Дэш дúаш", "ru": "10 дней", "correct": true},
+        {"letter": "C", "pt": "15 dias", "transcription": "Кúнзи дúаш", "ru": "15 дней", "correct": false}
+      ]
+    },
+    {
+      "id": 81,
+      "pt": "O aparelho auditivo do coelho está completamente desenvolvido aos:",
+      "transcription": "У апарéлью аудитúву ду куэлью эштá комплéтаменти дезенволвúду аош:",
+      "ru": "Слуховой аппарат кролика полностью развит к:",
+      "options": [
+        {"letter": "A", "pt": "8 dias", "transcription": "Óйту дúаш", "ru": "8 дням", "correct": true},
+        {"letter": "B", "pt": "10 dias", "transcription": "Дэш дúаш", "ru": "10 дням", "correct": false},
+        {"letter": "C", "pt": "15 dias", "transcription": "Кúнзи дúаш", "ru": "15 дням", "correct": false}
+      ]
+    },
+    {
+      "id": 82,
+      "pt": "A mixomatose, doença que ataca os coelhos, é:",
+      "transcription": "А миксоматóзи, доэнса ки атáка уш куэльюш, э:",
+      "ru": "Миксоматоз, болезнь, поражающая кроликов:",
+      "options": [
+        {"letter": "A", "pt": "Transmissível ao homem", "transcription": "Трансмисúвел ау óмен", "ru": "Передаётся человеку", "correct": false},
+        {"letter": "B", "pt": "Não transmissível ao homem", "transcription": "Нан трансмисúвел ау óмен", "ru": "Не передаётся человеку", "correct": true},
+        {"letter": "C", "pt": "Transmissível a outras espécies cinegéticas", "transcription": "Трансмисúвел а óутраш эспéсиеш синежéтикаш", "ru": "Передаётся другим охотничьим видам", "correct": false}
+      ]
+    },
+    {
+      "id": 83,
+      "pt": "Aos coelhos recém-nascidos dá-se, vulgarmente, o nome de:",
+      "transcription": "Аош куэльюш ресéн-нашсúдуш дá-си, вулгáрменти, у нóми ди:",
+      "ru": "Новорождённых кроликов обычно называют:",
+      "options": [
+        {"letter": "A", "pt": "Láparos", "transcription": "Лáпаруш", "ru": "Лáпаруш", "correct": true},
+        {"letter": "B", "pt": "Lebrachos", "transcription": "Лебрáшуш", "ru": "Лебрáшуш (это название для зайчат)", "correct": false},
+        {"letter": "C", "pt": "Listados", "transcription": "Лиштáдуш", "ru": "Лиштáдуш (это название для молодых кабанов)", "correct": false}
+      ]
+    },
+    {
+      "id": 84,
+      "pt": "Relativamente ao coelho-bravo indique a frase correta:",
+      "transcription": "Релативáменти ау куэлью-брáву индúки а фрáзи коррéта:",
+      "ru": "В отношении дикого кролика укажите верное утверждение:",
+      "options": [
+        {"letter": "A", "pt": "É uma espécie de distribuição restrita", "transcription": "Э ýма эспéсие ди диштрибуисáн рештрúта", "ru": "Это вид с ограниченным ареалом распространения", "correct": false},
+        {"letter": "B", "pt": "É uma espécie pouco importante no equilíbrio ecológico do habitat mediterrânico", "transcription": "Э ýма эспéсие пóуку импортáнти ну эквилúбриу эколóжику ду абитáт медитеррáникр", "ru": "Это вид, малозначимый для экологического баланса средиземноморского местообитания", "correct": false},
+        {"letter": "C", "pt": "A mixomatose é uma doença que contribui para a diminuição das populações de coelho", "transcription": "А миксоматóзи э ýма доэнса ки контрибýй пáра а диминуисáн даш популасóйнш ди куэлью", "ru": "Миксоматоз — это болезнь, способствующая сокращению популяций кролика", "correct": true}
+      ]
+    },
+    {
+      "id": 85,
+      "pt": "O coelho-bravo é uma espécie que vive:",
+      "transcription": "У куэлью-брáву э ýма эспéсие ки вúви:",
+      "ru": "Дикий кролик — это вид, который живёт:",
+      "options": [
+        {"letter": "A", "pt": "Em zonas onde o mato é raro, preferindo terrenos húmidos e argilosos", "transcription": "Эн зóнаш óнди у мáту э рáру, преферúнду терéнуш ýмидуш и аржилóзуш", "ru": "В зонах с редким кустарником, предпочитая влажные глинистые почвы", "correct": false},
+        {"letter": "B", "pt": "Em zonas abertas sem mato, preferindo terrenos acidentados e rochosos", "transcription": "Эн зóнаш абéрташ сен мáту, преферúнду терéнуш асидентáдуш и рошóзуш", "ru": "В открытых зонах без кустарника, предпочитая пересечённые и каменистые земли", "correct": false},
+        {"letter": "C", "pt": "Em zonas onde o mato é abundante, preferindo terrenos secos e arenosos", "transcription": "Эн зóнаш óнди у мáту э абундáнти, преферúнду терéнуш сéкуш и аренóзуш", "ru": "В зонах с обильным кустарником, предпочитая сухие песчаные почвы", "correct": true}
+      ]
+    },
+    {
+      "id": 86,
+      "pt": "Onde há maior probabilidade de encontrar o coelho-bravo?",
+      "transcription": "Óнди á майóр пробабилидáде ди энконтрáр у куэлью-брáву?",
+      "ru": "Где больше вероятность встретить дикого кролика?",
+      "options": [
+        {"letter": "A", "pt": "Em terrenos húmidos e barrentos", "transcription": "Эн терéнуш ýмидуш и баррéнтуш", "ru": "На влажных и глинистых землях", "correct": false},
+        {"letter": "B", "pt": "Em zonas onde o mato é abundante", "transcription": "Эн зóнаш óнди у мáту э абундáнти", "ru": "В зонах с обильным кустарником", "correct": true},
+        {"letter": "C", "pt": "Em zonas de pousios e terras cultivadas", "transcription": "Эн зóнаш ди поузиуш и тéррраш культивáдаш", "ru": "В зонах пустующих и возделанных земель", "correct": false}
+      ]
+    },
+    {
+      "id": 87,
+      "pt": "Qual das medidas pode contribuir positivamente para o ordenamento do coelho-bravo:",
+      "transcription": "Куáл даш медúдаш пóди контрибуúр позитивáменти пáра у орденамéнту ду куэлью-брáву:",
+      "ru": "Какая мера может положительно повлиять на управление популяцией дикого кролика:",
+      "options": [
+        {"letter": "A", "pt": "Realizar repovoamentos independentemente da origem dos animais", "transcription": "Реализáр репоавоамéнтуш индепендентементи да орижен душ анимáйш", "ru": "Проводить заселение (репопуляцию) независимо от происхождения животных", "correct": false},
+        {"letter": "B", "pt": "Construir tocas ou \"morouços\" em terrenos onde seja difícil escavar", "transcription": "Конструúр тóкаш оу морóусуш эн терéнуш óнди сéжа дифúсил эшкавáр", "ru": "Строить искусственные норы («морóусуш») на землях, где трудно копать", "correct": true},
+        {"letter": "C", "pt": "Realizar repovoamentos com fêmeas de coelho-manso para aumentar a capacidade de reprodução", "transcription": "Реализáр репоавоамéнтуш кон фéмеаш ди куэлью-мáнсу пáра аумéнтар а капасидáде ди репродусáн", "ru": "Проводить заселение самками домашнего кролика для повышения репродуктивной способности", "correct": false}
+      ]
+    },
+    {
+      "id": 88,
+      "pt": "Em comprimento, as orelhas da lebre são:",
+      "transcription": "Эн компримéнту, аз орéльяш да лéбри сáн:",
+      "ru": "По длине уши зайца:",
+      "options": [
+        {"letter": "A", "pt": "Menores que as do coelho", "transcription": "Менóриш ки аш ду куэлью", "ru": "Меньше, чем у кролика", "correct": false},
+        {"letter": "B", "pt": "Maiores que o comprimento da sua cabeça", "transcription": "Майóриш ки у компримéнту да суа кабéса", "ru": "Больше длины его головы", "correct": true},
+        {"letter": "C", "pt": "Menores que o comprimento da sua cabeça", "transcription": "Менóриш ки у компримéнту да суа кабéса", "ru": "Меньше длины его головы", "correct": false}
+      ]
+    },
+    {
+      "id": 89,
+      "pt": "Uma das características da lebre é:",
+      "transcription": "Ýма даш карактерúштикаш да лéбри э:",
+      "ru": "Одна из характеристик зайца:",
+      "options": [
+        {"letter": "A", "pt": "Possuir orelhas pequenas, brancas na extremidade", "transcription": "Посуúр орéльяш пекéнаш, брáнкаш на эштремидáде", "ru": "Иметь маленькие уши, белые на конце", "correct": false},
+        {"letter": "B", "pt": "Possuir orelhas grandes, negras na extremidade", "transcription": "Посуúр орéльяш грáндиш, нéграш на эштремидáде", "ru": "Иметь большие уши, чёрные на конце", "correct": true},
+        {"letter": "C", "pt": "Possuir orelhas grandes e arredondadas, menores que o comprimento da cabeça", "transcription": "Посуúр орéльяш грáндиш и арредондáдаш, менóриш ки у компримéнту да кабéса", "ru": "Иметь большие закруглённые уши, меньше длины головы", "correct": false}
+      ]
+    },
+    {
+      "id": 90,
+      "pt": "Uma das características da lebre é:",
+      "transcription": "Ýма даш карактерúштикаш да лéбри э:",
+      "ru": "Одна из характеристик зайца:",
+      "options": [
+        {"letter": "A", "pt": "Possuir membros posteriores maiores que os anteriores", "transcription": "Посуúр мéмбруш поштериóриш майóриш ки уз антериóриш", "ru": "Задние конечности длиннее передних", "correct": true},
+        {"letter": "B", "pt": "Possuir membros anteriores maiores que os posteriores", "transcription": "Посуúр мéмбруш антериóриш майóриш ки уш поштериóриш", "ru": "Передние конечности длиннее задних", "correct": false},
+        {"letter": "C", "pt": "Possuir tamanho semelhante ao do coelho", "transcription": "Посуúр таманью семельянти ау ду куэлью", "ru": "Размер, схожий с кроликом", "correct": false}
+      ]
+    },
+    {
+      "id": 91,
+      "pt": "O maior tamanho dos membros posteriores da lebre permite-lhe:",
+      "transcription": "У майóр таманью душ мéмбруш поштериóриш да лéбри пермúти-льи:",
+      "ru": "Больший размер задних конечностей зайца позволяет ему:",
+      "options": [
+        {"letter": "A", "pt": "Adquirir boa aderência", "transcription": "Адкирúр бóа адерéнсия", "ru": "Приобрести хорошее сцепление с землёй", "correct": false},
+        {"letter": "B", "pt": "Adquirir boa capacidade de fuga em ziguezague", "transcription": "Адкирúр бóа капасидáде ди фýга эн зигезáги", "ru": "Приобрести хорошую способность убегать зигзагами", "correct": false},
+        {"letter": "C", "pt": "Adquirir grande velocidade", "transcription": "Адкирúр грáнди велосидáде", "ru": "Приобрести высокую скорость", "correct": true}
+      ]
+    },
+    {
+      "id": 92,
+      "pt": "A lebre é, geralmente mais abundante:",
+      "transcription": "А лéбри э, жерáлменти máйш абундáнти:",
+      "ru": "Заяц обычно наиболее многочислен:",
+      "options": [
+        {"letter": "A", "pt": "Na Estremadura e a Sul do Tejo", "transcription": "На Эштремадýра и а Сул ду Тéжу", "ru": "В Эштремадуре и к югу от реки Тежу", "correct": false},
+        {"letter": "B", "pt": "Na Beira Interior e a Sul do Tejo", "transcription": "На Бéйра Интериóр и а Сул ду Тéжу", "ru": "В Бейра-Интериор и к югу от реки Тежу", "correct": true},
+        {"letter": "C", "pt": "Na Beira Litoral e a Sul o Tejo", "transcription": "На Бéйра Литорáл и а Сул ду Тéжу", "ru": "В Бейра-Литорал и к югу от реки Тежу", "correct": false}
+      ]
+    },
+    {
+      "id": 93,
+      "pt": "A lebre prefere:",
+      "transcription": "А лéбри префери:",
+      "ru": "Заяц предпочитает:",
+      "options": [
+        {"letter": "A", "pt": "Pousios e terras cultivadas", "transcription": "Поузиуш и тéррраш культивáдаш", "ru": "Пустующие и возделанные земли", "correct": true},
+        {"letter": "B", "pt": "Terrenos acidentados e pedregosos", "transcription": "Терéнуш асидентáдуш и педрегóзуш", "ru": "Пересечённую и каменистую местность", "correct": false},
+        {"letter": "C", "pt": "Terrenos com grande densidade de coberto", "transcription": "Терéнуш кон грáнди densидáде ди кобéрту", "ru": "Земли с густым растительным покровом", "correct": false}
+      ]
+    },
+    {
+      "id": 94,
+      "pt": "A lebre é uma espécie que:",
+      "transcription": "А лéбри э ýма эспéсие ки:",
+      "ru": "Заяц — это вид, который:",
+      "options": [
+        {"letter": "A", "pt": "Vive em tocas com galerias pouco ramificadas", "transcription": "Вúви эн тóкаш кон галерúаш пóуку рамификáдаш", "ru": "Живёт в норах со слаборазветвлёнными ходами", "correct": false},
+        {"letter": "B", "pt": "Prefere terrenos com grande densidade de coberto", "transcription": "Преферú терéнуш кон грáнди densидáде ди кобéрту", "ru": "Предпочитает земли с густым растительным покровом", "correct": false},
+        {"letter": "C", "pt": "Prefere terrenos planos, húmidos e pouco cobertos", "transcription": "Преферú терéнуш плáнуш, ýмидуш и пóуку кобéртуш", "ru": "Предпочитает ровные, влажные и малопокрытые растительностью земли", "correct": true}
+      ]
+    },
+    {
+      "id": 95,
+      "pt": "A lebre é:",
+      "transcription": "А лéбри э:",
+      "ru": "Заяц — это:",
+      "options": [
+        {"letter": "A", "pt": "Uma espécie herbívora", "transcription": "Ýма эспéсие эрбúвора", "ru": "Травоядный вид", "correct": true},
+        {"letter": "B", "pt": "Uma espécie carnívora", "transcription": "Ýма эспéсие карнúвора", "ru": "Хищный вид", "correct": false},
+        {"letter": "C", "pt": "Uma espécie omnívora", "transcription": "Ýма эспéсие омнúвора", "ru": "Всеядный вид", "correct": false}
+      ]
+    },
+    {
+      "id": 96,
+      "pt": "A lebre é:",
+      "transcription": "А лéбри э:",
+      "ru": "Заяц — это:",
+      "options": [
+        {"letter": "A", "pt": "Um animal solitário", "transcription": "Ун анимáл солитáриу", "ru": "Животное-одиночка", "correct": true},
+        {"letter": "B", "pt": "Um animal que vive em grandes colónias", "transcription": "Ун анимáл ки вúви эн грáндиш колóниаш", "ru": "Животное, живущее большими колониями", "correct": false},
+        {"letter": "C", "pt": "Um animal que vive aos casais", "transcription": "Ун анимáл ки вúви аош казáйш", "ru": "Животное, живущее парами", "correct": false}
+      ]
+    },
+    {
+      "id": 97,
+      "pt": "Às lebres recém-nascidas dá-se, vulgarmente, o nome de:",
+      "transcription": "Аш лéбриш ресéн-нашсúдаш дá-си, вулгáрменти, у нóми ди:",
+      "ru": "Новорождённых зайчат обычно называют:",
+      "options": [
+        {"letter": "A", "pt": "Láparos", "transcription": "Лáпаруш", "ru": "Лáпаруш (это название для крольчат)", "correct": false},
+        {"letter": "B", "pt": "Lebrachos", "transcription": "Лебрáшуш", "ru": "Лебрáшуш", "correct": true},
+        {"letter": "C", "pt": "Listados", "transcription": "Лиштáдуш", "ru": "Лиштáдуш (это название для молодых кабанов)", "correct": false}
+      ]
+    },
+    {
+      "id": 98,
+      "pt": "O período de gestação da lebre é de:",
+      "transcription": "У перúоду ди жештасáн да лéбри э ди:",
+      "ru": "Срок беременности у зайца составляет:",
+      "options": [
+        {"letter": "A", "pt": "40 a 44 dias", "transcription": "Куарéнта а куарéнта-и-куáтру дúаш", "ru": "40–44 дня", "correct": false},
+        {"letter": "B", "pt": "40 a 42 dias", "transcription": "Куарéнта а куарéнта-и-дóйш дúаш", "ru": "40–42 дня", "correct": false},
+        {"letter": "C", "pt": "42 a 44 dias", "transcription": "Куарéнта-и-дóйш а куарéнта-и-куáтру дúаш", "ru": "42–44 дня", "correct": true}
+      ]
+    },
+    {
+      "id": 99,
+      "pt": "Os lebrachos nascem:",
+      "transcription": "Уш лебрáшуш нáсэн:",
+      "ru": "Зайчата рождаются:",
+      "options": [
+        {"letter": "A", "pt": "De olhos abertos e com pelo", "transcription": "Ди óльюш абéртуш и кон пéлу", "ru": "С открытыми глазами и с шерстью", "correct": true},
+        {"letter": "B", "pt": "Cegos, surdos e com pelo", "transcription": "Сéгуш, сýрдуш и кон пéлу", "ru": "Слепыми, глухими, но с шерстью", "correct": false},
+        {"letter": "C", "pt": "De olhos fechados e com pelo", "transcription": "Ди óльюш фешáдуш и кон пéлу", "ru": "С закрытыми глазами и с шерстью", "correct": false}
+      ]
+    },
+    {
+      "id": 100,
+      "pt": "Os lebrachos são amamentados até às:",
+      "transcription": "Уш лебрáшуш сáн амаментáдуш атé аш:",
+      "ru": "Зайчат кормят молоком до:",
+      "options": [
+        {"letter": "A", "pt": "2 semanas", "transcription": "Дýаш семáнаш", "ru": "2 недель", "correct": false},
+        {"letter": "B", "pt": "3 semanas", "transcription": "Трэш семáнаш", "ru": "3 недель", "correct": true},
+        {"letter": "C", "pt": "4 semanas", "transcription": "Куáтру семáнаш", "ru": "4 недель", "correct": false}
+      ]
+    },
+    {
+      "id": 101,
+      "pt": "A lebre tem, normalmente, quantas ninhadas por ano?",
+      "transcription": "А лéбри тэн, нормáлменти, куáнташ ниньядаш пур áну?",
+      "ru": "Сколько выводков в год обычно у зайца?",
+      "options": [
+        {"letter": "A", "pt": "1 a 5", "transcription": "Ýн а сúнку", "ru": "1–5", "correct": false},
+        {"letter": "B", "pt": "2 a 4", "transcription": "Дóйш а куáтру", "ru": "2–4", "correct": false},
+        {"letter": "C", "pt": "1 a 3", "transcription": "Ýн а трэш", "ru": "1–3", "correct": true}
+      ]
+    },
+    {
+      "id": 102,
+      "pt": "Nas lebres, cada ninhada é, normalmente, constituída por quantos lebrachos?",
+      "transcription": "Наш лéбриш, кáда ниньяда э, нормáлменти, конституúда пур куáнтуш лебрáшуш?",
+      "ru": "У зайцев сколько зайчат обычно в одном выводке?",
+      "options": [
+        {"letter": "A", "pt": "1 ou 2", "transcription": "Ýн оу дóйш", "ru": "1 или 2", "correct": true},
+        {"letter": "B", "pt": "2 a 3", "transcription": "Дóйш а трэш", "ru": "2–3", "correct": false},
+        {"letter": "C", "pt": "2 a 4", "transcription": "Дóйш а куáтру", "ru": "2–4", "correct": false}
+      ]
+    },
+    {
+      "id": 103,
+      "pt": "A lebre reconhece-se facilmente por:",
+      "transcription": "А лéбри реконьéси-си фáсилменти пур:",
+      "ru": "Зайца легко узнать по:",
+      "options": [
+        {"letter": "A", "pt": "Ter os membros da frente muito maiores que os de trás", "transcription": "Тер уш мéмбруш да фрéнти мýйту майóриш ки уш ди трáш", "ru": "Передним конечностям, намного длиннее задних", "correct": false},
+        {"letter": "B", "pt": "Ter as orelhas grandes com a extremidade negra", "transcription": "Тер аз орéльяш грáндиш кон а эштремидáде нéгра", "ru": "Большим ушам с чёрным кончиком", "correct": true},
+        {"letter": "C", "pt": "Ter as orelhas pequenas e pontiagudas", "transcription": "Тер аз орéльяш пекéнаш и понтиагýдаш", "ru": "Маленьким заострённым ушам", "correct": false}
+      ]
+    },
+    {
+      "id": 104,
+      "pt": "A lebre é uma espécie que prefere como habitat:",
+      "transcription": "А лéбри э ýма эспéсие ки преферú куму абитáт:",
+      "ru": "В качестве местообитания заяц предпочитает:",
+      "options": [
+        {"letter": "A", "pt": "Matagais densos e fechados", "transcription": "Матагáйш дéнсуш и фешáдуш", "ru": "Густые закрытые заросли кустарника", "correct": false},
+        {"letter": "B", "pt": "Planícies abertas, cultivadas ou em pousio", "transcription": "Планúсиеш абéрташ, культивáдаш оу эн поузиу", "ru": "Открытые равнины, возделанные или пустующие", "correct": true},
+        {"letter": "C", "pt": "Áreas acidentadas e pedregosas", "transcription": "Áреаш асидентáдаш и педрегóзаш", "ru": "Пересечённые и каменистые местности", "correct": false}
+      ]
+    },
+    {
+      "id": 105,
+      "pt": "A raposa é:",
+      "transcription": "А рапóза э:",
+      "ru": "Лиса — это:",
+      "options": [
+        {"letter": "A", "pt": "Um animal solitário", "transcription": "Ун анимáл солитáриу", "ru": "Животное-одиночка", "correct": true},
+        {"letter": "B", "pt": "Um animal que vive em grandes colónias", "transcription": "Ун анимáл ки вúви эн грáндиш колóниаш", "ru": "Животное, живущее большими колониями", "correct": false},
+        {"letter": "C", "pt": "Um animal que vive aos casais", "transcription": "Ун анимáл ки вúви аош казáйш", "ru": "Животное, живущее парами", "correct": false}
+      ]
+    },
+    {
+      "id": 106,
+      "pt": "A raposa é:",
+      "transcription": "А рапóза э:",
+      "ru": "Лиса — это:",
+      "options": [
+        {"letter": "A", "pt": "Um mamífero de médio porte", "transcription": "Ун мамúферу ди мéдиу пóрти", "ru": "Млекопитающее среднего размера", "correct": true},
+        {"letter": "B", "pt": "Um mamífero de grande porte", "transcription": "Ун мамúферу ди грáнди пóрти", "ru": "Млекопитающее крупного размера", "correct": false},
+        {"letter": "C", "pt": "Um mamífero de pequeno porte", "transcription": "Ун мамúферу ди пекéну пóрти", "ru": "Млекопитающее малого размера", "correct": false}
+      ]
+    },
+    {
+      "id": 107,
+      "pt": "Os machos da raposa, por vezes, podem distinguir-se das fêmeas por:",
+      "transcription": "Уш мáшуш да рапóза, пур вéзеш, пóдэн диштингúр-си даш фéмеаш пур:",
+      "ru": "Самцов лисы иногда можно отличить от самок по:",
+      "options": [
+        {"letter": "A", "pt": "Apresentarem uma cabeça menos forte e mais afilada", "transcription": "Апрезентáрен ýма кабéса мéнуш фóрти и máйш афилáда", "ru": "Менее массивной и более заострённой голове", "correct": false},
+        {"letter": "B", "pt": "Apresentarem uma cabeça mais forte e menos afilada", "transcription": "Апрезентáрен ýма кабéса máйш фóрти и мéнуш афилáда", "ru": "Более массивной и менее заострённой голове", "correct": true},
+        {"letter": "C", "pt": "Apresentarem uma cabeça mais forte e mais afilada", "transcription": "Апрезентáрен ýма кабéса máйш фóрти и máйш афилáда", "ru": "Более массивной и более заострённой голове", "correct": false}
+      ]
+    },
+    {
+      "id": 108,
+      "pt": "A pelagem da raposa, durante o inverno é:",
+      "transcription": "А пелажéн да рапóза, дурáнти у инвéрну э:",
+      "ru": "Шерсть лисы зимой:",
+      "options": [
+        {"letter": "A", "pt": "Menos espesso e mais denso que no verão", "transcription": "Мéнуш эшпéсу и máйш дéнсу ки ну верáн", "ru": "Менее густая, но плотнее, чем летом", "correct": false},
+        {"letter": "B", "pt": "Mais espesso e menos denso que no verão", "transcription": "Máйш эшпéсу и мéнуш дéнсу ки ну верáн", "ru": "Гуще, но менее плотная, чем летом", "correct": false},
+        {"letter": "C", "pt": "Mais espesso e mais denso que no verão", "transcription": "Máйш эшпéсу и máйш дéнсу ки ну верáн", "ru": "Гуще и плотнее, чем летом", "correct": true}
+      ]
+    },
+    {
+      "id": 109,
+      "pt": "O cio da raposa ocorre geralmente em:",
+      "transcription": "У сúу да рапóза окóрри жерáлменти эн:",
+      "ru": "Гон (течка) у лисы обычно проходит в:",
+      "options": [
+        {"letter": "A", "pt": "Janeiro", "transcription": "Жанéйру", "ru": "Январе", "correct": true},
+        {"letter": "B", "pt": "Fevereiro", "transcription": "Феверéйру", "ru": "Феврале", "correct": false},
+        {"letter": "C", "pt": "Março", "transcription": "Мáрсу", "ru": "Марте", "correct": false}
+      ]
+    },
+    {
+      "id": 110,
+      "pt": "O período de gestação da raposa tem a duração aproximada de:",
+      "transcription": "У перúоду ди жештасáн да рапóза тэн а дурасáн апроксимáда ди:",
+      "ru": "Срок беременности у лисы длится приблизительно:",
+      "options": [
+        {"letter": "A", "pt": "40 a 50 dias", "transcription": "Куарéнта а синкóэнта дúаш", "ru": "40–50 дней", "correct": false},
+        {"letter": "B", "pt": "50 a 60 dias", "transcription": "Синкóэнта а сэсéнта дúаш", "ru": "50–60 дней", "correct": true},
+        {"letter": "C", "pt": "60 a 70 dias", "transcription": "Сэсéнта а сетéнта дúаш", "ru": "60–70 дней", "correct": false}
+      ]
+    },
+    {
+      "id": 111,
+      "pt": "Na raposa, cada ninhada tem em média:",
+      "transcription": "На рапóза, кáда ниньяда тэн эн мéдиа:",
+      "ru": "У лисы в каждом выводке в среднем:",
+      "options": [
+        {"letter": "A", "pt": "1 a 3 crias", "transcription": "Ýн а трэш крúаш", "ru": "1–3 детёныша", "correct": false},
+        {"letter": "B", "pt": "2 a 5 crias", "transcription": "Дóйш а сúнку крúаш", "ru": "2–5 детёнышей", "correct": false},
+        {"letter": "C", "pt": "3 a 6 crias", "transcription": "Трэш а сэйш крúаш", "ru": "3–6 детёнышей", "correct": true}
+      ]
+    },
+    {
+      "id": 112,
+      "pt": "As raposas podem ser vistas em grupo:",
+      "transcription": "Аш рапóзаш пóдэн сер вúшташ эн грýпу:",
+      "ru": "Лис можно увидеть группами:",
+      "options": [
+        {"letter": "A", "pt": "Durante todo o ano", "transcription": "Дурáнти тóду у áну", "ru": "В течение всего года", "correct": false},
+        {"letter": "B", "pt": "Durante o período de inverno", "transcription": "Дурáнти у перúоду ди инвéрну", "ru": "В зимний период", "correct": false},
+        {"letter": "C", "pt": "Durante o cio das fêmeas", "transcription": "Дурáнти у сúу даш фéмеаш", "ru": "Во время гона (течки) у самок", "correct": true}
+      ]
+    },
+    {
+      "id": 113,
+      "pt": "O saca-rabos é um animal:",
+      "transcription": "У сáка-рáбуш э ун анимáл:",
+      "ru": "Сáка-рáбуш (европейский барсук-мангуст) — животное:",
+      "options": [
+        {"letter": "A", "pt": "Que habita em locais com vegetação pouco densa", "transcription": "Ки абúта эн локáйш кон вежетасáн пóуку дéнса", "ru": "Обитающее в местах с редкой растительностью", "correct": false},
+        {"letter": "B", "pt": "Solitário", "transcription": "Солитáриу", "ru": "Одиночное", "correct": false},
+        {"letter": "C", "pt": "Que tanto pode ser visto de dia como de noite", "transcription": "Ки тáнту пóди сер вúшту ди дúа кóму ди нóйти", "ru": "Которое можно встретить как днём, так и ночью", "correct": true}
+      ]
+    },
+    {
+      "id": 114,
+      "pt": "O saca-rabos possui orelhas:",
+      "transcription": "У сáка-рáбуш посýй орéльяш:",
+      "ru": "У сака-рабос уши:",
+      "options": [
+        {"letter": "A", "pt": "Grandes e arredondadas", "transcription": "Грáндиш и арредондáдаш", "ru": "Большие и закруглённые", "correct": false},
+        {"letter": "B", "pt": "Muito curtas e arredondadas", "transcription": "Мýйту кýрташ и арредондáдаш", "ru": "Очень короткие и закруглённые", "correct": true},
+        {"letter": "C", "pt": "Muito curtas e afiladas", "transcription": "Мýйту кýрташ и афилáдаш", "ru": "Очень короткие и заострённые", "correct": false}
+      ]
+    },
+    {
+      "id": 115,
+      "pt": "O saca-rabos é:",
+      "transcription": "У сáка-рáбуш э:",
+      "ru": "Сака-рабос — это:",
+      "options": [
+        {"letter": "A", "pt": "Um carnívoro de médio porte", "transcription": "Ун карнúвору ди мéдиу пóрти", "ru": "Хищник среднего размера", "correct": true},
+        {"letter": "B", "pt": "Um carnívoro de grande porte", "transcription": "Ун карнúвору ди грáнди пóрти", "ru": "Хищник крупного размера", "correct": false},
+        {"letter": "C", "pt": "Um carnívoro de pequeno porte", "transcription": "Ун карнúвору ди пекéну пóрти", "ru": "Хищник малого размера", "correct": false}
+      ]
+    },
+    {
+      "id": 116,
+      "pt": "O saca-rabos é um animal:",
+      "transcription": "У сáка-рáбуш э ун анимáл:",
+      "ru": "Сака-рабос — животное:",
+      "options": [
+        {"letter": "A", "pt": "Solitário", "transcription": "Солитáриу", "ru": "Одиночное", "correct": false},
+        {"letter": "B", "pt": "Bastante sociável", "transcription": "Баштáнти сосиáвел", "ru": "Довольно общительное (социальное)", "correct": true},
+        {"letter": "C", "pt": "Pouco sociável", "transcription": "Пóуку сосиáвел", "ru": "Малообщительное", "correct": false}
+      ]
+    },
+    {
+      "id": 117,
+      "pt": "O saca-rabos é um animal que, durante as suas atividades de caça:",
+      "transcription": "У сáка-рáбуш э ун анимáл ки, дурáнти аш суаш атividáдеш ди кáса:",
+      "ru": "Сака-рабос — животное, которое во время охотничьей активности:",
+      "options": [
+        {"letter": "A", "pt": "Se desloca em grupos", "transcription": "Си дешлóка эн грýпуш", "ru": "Перемещается группами", "correct": true},
+        {"letter": "B", "pt": "Se desloca aos casais", "transcription": "Си дешлóка аош казáйш", "ru": "Перемещается парами", "correct": false},
+        {"letter": "C", "pt": "Se desloca sozinho", "transcription": "Си дешлóка созúнью", "ru": "Перемещается в одиночку", "correct": false}
+      ]
+    },
+    {
+      "id": 118,
+      "pt": "O saca-rabos é um animal:",
+      "transcription": "У сáка-рáбуш э ун анимáл:",
+      "ru": "Сака-рабос — животное:",
+      "options": [
+        {"letter": "A", "pt": "Que habita locais com vegetação pouco densa", "transcription": "Ки абúта локáйш кон вежетасáн пóуку дéнса", "ru": "Обитающее в местах с редкой растительностью", "correct": false},
+        {"letter": "B", "pt": "Que habita locais húmidos e alagadiços", "transcription": "Ки абúта локáйш ýмидуш и алагадúсуш", "ru": "Обитающее во влажных и заболоченных местах", "correct": false},
+        {"letter": "C", "pt": "Que habita locais com vegetação densa", "transcription": "Ки абúта локáйш кон вежетасáн дéнса", "ru": "Обитающее в местах с густой растительностью", "correct": true}
+      ]
+    },
+    {
+      "id": 119,
+      "pt": "A seguinte figura representa:",
+      "transcription": "А сегúнти фигýра репрезéнта:",
+      "ru": "На следующем изображении показан:",
+      "image_ref": "ICNF pg.119 — saca-rabos",
+      "options": [
+        {"letter": "A", "pt": "Um saca-rabos", "transcription": "Ун сáка-рáбуш", "ru": "Сака-рабос", "correct": true},
+        {"letter": "B", "pt": "Um texugo", "transcription": "Ун тешýгу", "ru": "Барсук", "correct": false},
+        {"letter": "C", "pt": "Um furão", "transcription": "Ун фурáн", "ru": "Хорёк", "correct": false}
+      ]
+    },
+    {
+      "id": 120,
+      "pt": "O saca-rabos alimenta-se principalmente de:",
+      "transcription": "У сáка-рáбуш алимéнта-си принсипáлменти ди:",
+      "ru": "Сака-рабос питается в основном:",
+      "options": [
+        {"letter": "A", "pt": "Aves, mamíferos, répteis e frutos", "transcription": "Áвиш, мамúфируш, рéптейш и фрýтуш", "ru": "Птицами, млекопитающими, рептилиями и плодами", "correct": true},
+        {"letter": "B", "pt": "Produtos vegetais variados", "transcription": "Продýтуш вежетáйш вариáдуш", "ru": "Разнообразными растительными продуктами", "correct": false},
+        {"letter": "C", "pt": "Insetos", "transcription": "Инсéтуш", "ru": "Насекомыми", "correct": false}
+      ]
+    },
+    {
+      "id": 121,
+      "pt": "O saca-rabos alimenta-se fundamentalmente de:",
+      "transcription": "У сáка-рáбуш алимéнта-си фундаментáлменти ди:",
+      "ru": "Сака-рабос питается преимущественно:",
+      "options": [
+        {"letter": "A", "pt": "Pequenas aves e mamíferos, répteis e frutos", "transcription": "Пекéнаш áвиш и мамúфируш, рéптейш и фрýтуш", "ru": "Мелкими птицами и млекопитающими, рептилиями и плодами", "correct": true},
+        {"letter": "B", "pt": "Produtos vegetais variados", "transcription": "Продýтуш вежетáйш вариáдуш", "ru": "Разнообразными растительными продуктами", "correct": false},
+        {"letter": "C", "pt": "Rebentos de árvores e arbustos", "transcription": "Ребéнтуш ди áрвориш и арбýштуш", "ru": "Побегами деревьев и кустарников", "correct": false}
+      ]
+    },
+    {
+      "id": 122,
+      "pt": "O saca-rabos tem uma alimentação:",
+      "transcription": "У сáка-рáбуш тэн ýма алиментасáн:",
+      "ru": "У сака-рабос рацион:",
+      "options": [
+        {"letter": "A", "pt": "Pouco variada, exclusivamente à base de peixes", "transcription": "Пóуку вариáда, эшклузивáменти а бáзи ди пéйшиш", "ru": "Малоразнообразный, исключительно на основе рыбы", "correct": false},
+        {"letter": "B", "pt": "Pouco variada, exclusivamente à base de insetos", "transcription": "Пóуку вариáда, эшклузивáменти а бáзи ди инсéтуш", "ru": "Малоразнообразный, исключительно на основе насекомых", "correct": false},
+        {"letter": "C", "pt": "Muito variada, onde se incluem pequenas aves e mamíferos, invertebrados, répteis e frutos", "transcription": "Мýйту вариáда, óнди си инклýэн пекéнаш áвиш и мамúфируш, инвертебрáдуш, рéптейш и фрýтуш", "ru": "Очень разнообразный, включающий мелких птиц и млекопитающих, беспозвоночных, рептилий и плоды", "correct": true}
+      ]
+    },
+    {
+      "id": 123,
+      "pt": "A partir de que idade se pode reproduzir o javali?",
+      "transcription": "А пáртир ди ки идáде си пóди репродузúр у жавалú?",
+      "ru": "С какого возраста кабан может размножаться?",
+      "options": [
+        {"letter": "A", "pt": "A partir dos 6 meses", "transcription": "А пáртир душ сэйш мéзеш", "ru": "С 6 месяцев", "correct": false},
+        {"letter": "B", "pt": "A partir dos 8 meses", "transcription": "А пáртир дуз óйту мéзеш", "ru": "С 8 месяцев", "correct": true},
+        {"letter": "C", "pt": "A partir dos 10 meses", "transcription": "А пáртир душ дэш мéзеш", "ru": "С 10 месяцев", "correct": false}
+      ]
+    },
+    {
+      "id": 124,
+      "pt": "Como se designam os grupos de javalis?",
+      "transcription": "Кóму си дезúгнан уш грýпуш ди жавалúш?",
+      "ru": "Как называются группы кабанов?",
+      "options": [
+        {"letter": "A", "pt": "Varas ou companhias", "transcription": "Вáраш оу компаньúаш", "ru": "«Вáраш» или «компаньúаш»", "correct": true},
+        {"letter": "B", "pt": "Rebanhos ou manadas", "transcription": "Ребáньюш оу манáдаш", "ru": "«Ребáньюш» или «манáдаш» (стада)", "correct": false},
+        {"letter": "C", "pt": "Bandos ou companhias", "transcription": "Бáндуш оу компаньúаш", "ru": "«Бáндуш» (стаи) или «компаньúаш»", "correct": false}
+      ]
+    },
+    {
+      "id": 125,
+      "pt": "Qual a espécie de caça maior com mais ampla representação em Portugal?",
+      "transcription": "Куáл а эспéсие ди кáса майóр кон máйш áмпла репрезентасáн эн Португáл?",
+      "ru": "Какой вид крупной дичи наиболее широко представлен в Португалии?",
+      "options": [
+        {"letter": "A", "pt": "Raposa", "transcription": "Рапóза", "ru": "Лиса", "correct": false},
+        {"letter": "B", "pt": "Veado", "transcription": "Виáду", "ru": "Благородный олень", "correct": false},
+        {"letter": "C", "pt": "Javali", "transcription": "Жавалú", "ru": "Кабан", "correct": true}
+      ]
+    },
+    {
+      "id": 126,
+      "pt": "No javali, dá-se o nome de navalhas aos dentes:",
+      "transcription": "Ну жавалú, дá-си у нóми ди навáльяш аош дéнтиш:",
+      "ru": "У кабана «навáльяш» (бритвы) называют зубы:",
+      "options": [
+        {"letter": "A", "pt": "Caninos inferiores", "transcription": "Канúнуш инфериóриш", "ru": "Нижние клыки", "correct": true},
+        {"letter": "B", "pt": "Caninos superiores", "transcription": "Канúнуш супериóриш", "ru": "Верхние клыки", "correct": false},
+        {"letter": "C", "pt": "Pré-molares", "transcription": "Прé-моляриш", "ru": "Предкоренные зубы", "correct": false}
+      ]
+    },
+    {
+      "id": 127,
+      "pt": "No javali, dá-se o nome de amoladeiras aos dentes:",
+      "transcription": "Ну жавалú, дá-си у нóми ди амоладéйраш аош дéнтиш:",
+      "ru": "У кабана «амоладéйраш» (точильные) называют зубы:",
+      "options": [
+        {"letter": "A", "pt": "Caninos superiores", "transcription": "Канúнуш супериóриш", "ru": "Верхние клыки", "correct": true},
+        {"letter": "B", "pt": "Pré-molares", "transcription": "Прé-моляриш", "ru": "Предкоренные зубы", "correct": false},
+        {"letter": "C", "pt": "Caninos inferiores", "transcription": "Канúнуш инфериóриш", "ru": "Нижние клыки", "correct": false}
+      ]
+    },
+    {
+      "id": 128,
+      "pt": "Em hábitos alimentares, o javali é um animal:",
+      "transcription": "Эн áбитуш алиментáреш, у жавалú э ун анимáл:",
+      "ru": "По пищевым привычкам кабан — животное:",
+      "options": [
+        {"letter": "A", "pt": "Insectívoro", "transcription": "Инсектúвору", "ru": "Насекомоядное", "correct": false},
+        {"letter": "B", "pt": "Granívoro", "transcription": "Гранúвору", "ru": "Зерноядное", "correct": false},
+        {"letter": "C", "pt": "Omnívoro", "transcription": "Омнúвору", "ru": "Всеядное", "correct": true}
+      ]
+    },
+    {
+      "id": 129,
+      "pt": "Com a idade, os javalis machos adultos, tendem a:",
+      "transcription": "Кон а идáде, уш жавалúш мáшуш адýлтуш, тéндэн а:",
+      "ru": "С возрастом взрослые самцы кабана, как правило:",
+      "options": [
+        {"letter": "A", "pt": "Formar casais", "transcription": "Формáр казáйш", "ru": "Образуют пары", "correct": false},
+        {"letter": "B", "pt": "Formar grandes grupos só de machos", "transcription": "Формáр грáндиш грýпуш só ди мáшуш", "ru": "Образуют большие группы только из самцов", "correct": false},
+        {"letter": "C", "pt": "Isolar-se progressivamente", "transcription": "Изолáр-си прогресивáменти", "ru": "Постепенно уединяются", "correct": true}
+      ]
+    },
+    {
+      "id": 130,
+      "pt": "A gestação do javali, dura em média:",
+      "transcription": "А жештасáн ду жавалú, дýра эн мéдиа:",
+      "ru": "Беременность у кабана длится в среднем:",
+      "options": [
+        {"letter": "A", "pt": "100 dias", "transcription": "Сэн дúаш", "ru": "100 дней", "correct": false},
+        {"letter": "B", "pt": "110 dias", "transcription": "Сэнту-и-дэш дúаш", "ru": "110 дней", "correct": false},
+        {"letter": "C", "pt": "120 dias", "transcription": "Сэнту-и-винти дúаш", "ru": "120 дней", "correct": true}
+      ]
+    },
+    {
+      "id": 131,
+      "pt": "Que nome se dá à cria de javali com menos de 6 meses de idade?",
+      "transcription": "Ки нóми си дá а крúа ди жавалú кон мéнуш ди сэйш мéзеш ди идáде?",
+      "ru": "Как называется детёныш кабана младше 6 месяцев?",
+      "options": [
+        {"letter": "A", "pt": "Listado", "transcription": "Лиштáду", "ru": "Лиштáду («полосатик»)", "correct": true},
+        {"letter": "B", "pt": "Farropo", "transcription": "Фаррóпу", "ru": "Фаррóпу", "correct": false},
+        {"letter": "C", "pt": "Leitão", "transcription": "Лейтáн", "ru": "Лейтáн (поросёнок, обычно о домашней свинье)", "correct": false}
+      ]
+    },
+    {
+      "id": 132,
+      "pt": "Entre os 6 meses e 1 ano de idade, a cria de javali tem uma designação própria. Qual?",
+      "transcription": "Éнтри уш сэйш мéзеш и ýн áну ди идáде, а крúа ди жавалú тэн ýма дезигнасáн прóприа. Куáл?",
+      "ru": "Между 6 месяцами и 1 годом у детёныша кабана есть своё название. Какое?",
+      "options": [
+        {"letter": "A", "pt": "Bácoro", "transcription": "Бáкору", "ru": "Бáкору", "correct": false},
+        {"letter": "B", "pt": "Listado", "transcription": "Лиштáду", "ru": "Лиштáду", "correct": false},
+        {"letter": "C", "pt": "Farropo", "transcription": "Фаррóпу", "ru": "Фаррóпу", "correct": true}
+      ]
+    },
+    {
+      "id": 133,
+      "pt": "Indique qual das seguintes frases está correta:",
+      "transcription": "Индúки куáл даш сегúнтеш фрáзиш эштá коррéта:",
+      "ru": "Укажите, какое из следующих утверждений верно:",
+      "options": [
+        {"letter": "A", "pt": "O javali é um animal sociável durante toda a sua vida", "transcription": "У жавалú э ун анимáл сосиáвел дурáнти тóда а суа вúда", "ru": "Кабан — общительное животное на протяжении всей жизни", "correct": false},
+        {"letter": "B", "pt": "O trofeu do javali é a cabeça", "transcription": "У трофéу ду жавалú э а кабéса", "ru": "Трофей кабана — это голова", "correct": false},
+        {"letter": "C", "pt": "O cio do javali não ocorre sempre numa época fixa", "transcription": "У сúу ду жавалú нан окóрри сéмпри нýма éпока фúкса", "ru": "Гон (течка) у кабана не всегда происходит в фиксированный период", "correct": true}
+      ]
+    },
+    {
+      "id": 134,
+      "pt": "O javali apresenta diferentes pelagens consoante a idade. A pelagem conhecida como \"raiada\" é característica dos animais com:",
+      "transcription": "У жавалú апрезéнта диферéнтеш пелажéнш консуáнти а идáде. А пелажéн коньесúда кóму раяда э карактерúштика душ анимáйш кон:",
+      "ru": "У кабана разная окраска шерсти в зависимости от возраста. Окраска, известная как «полосатая», характерна для животных в возрасте:",
+      "options": [
+        {"letter": "A", "pt": "Menos de 6 meses de idade", "transcription": "Мéнуш ди сэйш мéзеш ди идáде", "ru": "Младше 6 месяцев", "correct": true},
+        {"letter": "B", "pt": "2 anos de idade", "transcription": "Дóйш áнуш ди идáде", "ru": "2 года", "correct": false},
+        {"letter": "C", "pt": "Idade adulta", "transcription": "Идáде адýлта", "ru": "Взрослого возраста", "correct": false}
+      ]
+    },
+    {
+      "id": 135,
+      "pt": "No javali adulto, um dos carateres que permitem distinguir o macho da fêmea é:",
+      "transcription": "Ну жавалú адýлту, ун душ карактéриш ки пермúтэн диштингúр у мáшу да фéмеа э:",
+      "ru": "У взрослого кабана один из признаков, позволяющих отличить самца от самки:",
+      "options": [
+        {"letter": "A", "pt": "A cor mais clara do macho", "transcription": "А кор máйш клáра ду мáшу", "ru": "Более светлый окрас самца", "correct": false},
+        {"letter": "B", "pt": "A presença de presas mais desenvolvidas nos machos", "transcription": "А презéнса ди прéзаш máйш дезенволвúдаш нуш мáшуш", "ru": "Наличие более развитых клыков у самцов", "correct": true},
+        {"letter": "C", "pt": "A cauda mais comprida no macho", "transcription": "А кáуда máйш компрúда ну мáшу", "ru": "Более длинный хвост у самца", "correct": false}
+      ]
+    },
+    {
+      "id": 136,
+      "pt": "Em termos de habitat, o javali necessita sobretudo de dois elementos. Indique quais:",
+      "transcription": "Эн тéрмуш ди абитáт, у жавалú несесúта собрэтýду ди дóйш элемéнтуш. Индúки куáйш:",
+      "ru": "В плане местообитания кабану прежде всего нужны два элемента. Укажите какие:",
+      "options": [
+        {"letter": "A", "pt": "Zonas abertas com amplas áreas de alimentação", "transcription": "Зóнаш абéрташ кон áмплаш áреаш ди алиментасáн", "ru": "Открытые зоны с обширными кормовыми площадями", "correct": false},
+        {"letter": "B", "pt": "Extensas zonas de abrigo - essencialmente constituídas por matos cerrados - e presença de água", "transcription": "Эштéнсаш зóнаш ди абрúгу - эссенсиáлменти конституúдаш пур мáтуш сэррáдуш - и презéнса ди áгуа", "ru": "Протяжённые зоны укрытия (в основном густые заросли) и наличие воды", "correct": true},
+        {"letter": "C", "pt": "Zonas cerealíferas em áreas muito acidentadas e presença de água", "transcription": "Зóнаш серealúфераш эн áреаш мýйту асидентáдаш и презéнса ди áгуа", "ru": "Зерновые зоны на сильно пересечённой местности и наличие воды", "correct": false}
+      ]
+    },
+    {
+      "id": 137,
+      "pt": "Em que época do ano os gamos perdem as armações?",
+      "transcription": "Эн ки éпока ду áну уш гáмуш пéрдэн аш армасóйнш?",
+      "ru": "В какое время года лани теряют рога?",
+      "options": [
+        {"letter": "A", "pt": "Março a abril", "transcription": "Мáрсу а абрúл", "ru": "Март–апрель", "correct": true},
+        {"letter": "B", "pt": "Fevereiro a março", "transcription": "Феверéйру а мáрсу", "ru": "Февраль–март", "correct": false},
+        {"letter": "C", "pt": "Janeiro a fevereiro", "transcription": "Жанéйру а феверéйру", "ru": "Январь–февраль", "correct": false}
+      ]
+    },
+    {
+      "id": 138,
+      "pt": "Quando se iniciam os nascimentos nas gamelas?",
+      "transcription": "Куáнду си инúсиан уш нашсимéнтуш наш гамéлаш?",
+      "ru": "Когда начинаются роды у самок лани?",
+      "options": [
+        {"letter": "A", "pt": "Abril", "transcription": "Абрúл", "ru": "Апрель", "correct": false},
+        {"letter": "B", "pt": "Maio", "transcription": "Мáйу", "ru": "Май", "correct": true},
+        {"letter": "C", "pt": "Junho", "transcription": "Жýньу", "ru": "Июнь", "correct": false}
+      ]
+    },
+    {
+      "id": 139,
+      "pt": "A armação do gamo é constituída por:",
+      "transcription": "А армасáн ду гáму э конституúда пур:",
+      "ru": "Рога лани состоят из:",
+      "options": [
+        {"letter": "A", "pt": "Duas hastes espalmadas, arredondadas na base", "transcription": "Дýаш áштиш эшпалмáдаш, арредондáдаш на бáзи", "ru": "Двух лопатообразных стволов, закруглённых у основания", "correct": true},
+        {"letter": "B", "pt": "Duas hastes arredondadas, espalmadas na base", "transcription": "Дýаш áштиш арредондáдаш, эшпалмáдаш на бáзи", "ru": "Двух закруглённых стволов, сплюснутых у основания", "correct": false},
+        {"letter": "C", "pt": "Duas hastes cilíndricas, mais ou menos ramificadas", "transcription": "Дýаш áштиш силúндрикаш, máйш оу мéнуш рамификáдаш", "ru": "Двух цилиндрических, более-менее ветвистых стволов", "correct": false}
+      ]
+    },
+    {
+      "id": 140,
+      "pt": "A cabeça do gamo atinge a sua forma característica:",
+      "transcription": "А кабéса ду гáму атúнги а суа фóрма карактерúштика:",
+      "ru": "Голова (рога) лани приобретает характерную форму:",
+      "options": [
+        {"letter": "A", "pt": "Aos 5 anos", "transcription": "Аош сúнку áнуш", "ru": "К 5 годам", "correct": false},
+        {"letter": "B", "pt": "Aos 6 anos", "transcription": "Аош сэйш áнуш", "ru": "К 6 годам", "correct": false},
+        {"letter": "C", "pt": "Aos 7 anos", "transcription": "Аош сэти áнуш", "ru": "К 7 годам", "correct": true}
+      ]
+    },
+    {
+      "id": 141,
+      "pt": "O gamo prefere:",
+      "transcription": "У гáму преферú:",
+      "ru": "Лань предпочитает:",
+      "options": [
+        {"letter": "A", "pt": "Zonas com abundante arvoredo e matagal, com áreas de pasto", "transcription": "Зóнаш кон абундáнти арворéду и матагáл, кон áреаш ди пáшту", "ru": "Зоны с обильным лесом и кустарником, с пастбищными участками", "correct": true},
+        {"letter": "B", "pt": "Zonas abertas, com áreas de pasto e sombras", "transcription": "Зóнаш абéрташ, кон áреаш ди пáшту и сóмбраш", "ru": "Открытые зоны с пастбищами и тенью", "correct": false},
+        {"letter": "C", "pt": "Zonas alagadiças e húmidas", "transcription": "Зóнаш алагадúсаш и ýмидаш", "ru": "Заболоченные и влажные зоны", "correct": false}
+      ]
+    },
+    {
+      "id": 142,
+      "pt": "O cio no gamo começa:",
+      "transcription": "У сúу ну гáму комéса:",
+      "ru": "Гон у лани начинается:",
+      "options": [
+        {"letter": "A", "pt": "No princípio do verão", "transcription": "Ну принсúпиу ду верáн", "ru": "В начале лета", "correct": false},
+        {"letter": "B", "pt": "No princípio do outono", "transcription": "Ну принсúпиу ду оутóну", "ru": "В начале осени", "correct": true},
+        {"letter": "C", "pt": "No princípio do inverno", "transcription": "Ну принсúпиу ду инвéрну", "ru": "В начале зимы", "correct": false}
+      ]
+    },
+    {
+      "id": 143,
+      "pt": "A seguinte figura representa um:",
+      "transcription": "А сегúнти фигýра репрезéнта ун:",
+      "ru": "На следующем изображении показан:",
+      "image_ref": "ICNF pg.143 — veado",
+      "options": [
+        {"letter": "A", "pt": "Veado", "transcription": "Виáду", "ru": "Благородный олень", "correct": true},
+        {"letter": "B", "pt": "Corço", "transcription": "Кóрсу", "ru": "Косуля", "correct": false},
+        {"letter": "C", "pt": "Gamo", "transcription": "Гáму", "ru": "Лань", "correct": false}
+      ]
+    },
+    {
+      "id": 144,
+      "pt": "Qual o nome da fêmea do veado?",
+      "transcription": "Куáл у нóми да фéмеа ду виáду?",
+      "ru": "Как называется самка благородного оленя?",
+      "options": [
+        {"letter": "A", "pt": "Corça", "transcription": "Кóрса", "ru": "Кóрса (это самка косули)", "correct": false},
+        {"letter": "B", "pt": "Cerva", "transcription": "Сéрва", "ru": "Сéрва", "correct": true},
+        {"letter": "C", "pt": "Gama ou gamela", "transcription": "Гáма оу гамéла", "ru": "Гáма или гамéла (это самка лани)", "correct": false}
+      ]
+    },
+    {
+      "id": 145,
+      "pt": "Em que época do ano os veados perdem as armações?",
+      "transcription": "Эн ки éпока ду áну уш виáдуш пéрдэн аш армасóйнш?",
+      "ru": "В какое время года благородные олени теряют рога?",
+      "options": [
+        {"letter": "A", "pt": "Finais de fevereiro a março", "transcription": "Финáйш ди феверéйру а мáрсу", "ru": "Конец февраля – март", "correct": true},
+        {"letter": "B", "pt": "Finais de março a abril", "transcription": "Финáйш ди мáрсу а абрúл", "ru": "Конец марта – апрель", "correct": false},
+        {"letter": "C", "pt": "Finais de janeiro a fevereiro", "transcription": "Финáйш ди жанéйру а феверéйру", "ru": "Конец января – февраль", "correct": false}
+      ]
+    },
+    {
+      "id": 146,
+      "pt": "A armação do veado atinge a forma característica por volta dos:",
+      "transcription": "А армасáн ду виáду атúнги а фóрма карактерúштика пур вóлта душ:",
+      "ru": "Рога благородного оленя приобретают характерную форму примерно к:",
+      "options": [
+        {"letter": "A", "pt": "7 a 8 anos de vida", "transcription": "Сэти а óйту áнуш ди вúда", "ru": "7–8 годам жизни", "correct": true},
+        {"letter": "B", "pt": "8 a 9 anos de vida", "transcription": "Óйту а нóви áнуш ди вúда", "ru": "8–9 годам жизни", "correct": false},
+        {"letter": "C", "pt": "6 a 7 anos de vida", "transcription": "Сэйш а сэти áнуш ди вúда", "ru": "6–7 годам жизни", "correct": false}
+      ]
+    },
+    {
+      "id": 147,
+      "pt": "A armação do veado, além de constituir um troféu de caça, é ainda:",
+      "transcription": "А армасáн ду виáду, алéн ди конституúр ун трофéу ди кáса, э áйнда:",
+      "ru": "Рога благородного оленя, помимо охотничьего трофея, также:",
+      "options": [
+        {"letter": "A", "pt": "Indicadora da idade do macho", "transcription": "Индикадóра да идáде ду мáшу", "ru": "Указывают на возраст самца", "correct": true},
+        {"letter": "B", "pt": "Indicadora da idade da fêmea", "transcription": "Индикадóра да идáде да фéмеа", "ru": "Указывают на возраст самки", "correct": false},
+        {"letter": "C", "pt": "Indicadora da idade de ambos os sexos", "transcription": "Индикадóра да идáде ди áмбуш уш сéксуш", "ru": "Указывают на возраст обоих полов", "correct": false}
+      ]
+    },
+    {
+      "id": 148,
+      "pt": "Os habitats preferidos do veado são:",
+      "transcription": "Уз абитáтш преферúдуш ду виáду сáн:",
+      "ru": "Предпочитаемые местообитания благородного оленя:",
+      "options": [
+        {"letter": "A", "pt": "Bosques de folha caduca e matagais, muito fechados", "transcription": "Бóшкиш ди фóлья кадýка и матагáйш, мýйту фешáдуш", "ru": "Очень закрытые лиственные леса и заросли кустарника", "correct": false},
+        {"letter": "B", "pt": "Bosques de folha caduca, com zonas abertas, e matagais", "transcription": "Бóшкиш ди фóлья кадýка, кон зóнаш абéрташ, и матагáйш", "ru": "Лиственные леса с открытыми участками и заросли кустарника", "correct": true},
+        {"letter": "C", "pt": "Bosques de coníferas, matagais e zonas húmidas", "transcription": "Бóшкиш ди конúфераш, матагáйш и зóнаш ýмидаш", "ru": "Хвойные леса, заросли кустарника и влажные зоны", "correct": false}
+      ]
+    },
+    {
+      "id": 149,
+      "pt": "As cervas podem criar pela primeira vez com a idade de:",
+      "transcription": "Аш сéрваш пóдэн криáр пéла примéйра вэз кон а идáде ди:",
+      "ru": "Самки благородного оленя могут впервые приносить потомство в возрасте:",
+      "options": [
+        {"letter": "A", "pt": "1 ano", "transcription": "Ýн áну", "ru": "1 год", "correct": false},
+        {"letter": "B", "pt": "2 anos", "transcription": "Дóйш áнуш", "ru": "2 года", "correct": true},
+        {"letter": "C", "pt": "3 anos", "transcription": "Трэш áнуш", "ru": "3 года", "correct": false}
+      ]
+    },
+    {
+      "id": 150,
+      "pt": "Dá-se o nome de brama:",
+      "transcription": "Дá-си у нóми ди брáма:",
+      "ru": "«Брáма» (рёв оленя) называют:",
+      "options": [
+        {"letter": "A", "pt": "Ao grito de desafio que o veado macho lança aos seus rivais na época do cio", "transcription": "Ау грúту ди дезафúу ки у виáду мáшу лáнса аош сéуш ривáйш на éпока ду сúу", "ru": "Призывный рёв-вызов, который самец оленя издаёт соперникам во время гона", "correct": true},
+        {"letter": "B", "pt": "Ao grito que as cervas utilizam para chamar as crias", "transcription": "Ау грúту ки аш сéрваш утилúзан пáра шамáр аш крúаш", "ru": "Крик, которым самки оленя подзывают детёнышей", "correct": false},
+        {"letter": "C", "pt": "Ao grito que os veados machos utilizam para chamar as fêmeas", "transcription": "Ау грúту ки уш виáдуш мáшуш утилúзан пáра шамáр аш фéмеаш", "ru": "Крик, которым самцы оленя подзывают самок", "correct": false}
+      ]
+    },
+    {
+      "id": 151,
+      "pt": "Quando começam os nascimentos nas cervas?",
+      "transcription": "Куáнду комéсан уш нашсимéнтуш наш сéрваш?",
+      "ru": "Когда начинаются роды у самок благородного оленя?",
+      "options": [
+        {"letter": "A", "pt": "Março", "transcription": "Мáрсу", "ru": "Март", "correct": false},
+        {"letter": "B", "pt": "Abril", "transcription": "Абрúл", "ru": "Апрель", "correct": true},
+        {"letter": "C", "pt": "Maio", "transcription": "Мáйу", "ru": "Май", "correct": false}
+      ]
+    },
+    {
+      "id": 152,
+      "pt": "A armação do veado é composta por:",
+      "transcription": "А армасáн ду виáду э компóшта пур:",
+      "ru": "Рога благородного оленя состоят из:",
+      "options": [
+        {"letter": "A", "pt": "Duas hastes espalmadas, arredondadas na base", "transcription": "Дýаш áштиш эшпалмáдаш, арредондáдаш на бáзи", "ru": "Двух лопатообразных стволов, закруглённых у основания", "correct": false},
+        {"letter": "B", "pt": "Duas hastes cilíndricas, mais ou menos ramificadas", "transcription": "Дýаш áштиш силúндрикаш, máйш оу мéнуш рамификáдаш", "ru": "Двух цилиндрических, более-менее ветвистых стволов", "correct": true},
+        {"letter": "C", "pt": "Duas hastes cilíndricas, espalmadas nas pontas", "transcription": "Дýаш áштиш силúндрикаш, эшпалмáдаш наш пóнташ", "ru": "Двух цилиндрических стволов, сплюснутых на концах", "correct": false}
+      ]
+    },
+    {
+      "id": 153,
+      "pt": "O termo \"veludo\" significa:",
+      "transcription": "У тéрму вэлýду сигнифúка:",
+      "ru": "Термин «вэлýду» («бархат») означает:",
+      "options": [
+        {"letter": "A", "pt": "A pelagem das crias de veado até ás duas primeiras semanas de vida", "transcription": "А пелажéн даш крúаш ди виáду атé аш дýаш примéйраш семáнаш ди вúда", "ru": "Шерсть олених детёнышей в первые две недели жизни", "correct": false},
+        {"letter": "B", "pt": "A cobertura de pele cinzenta com pelos que protege as hastes de veado em formação", "transcription": "А кобертýра ди пéли синзéнта кон пéлуш ки протéжи аш áштиш ди виáду эн формасáн", "ru": "Серый кожный покров с волосками, защищающий формирующиеся рога оленя", "correct": true},
+        {"letter": "C", "pt": "O escudo anal do corço", "transcription": "У эшкýду анáл ду кóрсу", "ru": "Анальное зеркало косули", "correct": false}
+      ]
+    },
+    {
+      "id": 154,
+      "pt": "As armações do veado adulto:",
+      "transcription": "Аз армасóйнш ду виáду адýлту:",
+      "ru": "Рога взрослого оленя:",
+      "options": [
+        {"letter": "A", "pt": "Só caem até ao sexto ano de vida", "transcription": "Só кáэн атé ау сéшту áну ди вúда", "ru": "Опадают только до шестого года жизни", "correct": false},
+        {"letter": "B", "pt": "Caem todos os anos durante a época do cio", "transcription": "Кáэн тóдуш уз áнуш дурáнти а éпока ду сúу", "ru": "Опадают каждый год во время гона", "correct": false},
+        {"letter": "C", "pt": "Caem todos os anos depois da época do cio", "transcription": "Кáэн тóдуш уз áнуш депóйш да éпока ду сúу", "ru": "Опадают каждый год после гона", "correct": true}
+      ]
+    },
+    {
+      "id": 155,
+      "pt": "Qual dos cervídeos portugueses é mais corpulento?",
+      "transcription": "Куáл душ сервúдеуш португéзиш э máйш корпулéнту?",
+      "ru": "Какой из португальских оленевых наиболее крупный?",
+      "options": [
+        {"letter": "A", "pt": "Corço", "transcription": "Кóрсу", "ru": "Косуля", "correct": false},
+        {"letter": "B", "pt": "Gamo", "transcription": "Гáму", "ru": "Лань", "correct": false},
+        {"letter": "C", "pt": "Veado", "transcription": "Виáду", "ru": "Благородный олень", "correct": true}
+      ]
+    },
+    {
+      "id": 156,
+      "pt": "O veado distingue-se do corço por:",
+      "transcription": "У виáду диштúнги-си ду кóрсу пур:",
+      "ru": "Благородный олень отличается от косули:",
+      "options": [
+        {"letter": "A", "pt": "Ser mais corpulento", "transcription": "Сер máйш корпулéнту", "ru": "Более крупным телосложением", "correct": true},
+        {"letter": "B", "pt": "Ter hastes ramificadas", "transcription": "Тер áштиш рамификáдаш", "ru": "Наличием ветвистых рогов", "correct": false},
+        {"letter": "C", "pt": "Só os machos possuírem armação", "transcription": "Só уш мáшуш посуúрен армасáн", "ru": "Тем, что рога только у самцов", "correct": false}
+      ]
+    },
+    {
+      "id": 157,
+      "pt": "Em que época do ano os machos de veado perdem as armações?",
+      "transcription": "Эн ки éпока ду áну уш мáшуш ди виáду пéрдэн аш армасóйнш?",
+      "ru": "В какое время года самцы благородного оленя теряют рога?",
+      "options": [
+        {"letter": "A", "pt": "Outubro a novembro", "transcription": "Оутýбру а новéмбру", "ru": "Октябрь–ноябрь", "correct": false},
+        {"letter": "B", "pt": "Fins de fevereiro e março", "transcription": "Финш ди феверéйру и мáрсу", "ru": "Конец февраля и март", "correct": true},
+        {"letter": "C", "pt": "Nunca", "transcription": "Нýнка", "ru": "Никогда", "correct": false}
+      ]
+    },
+    {
+      "id": 158,
+      "pt": "Em qual das espécies as parições são frequentemente de gémeos?",
+      "transcription": "Эн куáл даз эспéсиеш аш парисóйнш сáн фреквентементи ди жéмеуш?",
+      "ru": "У какого вида роды часто бывают двойней?",
+      "options": [
+        {"letter": "A", "pt": "Gamo", "transcription": "Гáму", "ru": "Лань", "correct": false},
+        {"letter": "B", "pt": "Muflão", "transcription": "Муфлáн", "ru": "Муфлон", "correct": false},
+        {"letter": "C", "pt": "Corço", "transcription": "Кóрсу", "ru": "Косуля", "correct": true}
+      ]
+    },
+    {
+      "id": 159,
+      "pt": "O cio do corço ocorre entre:",
+      "transcription": "У сúу ду кóрсу окóрри éнтри:",
+      "ru": "Гон у косули проходит между:",
+      "options": [
+        {"letter": "A", "pt": "Julho e agosto", "transcription": "Жýльу и агóшту", "ru": "Июлем и августом", "correct": true},
+        {"letter": "B", "pt": "Agosto e setembro", "transcription": "Агóшту и сетéмбру", "ru": "Августом и сентябрём", "correct": false},
+        {"letter": "C", "pt": "Setembro e outubro", "transcription": "Сетéмбру и оутýбру", "ru": "Сентябрём и октябрём", "correct": false}
+      ]
+    },
+    {
+      "id": 160,
+      "pt": "No corço, os partos ocorrem geralmente em:",
+      "transcription": "Ну кóрсу, уш пáртуш окóррен жерáлменти эн:",
+      "ru": "У косули роды обычно проходят в:",
+      "options": [
+        {"letter": "A", "pt": "Janeiro", "transcription": "Жанéйру", "ru": "Январе", "correct": false},
+        {"letter": "B", "pt": "Maio", "transcription": "Мáйу", "ru": "Мае", "correct": true},
+        {"letter": "C", "pt": "Agosto", "transcription": "Агóшту", "ru": "Августе", "correct": false}
+      ]
+    },
+    {
+      "id": 161,
+      "pt": "O tempo de gestação da corça é de:",
+      "transcription": "У тéмпу ди жештасáн да кóрса э ди:",
+      "ru": "Срок беременности самки косули составляет:",
+      "options": [
+        {"letter": "A", "pt": "8 meses", "transcription": "Óйту мéзеш", "ru": "8 месяцев", "correct": false},
+        {"letter": "B", "pt": "9 meses", "transcription": "Нóви мéзеш", "ru": "9 месяцев", "correct": false},
+        {"letter": "C", "pt": "10 meses", "transcription": "Дэш мéзеш", "ru": "10 месяцев", "correct": true}
+      ]
+    },
+    {
+      "id": 162,
+      "pt": "O corço é um animal:",
+      "transcription": "У кóрсу э ун анимáл:",
+      "ru": "Косуля — это животное:",
+      "options": [
+        {"letter": "A", "pt": "Fundamentalmente solitário", "transcription": "Фундаментáлменти солитáриу", "ru": "В основном одиночное", "correct": true},
+        {"letter": "B", "pt": "Que forma rebanhos durante o inverno", "transcription": "Ки фóрма ребáньюш дурáнти у инвéрну", "ru": "Образующее стада зимой", "correct": false},
+        {"letter": "C", "pt": "Que forma rebanhos durante o verão", "transcription": "Ки фóрма ребáньюш дурáнти у верáн", "ru": "Образующее стада летом", "correct": false}
+      ]
+    },
+    {
+      "id": 163,
+      "pt": "O cio do corço ocorre",
+      "transcription": "У сúу ду кóрсу окóрри",
+      "ru": "Гон у косули проходит",
+      "options": [
+        {"letter": "A", "pt": "No outono", "transcription": "Ну оутóну", "ru": "Осенью", "correct": false},
+        {"letter": "B", "pt": "No verão", "transcription": "Ну верáн", "ru": "Летом", "correct": true},
+        {"letter": "C", "pt": "Na primavera", "transcription": "На примавéра", "ru": "Весной", "correct": false}
+      ]
+    },
+    {
+      "id": 164,
+      "pt": "Durante a época do ano em que o corço não tem armações, como se pode distinguir o macho da fêmea?",
+      "transcription": "Дурáнти а éпока ду áну эн ки у кóрсу нан тэн армасóйнш, кóму си пóди диштингúр у мáшу да фéмеа?",
+      "ru": "В период года, когда у косули нет рогов, как отличить самца от самки?",
+      "options": [
+        {"letter": "A", "pt": "Pela cor da pele", "transcription": "Пéла кор да пéли", "ru": "По цвету кожи", "correct": false},
+        {"letter": "B", "pt": "Pelo escudo anal", "transcription": "Пéлу эшкýду анáл", "ru": "По анальному зеркалу", "correct": true},
+        {"letter": "C", "pt": "Pelo tamanho das orelhas", "transcription": "Пéлу таманью даз орéльяш", "ru": "По размеру ушей", "correct": false}
+      ]
+    },
+    {
+      "id": 165,
+      "pt": "Em que época ocorre o cio no muflão?",
+      "transcription": "Эн ки éпока окóрри у сúу ну муфлáн?",
+      "ru": "В какое время года проходит гон у муфлона?",
+      "options": [
+        {"letter": "A", "pt": "No mês de novembro", "transcription": "Ну мэш ди новéмбру", "ru": "В ноябре", "correct": true},
+        {"letter": "B", "pt": "No mês de dezembro", "transcription": "Ну мэш ди дезéмбру", "ru": "В декабре", "correct": false},
+        {"letter": "C", "pt": "No mês de outubro", "transcription": "Ну мэш ди оутýбру", "ru": "В октябре", "correct": false}
+      ]
+    },
+    {
+      "id": 166,
+      "pt": "As parições no muflão verificam-se normalmente em:",
+      "transcription": "Аш парисóйнш ну муфлáн верифúкан-си нормáлменти эн:",
+      "ru": "Роды у муфлона обычно происходят в:",
+      "options": [
+        {"letter": "A", "pt": "Março", "transcription": "Мáрсу", "ru": "Марте", "correct": false},
+        {"letter": "B", "pt": "Abril", "transcription": "Абрúл", "ru": "Апреле", "correct": true},
+        {"letter": "C", "pt": "Maio", "transcription": "Мáйу", "ru": "Мае", "correct": false}
+      ]
+    },
+    {
+      "id": 167,
+      "pt": "Os muflões machos adultos reúnem-se em grupos independentes:",
+      "transcription": "Уш муфлóйнш мáшуш адýлтуш реýнэн-си эн грýпуш индепендéнтеш:",
+      "ru": "Взрослые самцы муфлона собираются в отдельные группы:",
+      "options": [
+        {"letter": "A", "pt": "No inverno", "transcription": "Ну инвéрну", "ru": "Зимой", "correct": false},
+        {"letter": "B", "pt": "Na primavera", "transcription": "На примавéра", "ru": "Весной", "correct": false},
+        {"letter": "C", "pt": "No verão", "transcription": "Ну верáн", "ru": "Летом", "correct": true}
+      ]
+    }
+  ]
+}
