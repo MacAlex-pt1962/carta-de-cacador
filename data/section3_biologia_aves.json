@@ -1,0 +1,4445 @@
+{
+  "section_id": "biologia_aves",
+  "section_name_ru": "Биология птиц",
+  "section_name_pt": "Biologia das espécies cinegéticas (Aves)",
+  "source": "ICNF - Questionário, Manual para exame de carta de caçador (https://www.icnf.pt/api/file/doc/2d8ae1589afbdf1e)",
+  "questions": [
+    {
+      "id": 168,
+      "pt": "A seguinte figura representa:",
+      "transcription": "А сегúнти фигýра репрезéнта:",
+      "ru": "На следующем изображении показана:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Perdiz-vermelha",
+          "transcription": "Пердиз-вермéлья",
+          "ru": "Красная куропатка",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Faisão",
+          "transcription": "Файзáн",
+          "ru": "Фазан",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Rola-comum",
+          "transcription": "Рóла-комýн",
+          "ru": "Обыкновенная горлица",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 169,
+      "pt": "A seguinte figura representa:",
+      "transcription": "А сегúнти фигýра репрезéнта:",
+      "ru": "На следующем изображении показана:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Uma codorniz",
+          "transcription": "Ýма кодорнúз",
+          "ru": "Перепел",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Uma perdiz-vermelha",
+          "transcription": "Ýма пердиз-вермéлья",
+          "ru": "Красная куропатка",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Um faisão",
+          "transcription": "Ун файзáн",
+          "ru": "Фазан",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 170,
+      "pt": "A perdiz-vermelha possui:",
+      "transcription": "А пердиз-вермéлья посýй:",
+      "ru": "У красной куропатки:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Bico e patas vermelhas",
+          "transcription": "Бúку и пáташ вермéльяш",
+          "ru": "Красный клюв и красные лапы",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Bico amarelo e patas vermelhas",
+          "transcription": "Бúку амарéлу и пáташ вермéльяш",
+          "ru": "Жёлтый клюв и красные лапы",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Bico vermelho e patas amarelas",
+          "transcription": "Бúку вермéльу и пáташ амарéлаш",
+          "ru": "Красный клюв и жёлтые лапы",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 171,
+      "pt": "Na perdiz-vermelha, uma das formas de distinguir os machos das fêmeas é:",
+      "transcription": "На пердиз-вермéлья, ýма даш фóрмаш ди диштингúр уш мáшуш даш фéмеаш э:",
+      "ru": "У красной куропатки один из способов отличить самцов от самок:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Os machos serem menores e menos pesados que as fêmeas",
+          "transcription": "Уш мáшуш сéрен менóриш и мéнуш пезáдуш ки аш фéмеаш",
+          "ru": "Самцы мельче и легче самок",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Os machos serem maiores e mais pesados que as fêmeas",
+          "transcription": "Уш мáшуш сéрен майóриш и máйш пезáдуш ки аш фéмеаш",
+          "ru": "Самцы крупнее и тяжелее самок",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Os machos serem do mesmo tamanho que as fêmeas",
+          "transcription": "Уш мáшуш сéрен ду мéзму таманью ки аш фéмеаш",
+          "ru": "Самцы того же размера, что и самки",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 172,
+      "pt": "Na perdiz-vermelha, uma das formas de distinguir os machos das fêmeas é:",
+      "transcription": "На пердиз-вермéлья, ýма даш фóрмаш ди диштингúр уш мáшуш даш фéмеаш э:",
+      "ru": "У красной куропатки один из способов отличить самцов от самок:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "A cabeça dos machos ser mais volumosa que a das fêmeas",
+          "transcription": "А кабéса душ мáшуш сер máйш волумóза ки а даш фéмеаш",
+          "ru": "Голова самцов крупнее, чем у самок",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "A cabeça dos machos ser menos volumosa que a das fêmeas",
+          "transcription": "А кабéса душ мáшуш сер мéнуш волумóза ки а даш фéмеаш",
+          "ru": "Голова самцов менее крупная, чем у самок",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "A cabeça das fêmeas ser mais volumosa que a dos machos",
+          "transcription": "А кабéса даш фéмеаш сер máйш волумóза ки а душ мáшуш",
+          "ru": "Голова самок крупнее, чем у самцов",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 173,
+      "pt": "Na perdiz-vermelha, uma das formas de distinguir os machos das fêmeas é:",
+      "transcription": "На пердиз-вермéлья, ýма даш фóрмаш ди диштингúр уш мáшуш даш фéмеаш э:",
+      "ru": "У красной куропатки один из способов отличить самцов от самок:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "As fêmeas terem tarsos mais curtos e delgados",
+          "transcription": "Аш фéмеаш тéрен тáрсуш máйш кýртуш и делгáдуш",
+          "ru": "У самок цевки короче и тоньше",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "As fêmeas terem os tarsos mais compridos e grossos",
+          "transcription": "Аш фéмеаш тéрен уш тáрсуш máйш компрúдуш и грóсуш",
+          "ru": "У самок цевки длиннее и толще",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "As fêmeas terem os tarsos mais curtos e grossos",
+          "transcription": "Аш фéмеаш тéрен уш тáрсуш máйш кýртуш и грóсуш",
+          "ru": "У самок цевки короче, но толще",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 174,
+      "pt": "Na perdiz-vermelha, uma das formas de distinguir os machos das fêmeas é:",
+      "transcription": "На пердиз-вермéлья, ýма даш фóрмаш ди диштингúр уш мáшуш даш фéмеаш э:",
+      "ru": "У красной куропатки один из способов отличить самцов от самок:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Os machos terem tarsos mais curtos e grossos",
+          "transcription": "Уш мáшуш тéрен тáрсуш máйш кýртуш и грóсуш",
+          "ru": "У самцов цевки короче, но толще",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Os machos terem tarsos mais compridos e grossos",
+          "transcription": "Уш мáшуш тéрен тáрсуш máйш компрúдуш и грóсуш",
+          "ru": "У самцов цевки длиннее и толще",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Os machos terem tarsos mais curtos e delgados",
+          "transcription": "Уш мáшуш тéрен тáрсуш máйш кýртуш и делгáдуш",
+          "ru": "У самцов цевки короче и тоньше",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 175,
+      "pt": "Na perdiz-vermelha, uma das formas de distinguir os machos das fêmeas é:",
+      "transcription": "На пердиз-вермéлья, ýма даш фóрмаш ди диштингúр уш мáшуш даш фéмеаш э:",
+      "ru": "У красной куропатки один из способов отличить самцов от самок:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Os machos terem esporões com base larga e extremidade arredondada",
+          "transcription": "Уш мáшуш тéрен эшпорóйнш кон бáзи лáрга и эштремидáде арредондáда",
+          "ru": "У самцов шпоры с широким основанием и закруглённым концом",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Os machos terem esporões com base estreita e extremidade bicuda",
+          "transcription": "Уш мáшуш тéрен эшпорóйнш кон бáзи эштрéйта и эштремидáде бикýда",
+          "ru": "У самцов шпоры с узким основанием и заострённым концом",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Os machos terem esporões com base larga e extremidade bicuda",
+          "transcription": "Уш мáшуш тéрен эшпорóйнш кон бáзи лáрга и эштремидáде бикýда",
+          "ru": "У самцов шпоры с широким основанием и заострённым концом",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 176,
+      "pt": "Na perdiz-vermelha, uma das formas de distinguir os machos das fêmeas é:",
+      "transcription": "На пердиз-вермéлья, ýма даш фóрмаш ди диштингúр уш мáшуш даш фéмеаш э:",
+      "ru": "У красной куропатки один из способов отличить самцов от самок:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "As fêmeas, quando apresentam esporões, estes têm a base estreita e são bicudos",
+          "transcription": "Аш фéмеаш, куáнду апрезéнтан эшпорóйнш, éштиш тэн а бáзи эштрéйта и сáн бикýдуш",
+          "ru": "Когда у самок есть шпоры, они с узким основанием и заострённые",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "As fêmeas, quando apresentam esporões, estes têm a base estreita e são redondos",
+          "transcription": "Аш фéмеаш, куáнду апрезéнтан эшпорóйнш, éштиш тэн а бáзи эштрéйта и сáн редóндуш",
+          "ru": "Когда у самок есть шпоры, они с узким основанием и закруглённые",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "As fêmeas, quando apresentam esporões, estes têm a base larga e são bicudos",
+          "transcription": "Аш фéмеаш, куáнду апрезéнтан эшпорóйнш, éштиш тэн а бáзи лáрга и сáн бикýдуш",
+          "ru": "Когда у самок есть шпоры, они с широким основанием и заострённые",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 177,
+      "pt": "Na perdiz-vermelha, enquanto juvenil, a muda das penas tem início:",
+      "transcription": "На пердиз-вермéлья, энкуáнту жувенúл, а мýда даш пéнаш тэн инúсиу:",
+      "ru": "У молодой красной куропатки линька перьев начинается:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Ao primeiro mês de vida",
+          "transcription": "Ау примéйру мэш ди вúда",
+          "ru": "На первом месяце жизни",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Ao segundo mês de vida",
+          "transcription": "Ау сегýнду мэш ди вúда",
+          "ru": "На втором месяце жизни",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Ao terceiro mês de vida",
+          "transcription": "Ау терсéйру мэш ди вúда",
+          "ru": "На третьем месяце жизни",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 178,
+      "pt": "Na perdiz-vermelha, enquanto juvenil, as duas últimas rémiges são:",
+      "transcription": "На пердиз-вермéлья, энкуáнту жувенúл, аш дýаш ýлтимаш рéмижеш сáн:",
+      "ru": "У молодой красной куропатки два последних маховых пера:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Pontiagudas e podem apresentar uma pequena pinta branca na extremidade",
+          "transcription": "Понтиагýдаш и пóдэн апрезентáр ýма пекéна пúнта брáнка на эштремидáде",
+          "ru": "Заострённые и могут иметь маленькое белое пятнышко на конце",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Arredondadas e podem apresentar uma pequena pinta branca na extremidade",
+          "transcription": "Арредондáдаш и пóдэн апрезентáр ýма пекéна пúнта брáнка на эштремидáде",
+          "ru": "Закруглённые и могут иметь белое пятнышко на конце",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Pontiagudas e sem apresentar uma pequena pinta branca na extremidade",
+          "transcription": "Понтиагýдаш и сен апрезентáр ýма пекéна пúнта брáнка на эштремидáде",
+          "ru": "Заострённые, без белого пятнышка на конце",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 179,
+      "pt": "Na perdiz-vermelha, o adulto inicia a muda de todas as rémiges primárias:",
+      "transcription": "На пердиз-вермéлья, у адýлту инúсиа а мýда ди тóдаш аш рéмижеш примáриаш:",
+      "ru": "У взрослой красной куропатки линька всех первостепенных маховых перьев начинается:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Ao mesmo tempo que o juvenil",
+          "transcription": "Ау мéзму тéмпу ки у жувенúл",
+          "ru": "В то же время, что и у молодой особи",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Duas ou três semanas antes do juvenil",
+          "transcription": "Дýаш оу трэш семáнаш áнтиш ду жувенúл",
+          "ru": "За две-три недели до молодой особи",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Duas ou três semanas depois do juvenil",
+          "transcription": "Дýаш оу трэш семáнаш депóйш ду жувенúл",
+          "ru": "Через две-три недели после молодой особи",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 180,
+      "pt": "Na perdiz-vermelha adulta, as duas últimas penas:",
+      "transcription": "На пердиз-вермéлья адýлта, аш дýаш ýлтимаш пéнаш:",
+      "ru": "У взрослой красной куропатки два последних пера:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Podem apresentar uma pequena pinta branca na extremidade",
+          "transcription": "Пóдэн апрезентáр ýма пекéна пúнта брáнка на эштремидáде",
+          "ru": "Могут иметь маленькое белое пятнышко на конце",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Têm a extremidade arredondada",
+          "transcription": "Тэн а эштремидáде арредондáда",
+          "ru": "Имеют закруглённый конец",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Têm a extremidade pontiaguda",
+          "transcription": "Тэн а эштремидáде понтиагýда",
+          "ru": "Имеют заострённый конец",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 181,
+      "pt": "A perdiz-vermelha, é uma ave que prefere especialmente:",
+      "transcription": "А пердиз-вермéлья, э ýма áви ки префéри эшпесиáлменти:",
+      "ru": "Красная куропатка — птица, которая особенно предпочитает:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Zonas alagadiças e incultas",
+          "transcription": "Зóнаш алагадúсаш и инкýлташ",
+          "ru": "Заболоченные и необрабатываемые зоны",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Zonas florestadas e com matos",
+          "transcription": "Зóнаш флорештáдаш и кон мáтуш",
+          "ru": "Лесистые зоны с кустарником",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Zonas de culturas cerealíferas",
+          "transcription": "Зóнаш ди культýраш сереалúфераш",
+          "ru": "Зоны зерновых культур",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 182,
+      "pt": "Qual destas atuações contribui para a boa gestão de uma população de perdizes?",
+      "transcription": "Куáл дéшташ атуасóйнш контрибýй пáра а бóа жештáн ди ýма популасáн ди пердúзеш?",
+      "ru": "Какое из этих действий способствует правильному управлению популяцией куропаток?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "A utilização de pesticidas nas culturas",
+          "transcription": "А утилизасáн ди пештисúдаш наш культýраш",
+          "ru": "Использование пестицидов на посевах",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "O abate de mais de 60% dos efetivos",
+          "transcription": "У абáти ди máйш ди сэсéнта пур сéнту душ эфетúвуш",
+          "ru": "Отстрел более 60% поголовья",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "O abate de menos de 50% dos efetivos",
+          "transcription": "У абáти ди мéнуш ди синкóэнта пур сéнту душ эфетúвуш",
+          "ru": "Отстрел менее 50% поголовья",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 183,
+      "pt": "Na perdiz-vermelha, a alimentação durante o primeiro mês de vida é:",
+      "transcription": "На пердиз-вермéлья, а алиментасáн дурáнти у примéйру мэш ди вúда э:",
+      "ru": "Питание красной куропатки в первый месяц жизни:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Essencialmente insectívora",
+          "transcription": "Эссенсиáлменти инсектúвора",
+          "ru": "В основном насекомоядное",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Essencialmente granívora",
+          "transcription": "Эссенсиáлменти гранúвора",
+          "ru": "В основном зерноядное",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Essencialmente vegetal",
+          "transcription": "Эссенсиáлменти вежетáл",
+          "ru": "В основном растительное",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 184,
+      "pt": "Na perdiz-vermelha adulta, a alimentação é constituída por:",
+      "transcription": "На пердиз-вермéлья адýлта, а алиментасáн э конституúда пур:",
+      "ru": "Питание взрослой красной куропатки состоит из:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Insetos, bagas, flores e grãos",
+          "transcription": "Инсéтуш, бáгаш, флóриш и грáнуш",
+          "ru": "Насекомых, ягод, цветов и зёрен",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Grãos, bolotas, folhas, raízes e insetos",
+          "transcription": "Грáнуш, болóташ, фóльяш, раúзеш и инсéтуш",
+          "ru": "Зёрен, желудей, листьев, корней и насекомых",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Grãos, bolotas, folhas, rebentos, bagas, flores e raízes",
+          "transcription": "Грáнуш, болóташ, фóльяш, ребéнтуш, бáгаш, флóриш и раúзеш",
+          "ru": "Зёрен, желудей, листьев, побегов, ягод, цветов и корней",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 185,
+      "pt": "A perdiz-vermelha, faz o ninho, geralmente:",
+      "transcription": "А пердиз-вермéлья, фаш у нúнью, жерáлменти:",
+      "ru": "Красная куропатка обычно вьёт гнездо:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "No chão, com o fundo simplesmente coberto de plantas secas",
+          "transcription": "Ну шáн, кон у фýнду симплéзменти кобéрту ди плáнташ сéкаш",
+          "ru": "На земле, дно которого просто устлано сухими растениями",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "No chão, com o fundo simplesmente coberto de penas suas",
+          "transcription": "Ну шáн, кон у фýнду симплéзменти кобéрту ди пéнаш сýаш",
+          "ru": "На земле, дно которого устлано собственными перьями",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "No chão, com o fundo coberto de plantas secas e penas suas",
+          "transcription": "Ну шáн, кон у фýнду кобéрту ди плáнташ сéкаш и пéнаш сýаш",
+          "ru": "На земле, дно которого устлано сухими растениями и собственными перьями",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 186,
+      "pt": "Na perdiz-vermelha, a postura de ovos, no sul do País faz-se durante os meses de:",
+      "transcription": "На пердиз-вермéлья, а пошт ýра ди óвуш, ну сул ду паúш фáз-си дурáнти уш мéзиш ди:",
+      "ru": "У красной куропатки яйцекладка на юге страны происходит в месяцы:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Março a abril",
+          "transcription": "Мáрсу а абрúл",
+          "ru": "Март–апрель",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Abril a maio",
+          "transcription": "Абрúл а мáйу",
+          "ru": "Апрель–май",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Abril a junho",
+          "transcription": "Абрúл а жýньу",
+          "ru": "Апрель–июнь",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 187,
+      "pt": "Os perdigotos logo que nascem:",
+      "transcription": "Уш пердигóтуш лóгу ки нáсэн:",
+      "ru": "Птенцы куропатки сразу после вылупления:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Permanecem no ninho durante duas semanas",
+          "transcription": "Перманéсэн ну нúнью дурáнти дýаш семáнаш",
+          "ru": "Остаются в гнезде две недели",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Permanecem no ninho pelo menos uma semana",
+          "transcription": "Перманéсэн ну нúнью пéлу мéнуш ýма семáна",
+          "ru": "Остаются в гнезде минимум неделю",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Abandonam o ninho",
+          "transcription": "Абандóнан у нúнью",
+          "ru": "Покидают гнездо",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 188,
+      "pt": "Na perdiz-vermelha, a incubação dos ovos, dura cerca de:",
+      "transcription": "На пердиз-вермéлья, а инкубасáн душ óвуш, дýра сéрка ди:",
+      "ru": "У красной куропатки инкубация яиц длится около:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "21 dias",
+          "transcription": "Вúнти-и-ýн дúаш",
+          "ru": "21 день",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "23 dias",
+          "transcription": "Вúнти-и-трэш дúаш",
+          "ru": "23 дня",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "25 dias",
+          "transcription": "Вúнти-и-сúнку дúаш",
+          "ru": "25 дней",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 189,
+      "pt": "Em média, o ninho de perdiz-vermelha contém:",
+      "transcription": "Эн мéдиа, у нúнью ди пердиз-вермéлья контэн:",
+      "ru": "В среднем гнездо красной куропатки содержит:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "10 ovos",
+          "transcription": "Дэш óвуш",
+          "ru": "10 яиц",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "12 ovos",
+          "transcription": "Дóзи óвуш",
+          "ru": "12 яиц",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "14 ovos",
+          "transcription": "Катóрзи óвуш",
+          "ru": "14 яиц",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 190,
+      "pt": "A perdiz-vermelha, durante o verão e até nova época de acasalamento, desloca-se:",
+      "transcription": "А пердиз-вермéлья, дурáнти у верáн и атé нóва éпока ди акасаламéнту, дешлóка-си:",
+      "ru": "Красная куропатка летом и до нового периода спаривания перемещается:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Aos casais",
+          "transcription": "Аош казáйш",
+          "ru": "Парами",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Isoladamente",
+          "transcription": "Изолáдаменти",
+          "ru": "В одиночку",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Em bandos",
+          "transcription": "Эн бáндуш",
+          "ru": "Стаями",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 191,
+      "pt": "Para bem gerir uma população de perdizes há que seguir certas regras. Qual está certa?",
+      "transcription": "Пáра бэн жерúр ýма популасáн ди пердúзеш á ки сегúр сéрташ рéграш. Куáл эштá сéрта?",
+      "ru": "Чтобы правильно управлять популяцией куропаток, нужно следовать определённым правилам. Какое верно?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Colocar à sua disposição alimento, água e abrigo",
+          "transcription": "Колокáр а сýа диспозисáн алимéнту, áгуа и абрúгу",
+          "ru": "Обеспечить им корм, воду и укрытие",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Abater, anualmente, 60% dos efetivos",
+          "transcription": "Абатéр, ануáлменти, сэсéнта пур сéнту душ эфетúвуш",
+          "ru": "Ежегодно отстреливать 60% поголовья",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Eliminar todos os predadores",
+          "transcription": "Элиминáр тóдуш уш предадóриш",
+          "ru": "Уничтожать всех хищников",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 192,
+      "pt": "Para manter o nível da população de perdizes há que seguir certas regras. Qual está errada?",
+      "transcription": "Пáра мантéр у нúвэл да популасáн ди пердúзеш á ки сегúр сéрташ рéграш. Куáл эштá эррáда?",
+      "ru": "Чтобы поддерживать уровень популяции куропаток, нужно следовать определённым правилам. Какое неверно?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Evitar o abuso de pesticidas",
+          "transcription": "Эвитáр у абýзу ди пештисúдаш",
+          "ru": "Избегать злоупотребления пестицидами",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Cuidar da maneira como são feitas as ceifas",
+          "transcription": "Куидáр да манéйра кóму сáн фéйташ аш сéйфаш",
+          "ru": "Заботиться о том, как проводится жатва",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Abater, anualmente, 60% dos efetivos",
+          "transcription": "Абатéр, ануáлменти, сэсéнта пур сéнту душ эфетúвуш",
+          "ru": "Ежегодно отстреливать 60% поголовья",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 193,
+      "pt": "Para bem gerir uma população de perdizes há que seguir certas regras. Qual está certa?",
+      "transcription": "Пáра бэн жерúр ýма популасáн ди пердúзеш á ки сегúр сéрташ рéграш. Куáл эштá сéрта?",
+      "ru": "Чтобы правильно управлять популяцией куропаток, нужно следовать определённым правилам. Какое верно?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Eliminar todos os predadores",
+          "transcription": "Элиминáр тóдуш уш предадóриш",
+          "ru": "Уничтожать всех хищников",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Abater, anualmente, todos os predadores",
+          "transcription": "Абатéр, ануáлменти, тóдуш уш предадóриш",
+          "ru": "Ежегодно отстреливать всех хищников",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Evitar a deambulação de cães e gatos vadios",
+          "transcription": "Эвитáр а деамбулaсáн ди кáйнш и гáтуш вадúуш",
+          "ru": "Предотвращать бродяжничество бездомных собак и кошек",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 194,
+      "pt": "Numa população bem gerida, por cada ninho de perdiz, chegam em média à idade adulta:",
+      "transcription": "Нýма популасáн бэн жерúда, пур кáда нúнью ди пердúз, шéган эн мéдиа а идáде адýлта:",
+      "ru": "В хорошо управляемой популяции из каждого гнезда куропатки до взрослого возраста в среднем доживает:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "3 perdigotos",
+          "transcription": "Трэш пердигóтуш",
+          "ru": "3 птенца",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "5 perdigotos",
+          "transcription": "Сúнку пердигóтуш",
+          "ru": "5 птенцов",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "7 perdigotos",
+          "transcription": "Сэти пердигóтуш",
+          "ru": "7 птенцов",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 195,
+      "pt": "A perdiz-vermelha faz geralmente o ninho:",
+      "transcription": "А пердиз-вермéлья фаш жерáлменти у нúнью:",
+      "ru": "Красная куропатка обычно вьёт гнездо:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Em arbustos de pequeno porte",
+          "transcription": "Эн арбýштуш ди пекéну пóрти",
+          "ru": "В невысоких кустарниках",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "No chão",
+          "transcription": "Ну шáн",
+          "ru": "На земле",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Em buracos de muros e paredes",
+          "transcription": "Эн бурáкуш ди мýруш и парéдиш",
+          "ru": "В отверстиях стен",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 196,
+      "pt": "A perdiz-vermelha adulta distingue-se da juvenil:",
+      "transcription": "А пердиз-вермéлья адýлта диштúнги-си да жувенúл:",
+      "ru": "Взрослая красная куропатка отличается от молодой:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Pela cor e tamanho",
+          "transcription": "Пéла кор и таманью",
+          "ru": "По окраске и размеру",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Pela observação das rémiges primárias (as dez penas da extremidade da asa)",
+          "transcription": "Пéла обсервасáн даш рéмижеш примáриаш (аш дэш пéнаш да эштремидáде да áза)",
+          "ru": "По виду первостепенных маховых перьев (десять перьев на конце крыла)",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Pelos tarsos e esporões",
+          "transcription": "Пéлуш тáрсуш и эшпорóйнш",
+          "ru": "По цевкам и шпорам",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 197,
+      "pt": "A perdiz-vermelha é uma espécie que prefere:",
+      "transcription": "А пердиз-вермéлья э ýма эшпéсие ки префéри:",
+      "ru": "Красная куропатка — вид, который предпочитает:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Zonas de culturas cerealíferas",
+          "transcription": "Зóнаш ди культýраш сереалúфераш",
+          "ru": "Зоны зерновых культур",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Zonas com solos leves e húmidos",
+          "transcription": "Зóнаш кон сóлуш лéвиш и ýмидуш",
+          "ru": "Зоны с лёгкими и влажными почвами",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Zonas rochosas incluindo a orla marítima",
+          "transcription": "Зóнаш рошóзаш инклуúнду а óрла марúтима",
+          "ru": "Скалистые зоны, включая морское побережье",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 198,
+      "pt": "A seguinte figura representa:",
+      "transcription": "А сегúнти фигýра репрезéнта:",
+      "ru": "На следующем изображении показана:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Um pombo-torcaz",
+          "transcription": "Ун пóмбу-торкáш",
+          "ru": "Вяхирь",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Um pombo-bravo",
+          "transcription": "Ун пóмбу-брáву",
+          "ru": "Клинтух",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Uma rola-comum",
+          "transcription": "Ýма рóла-комýн",
+          "ru": "Обыкновенная горлица",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 199,
+      "pt": "A rola-comum distingue-se dos pombos por:",
+      "transcription": "А рóла-комýн диштúнги-си душ пóмбуш пур:",
+      "ru": "Обыкновенная горлица отличается от голубей тем, что:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Ser mais pequena e de silhueta mais esbelta",
+          "transcription": "Сер máйш пекéна и ди сильуэта máйш эжбéлта",
+          "ru": "Она меньше и более стройного силуэта",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Ser mais pequena e de silhueta menos esbelta",
+          "transcription": "Сер máйш пекéна и ди сильуэта мéнуш эжбéлта",
+          "ru": "Она меньше, но менее стройного силуэта",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Ser mais pequena e de silhueta mais atarracada",
+          "transcription": "Сер máйш пекéна и ди сильуэта máйш атаррaкáда",
+          "ru": "Она меньше и более приземистого силуэта",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 200,
+      "pt": "A rola-comum distingue-se dos pombos por:",
+      "transcription": "А рóла-комýн диштúнги-си душ пóмбуш пур:",
+      "ru": "Обыкновенная горлица отличается от голубей тем, что:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Em voo, ter um batimento de asas menos irregular",
+          "transcription": "Эн вóу, тер ун батимéнту ди áзаш мéнуш иррегулáр",
+          "ru": "В полёте взмахи крыльев менее неравномерны",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Em voo, ter um batimento de asas mais irregular",
+          "transcription": "Эн вóу, тер ун батимéнту ди áзаш máйш иррегулáр",
+          "ru": "В полёте взмахи крыльев более неравномерны",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Em voo, ter um batimento de asas mais lento",
+          "transcription": "Эн вóу, тер ун батимéнту ди áзаш máйш лéнту",
+          "ru": "В полёте взмахи крыльев медленнее",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 201,
+      "pt": "A rola-comum distingue-se dos pombos por:",
+      "transcription": "А рóла-комýн диштúнги-си душ пóмбуш пур:",
+      "ru": "Обыкновенная горлица отличается от голубей тем, что:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Em voo, notar-se a cauda negra com barra terminal escura",
+          "transcription": "Эн вóу, нотáр-си а кáуда нéгра кон бáрра терминáл эшкýра",
+          "ru": "В полёте заметен чёрный хвост с тёмной концевой полосой",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Em voo, notar-se a cauda branca com barra terminal escura",
+          "transcription": "Эн вóу, нотáр-си а кáуда брáнка кон бáрра терминáл эшкýра",
+          "ru": "В полёте заметен белый хвост с тёмной концевой полосой",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Em voo, notar-se a cauda negra com barra terminal branca",
+          "transcription": "Эн вóу, нотáр-си а кáуда нéгра кон бáрра терминáл брáнка",
+          "ru": "В полёте заметен чёрный хвост с белой концевой полосой",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 202,
+      "pt": "A rola-comum é uma ave migradora que inverna:",
+      "transcription": "А рóла-комýн э ýма áви мигрaдóра ки инвéрна:",
+      "ru": "Обыкновенная горлица — перелётная птица, которая зимует:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "No continente africano e nidifica na Europa",
+          "transcription": "Ну континéнти африкáну и нидифúка на Эурóпа",
+          "ru": "В Африке, а гнездится в Европе",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "No continente europeu e nidifica em África",
+          "transcription": "Ну континéнти эуропéу и нидифúка эн Áфрика",
+          "ru": "В Европе, а гнездится в Африке",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "No continente americano e nidifica na Europa",
+          "transcription": "Ну континéнти американу и нидифúка на Эурóпа",
+          "ru": "В Америке, а гнездится в Европе",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 203,
+      "pt": "A entrada das rolas na Europa dá-se a partir do mês de:",
+      "transcription": "А энтрáда даш рóлаш на Эурóпа дá-си а пáртир ду мэш ди:",
+      "ru": "Прилёт горлиц в Европу начинается с месяца:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Março",
+          "transcription": "Мáрсу",
+          "ru": "Март",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Abril",
+          "transcription": "Абрúл",
+          "ru": "Апрель",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Maio",
+          "transcription": "Мáйу",
+          "ru": "Май",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 204,
+      "pt": "A rola-comum, é uma espécie que prefere:",
+      "transcription": "А рóла-комýн, э ýма эшпéсие ки префéри:",
+      "ru": "Обыкновенная горлица — вид, который предпочитает:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Matas pouco densas alternando com zonas alagadiças",
+          "transcription": "Мáташ пóуку дéнсаш альтернáнду кон зóнаш алагадúсаш",
+          "ru": "Негустые леса, чередующиеся с заболоченными зонами",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Matas densas alternando com searas e pastos",
+          "transcription": "Мáташ дéнсаш альтернáнду кон сеáраш и пáштуш",
+          "ru": "Густые леса, чередующиеся с посевами и пастбищами",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Zonas alagadiças alternando com searas e pastos",
+          "transcription": "Зóнаш алагадúсаш альтернáнду кон сеáраш и пáштуш",
+          "ru": "Заболоченные зоны, чередующиеся с посевами и пастбищами",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 205,
+      "pt": "A rola-comum, em termos alimentares, é:",
+      "transcription": "А рóла-комýн, эн тéрмуш алиментáреш, э:",
+      "ru": "По характеру питания обыкновенная горлица:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Uma ave insectívora",
+          "transcription": "Ýма áви инсектúвора",
+          "ru": "Насекомоядная птица",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Uma ave insectívora e granívora",
+          "transcription": "Ýма áви инсектúвора и гранúвора",
+          "ru": "Насекомоядно-зерноядная птица",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Uma ave granívora",
+          "transcription": "Ýма áви гранúвора",
+          "ru": "Зерноядная птица",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 206,
+      "pt": "A rola-comum baseia a sua alimentação em:",
+      "transcription": "А рóла-комýн базéя а сýа алиментасáн эн:",
+      "ru": "Питание обыкновенной горлицы основано на:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Sementes, cereais e também insetos, embora em pequena percentagem",
+          "transcription": "Семéнтеш, сереáйш и тамбéн инсéтуш, эмбóра эн пекéна персентáжен",
+          "ru": "Семенах, зерне, а также насекомых (в небольшом количестве)",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Sementes, rebentos novos e também insetos, embora em pequena percentagem",
+          "transcription": "Семéнтеш, ребéнтуш нóвуш и тамбéн инсéтуш, эмбóра эн пекéна персентáжен",
+          "ru": "Семенах, молодых побегах и насекомых (в небольшом количестве)",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Cereais, rebentos novos e também insetos, embora em pequena percentagem",
+          "transcription": "Сереáйш, ребéнтуш нóвуш и тамбéн инсéтуш, эмбóра эн пекéна персентáжен",
+          "ru": "Зерне, молодых побегах и насекомых (в небольшом количестве)",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 207,
+      "pt": "A rola-comum é normalmente avistada:",
+      "transcription": "А рóла-комýн э нормáлменти авиштáда:",
+      "ru": "Обыкновенную горлицу обычно наблюдают:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Aos pares ou em grandes grupos",
+          "transcription": "Аош пáриш оу эн грáндиш грýпуш",
+          "ru": "Парами или большими группами",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Aos pares ou isoladas",
+          "transcription": "Аош пáриш оу изолáдаш",
+          "ru": "Парами или поодиночке",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Aos pares ou em grupos muito pequenos",
+          "transcription": "Аош пáриш оу эн грýпуш мýйту пекéнуш",
+          "ru": "Парами или очень маленькими группами",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 208,
+      "pt": "Os primeiros ninhos de rola-comum são feitos em:",
+      "transcription": "Уш примéйруш нúньюш ди рóла-комýн сáн фéйтуш эн:",
+      "ru": "Первые гнёзда обыкновенной горлицы строятся в:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Maio",
+          "transcription": "Мáйу",
+          "ru": "Мае",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Abril",
+          "transcription": "Абрúл",
+          "ru": "Апреле",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Junho",
+          "transcription": "Жýньу",
+          "ru": "Июне",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 209,
+      "pt": "A postura da rola-comum é de:",
+      "transcription": "А пошт ýра да рóла-комýн э ди:",
+      "ru": "Кладка обыкновенной горлицы составляет:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Três ovos, raramente um",
+          "transcription": "Трэш óвуш, рарáменти ун",
+          "ru": "Три яйца, редко одно",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Dois ovos, raramente um",
+          "transcription": "Дóйш óвуш, рарáменти ун",
+          "ru": "Два яйца, редко одно",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Quatro ovos, raramente dois",
+          "transcription": "Куáтру óвуш, рарáменти дóйш",
+          "ru": "Четыре яйца, редко два",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 210,
+      "pt": "A incubação dos ovos, no caso da rola-comum:",
+      "transcription": "А инкубасáн душ óвуш, ну кáзу да рóла-комýн:",
+      "ru": "Инкубация яиц у обыкновенной горлицы:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "É feita só pelas fêmeas",
+          "transcription": "Э фéйта só пéлаш фéмеаш",
+          "ru": "Проводится только самками",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "É feita só pelos machos",
+          "transcription": "Э фéйта só пéлуш мáшуш",
+          "ru": "Проводится только самцами",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "É feita por ambos os sexos",
+          "transcription": "Э фéйта пур áмбуш уш сéксуш",
+          "ru": "Проводится обоими полами",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 211,
+      "pt": "Em voo, a rola-comum distingue-se dos pombos por se notar:",
+      "transcription": "Эн вóу, а рóла-комýн диштúнги-си душ пóмбуш пур си нотáр:",
+      "ru": "В полёте горлица отличается от голубей тем, что заметен:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "A cauda negra com barra terminal escura",
+          "transcription": "А кáуда нéгра кон бáрра терминáл эшкýра",
+          "ru": "Чёрный хвост с тёмной концевой полосой",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "A cauda branca com barra terminal escura",
+          "transcription": "А кáуда брáнка кон бáрра терминáл эшкýра",
+          "ru": "Белый хвост с тёмной концевой полосой",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "A cauda negra com barra terminal branca",
+          "transcription": "А кáуда нéгра кон бáрра терминáл брáнка",
+          "ru": "Чёрный хвост с белой концевой полосой",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 212,
+      "pt": "Qual o habitat preferencial da rola-comum:",
+      "transcription": "Куáл у абитáт преференсиáл да рóла-комýн:",
+      "ru": "Каково предпочитаемое местообитание обыкновенной горлицы:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Matas densas alternando com campos abertos",
+          "transcription": "Мáташ дéнсаш альтернáнду кон кáмпуш абéртуш",
+          "ru": "Густые леса, чередующиеся с открытыми полями",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Florestas",
+          "transcription": "Флорéшташ",
+          "ru": "Леса",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Zonas húmidas",
+          "transcription": "Зóнаш ýмидаш",
+          "ru": "Влажные зоны",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 213,
+      "pt": "A codorniz é uma espécie:",
+      "transcription": "А кодорнúз э ýма эшпéсие:",
+      "ru": "Перепел — это вид:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Migradora invernante em todo o País",
+          "transcription": "Мигрaдóра инвернáнти эн тóду у паúш",
+          "ru": "Зимующий перелётный по всей стране",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Migradora estival em todo o País",
+          "transcription": "Мигрaдóра эштивáл эн тóду у паúш",
+          "ru": "Летний перелётный по всей стране",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Migradora invernante no norte do País",
+          "transcription": "Мигрaдóра инвернáнти ну нóрти ду паúш",
+          "ru": "Зимующий перелётный на севере страны",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 214,
+      "pt": "Pode afirmar-se que a codorniz é:",
+      "transcription": "Пóди афирмáр-си ки а кодорнúз э:",
+      "ru": "Можно утверждать, что перепел:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "O mais pequeno animal europeu",
+          "transcription": "У máйш пекéну анимáл эуропéу",
+          "ru": "Самое маленькое европейское животное",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "O mais pequeno herbívoro europeu",
+          "transcription": "У máйш пекéну эрбúвору эуропéу",
+          "ru": "Самое маленькое европейское травоядное",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "O mais pequeno galináceo europeu",
+          "transcription": "У máйш пекéну галинáсеу эуропéу",
+          "ru": "Самая маленькая европейская курообразная птица",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 215,
+      "pt": "A codorniz é uma espécie que:",
+      "transcription": "А кодорнúз э ýма эшпéсие ки:",
+      "ru": "Перепел — вид, который:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Vem de África para criar na Europa",
+          "transcription": "Вэн ди Áфрика пáра криáр на Эурóпа",
+          "ru": "Прилетает из Африки, чтобы размножаться в Европе",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Vem do Médio Oriente para criar na Europa",
+          "transcription": "Вэн ду Мéдиу Ориéнти пáра криáр на Эурóпа",
+          "ru": "Прилетает с Ближнего Востока, чтобы размножаться в Европе",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Sedentária no norte do País",
+          "transcription": "Седентáрия ну нóрти ду паúш",
+          "ru": "Оседлый на севере страны",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 216,
+      "pt": "A codorniz é uma espécie que:",
+      "transcription": "А кодорнúз э ýма эшпéсие ки:",
+      "ru": "Перепел — вид, который:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Se pode encontrar durante todo o ano no norte do País",
+          "transcription": "Си пóди энконтрáр дурáнти тóду у áну ну нóрти ду паúш",
+          "ru": "Встречается круглый год на севере страны",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Se pode encontrar durante todo o ano no sul do País",
+          "transcription": "Си пóди энконтрáр дурáнти тóду у áну ну сул ду паúш",
+          "ru": "Встречается круглый год на юге страны",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Se pode encontrar durante todo o ano no sul do País e nos Açores",
+          "transcription": "Си пóди энконтрáр дурáнти тóду у áну ну сул ду паúш и нуз Асóриш",
+          "ru": "Встречается круглый год на юге страны и на Азорских островах",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 217,
+      "pt": "O cantar da codorniz pode ser ouvido:",
+      "transcription": "У кантáр да кодорнúз пóди сер оувúду:",
+      "ru": "Пение перепела можно услышать:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "De dia e ao crepúsculo da manhã",
+          "transcription": "Ди дúа и ау крепýшкулу да манья",
+          "ru": "Днём и в утренних сумерках",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "De noite e ao crepúsculo da tarde",
+          "transcription": "Ди нóйти и ау крепýшкулу да тáрди",
+          "ru": "Ночью и в вечерних сумерках",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Quer de dia quer de noite",
+          "transcription": "Кер ди дúа кер ди нóйти",
+          "ru": "Как днём, так и ночью",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 218,
+      "pt": "A codorniz é uma espécie que prefere:",
+      "transcription": "А кодорнúз э ýма эшпéсие ки префéри:",
+      "ru": "Перепел — вид, который предпочитает:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Campos cultivados, searas, pastos e espaços abertos em bosques",
+          "transcription": "Кáмпуш культивáдуш, сеáраш, пáштуш и эшпáсуш абéртуш эн бóшкиш",
+          "ru": "Возделанные поля, посевы, пастбища и открытые участки в лесах",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Campos cultivados, searas, pastos e zonas alagadiças",
+          "transcription": "Кáмпуш культивáдуш, сеáраш, пáштуш и зóнаш алагадúсаш",
+          "ru": "Возделанные поля, посевы, пастбища и заболоченные зоны",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Campos cultivados, searas, pastos e zonas pedregosas",
+          "transcription": "Кáмпуш культивáдуш, сеáраш, пáштуш и зóнаш педрегóзаш",
+          "ru": "Возделанные поля, посевы, пастбища и каменистые зоны",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 219,
+      "pt": "A codorniz é uma espécie que:",
+      "transcription": "А кодорнúз э ýма эшпéсие ки:",
+      "ru": "Перепел — вид, который:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Nidifica em arbustos de pequeno porte",
+          "transcription": "Нидифúка эн арбýштуш ди пекéну пóрти",
+          "ru": "Гнездится в невысоких кустарниках",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Nidifica no solo",
+          "transcription": "Нидифúка ну сóлу",
+          "ru": "Гнездится на земле",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Nidifica em arbustos de médio porte",
+          "transcription": "Нидифúка эн арбýштуш ди мéдиу пóрти",
+          "ru": "Гнездится в кустарниках среднего размера",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 220,
+      "pt": "O ninho da codorniz é formado por:",
+      "transcription": "У нúнью да кодорнúз э формáду пур:",
+      "ru": "Гнездо перепела образовано:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Uma ligeira depressão forrada com penas da própria codorniz",
+          "transcription": "Ýма лижéйра дэпрессáн форáда кон пéнаш да прóприа кодорнúз",
+          "ru": "Небольшим углублением, выстланным собственными перьями",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Uma ligeira depressão forrada com detritos diversos",
+          "transcription": "Ýма лижéйра дэпрессáн форáда кон детрúтуш дивéрсуш",
+          "ru": "Небольшим углублением, выстланным разным мусором",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Uma ligeira depressão forrada com material vegetal",
+          "transcription": "Ýма лижéйра дэпрессáн форáда кон материáл вежетáл",
+          "ru": "Небольшим углублением, выстланным растительным материалом",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 221,
+      "pt": "A codorniz é uma espécie que cria geralmente:",
+      "transcription": "А кодорнúз э ýма эшпéсие ки крúа жерáлменти:",
+      "ru": "Перепел обычно размножается:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "De meados de maio a junho",
+          "transcription": "Ди миáдуш ди мáйу а жýньу",
+          "ru": "С середины мая по июнь",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "De meados de maio a julho",
+          "transcription": "Ди миáдуш ди мáйу а жýльу",
+          "ru": "С середины мая по июль",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "De meados de abril a junho",
+          "transcription": "Ди миáдуш ди абрúл а жýньу",
+          "ru": "С середины апреля по июнь",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 222,
+      "pt": "Na codorniz, a incubação dos ovos é feita:",
+      "transcription": "На кодорнúз, а инкубасáн душ óвуш э фéйта:",
+      "ru": "У перепела инкубация яиц проводится:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Só pelo macho",
+          "transcription": "Só пéлу мáшу",
+          "ru": "Только самцом",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Só pela fêmea",
+          "transcription": "Só пéла фéмеа",
+          "ru": "Только самкой",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Por ambos os sexos",
+          "transcription": "Пур áмбуш уш сéксуш",
+          "ru": "Обоими полами",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 223,
+      "pt": "Na codorniz, a incubação dos ovos dura entre:",
+      "transcription": "На кодорнúз, а инкубасáн душ óвуш дýра éнтри:",
+      "ru": "У перепела инкубация яиц длится между:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "12 a 16 dias",
+          "transcription": "Дóзи а дезасéйш дúаш",
+          "ru": "12–16 дней",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "16 a 21 dias",
+          "transcription": "Дезасéйш а вúнти-и-ýн дúаш",
+          "ru": "16–21 день",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "18 a 21 dias",
+          "transcription": "Дезойту а вúнти-и-ýн дúаш",
+          "ru": "18–21 день",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 224,
+      "pt": "Na codorniz, a partir de que idade podem os pintos migrar juntamente com os adultos?",
+      "transcription": "На кодорнúз, а пáртир ди ки идáде пóдэн уш пúнтуш мигрáр жунтаменти кон уш адýлтуш?",
+      "ru": "У перепела с какого возраста птенцы могут мигрировать вместе со взрослыми?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Com 2 meses",
+          "transcription": "Кон дóйш мéзеш",
+          "ru": "С 2 месяцев",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Com 3 meses",
+          "transcription": "Кон трэш мéзеш",
+          "ru": "С 3 месяцев",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Com 4 meses",
+          "transcription": "Кон куáтру мéзеш",
+          "ru": "С 4 месяцев",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 225,
+      "pt": "Pode afirmar-se que a codorniz é:",
+      "transcription": "Пóди афирмáр-си ки а кодорнúз э:",
+      "ru": "Можно утверждать, что перепел:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "O mais pequeno animal europeu",
+          "transcription": "У máйш пекéну анимáл эуропéу",
+          "ru": "Самое маленькое европейское животное",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "O mais pequeno galináceo europeu",
+          "transcription": "У máйш пекéну галинáсеу эуропéу",
+          "ru": "Самая маленькая европейская курообразная птица",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "O mais pequeno herbívoro europeu",
+          "transcription": "У máйш пекéну эрбúвору эуропéу",
+          "ru": "Самое маленькое европейское травоядное",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 226,
+      "pt": "A codorniz faz geralmente o ninho:",
+      "transcription": "А кодорнúз фаш жерáлменти у нúнью:",
+      "ru": "Перепел обычно вьёт гнездо:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Em arbustos e árvores de pequeno porte",
+          "transcription": "Эн арбýштуш и áрвориш ди пекéну пóрти",
+          "ru": "В невысоких кустарниках и деревьях",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Em árvores de grande porte",
+          "transcription": "Эн áрвориш ди грáнди пóрти",
+          "ru": "На крупных деревьях",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "No solo",
+          "transcription": "Ну сóлу",
+          "ru": "На земле",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 227,
+      "pt": "Qual das afirmações está correta:",
+      "transcription": "Куáл даш афирмасóйнш эштá коррéта:",
+      "ru": "Какое утверждение верно:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "A rola inicia a construção do ninho em abril",
+          "transcription": "А рóла инúсиа а конструсáн ду нúнью эн абрúл",
+          "ru": "Горлица начинает строить гнездо в апреле",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Os pintos da codorniz podem migrar com os adultos com dois meses de vida",
+          "transcription": "Уш пúнтуш да кодорнúз пóдэн мигрáр кон уш адýлтуш кон дóйш мéзеш ди вúда",
+          "ru": "Птенцы перепела могут мигрировать со взрослыми в возрасте двух месяцев",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "A lebre tem apenas uma ninhada por ano",
+          "transcription": "А лéбри тэн апéнаш ýма ниньяда пур áну",
+          "ru": "У зайца всего один выводок в год",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 228,
+      "pt": "A seguinte figura representa:",
+      "transcription": "А сегúнти фигýра репрезéнта:",
+      "ru": "На следующем изображении показан:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Um arrabio",
+          "transcription": "Ун аррáбиу",
+          "ru": "Шилохвость",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Um pato-trombeteiro",
+          "transcription": "Ун пáту-тромбетéйру",
+          "ru": "Широконоска",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Um pato-real",
+          "transcription": "Ун пáту-реáл",
+          "ru": "Кряква",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 229,
+      "pt": "A seguinte figura representa:",
+      "transcription": "А сегúнти фигýра репрезéнта:",
+      "ru": "На следующем изображении показан:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Arrabio",
+          "transcription": "Аррáбиу",
+          "ru": "Шилохвость",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Frisada",
+          "transcription": "Фризáда",
+          "ru": "Серая утка",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Pato-real",
+          "transcription": "Пáту-реáл",
+          "ru": "Кряква",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 230,
+      "pt": "Uma das características dos patos de superfície é:",
+      "transcription": "Ýма даш карактерúштикаш душ пáтуш ди суперфúсие э:",
+      "ru": "Одна из характеристик речных уток:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Possuírem tamanho pequeno a médio",
+          "transcription": "Посуúрен таманью пекéну а мéдиу",
+          "ru": "Имеют размер от малого до среднего",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Possuírem tamanho médio",
+          "transcription": "Посуúрен таманью мéдиу",
+          "ru": "Имеют средний размер",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Possuírem tamanho médio a grande",
+          "transcription": "Посуúрен таманью мéдиу а грáнди",
+          "ru": "Имеют размер от среднего до крупного",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 231,
+      "pt": "Uma das características dos patos de superfície é:",
+      "transcription": "Ýма даш карактерúштикаш душ пáтуш ди суперфúсие э:",
+      "ru": "Одна из характеристик речных уток:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Possuírem pescoço, asas e patas curtas",
+          "transcription": "Посуúрен пешкóсу, áзаш и пáташ кýрташ",
+          "ru": "Короткие шея, крылья и лапы",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Possuírem pescoço e patas de tamanho médio",
+          "transcription": "Посуúрен пешкóсу и пáташ ди таманью мéдиу",
+          "ru": "Шея и лапы среднего размера",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Possuírem pescoço e patas compridas",
+          "transcription": "Посуúрен пешкóсу и пáташ компрúдаш",
+          "ru": "Длинные шея и лапы",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 232,
+      "pt": "Uma das características dos patos de superfície é:",
+      "transcription": "Ýма даш карактерúштикаш душ пáтуш ди суперфúсие э:",
+      "ru": "Одна из характеристик речных уток:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Possuírem espelho alar geralmente com brilho metálico",
+          "transcription": "Посуúрен эшпéлью алáр жерáлменти кон брúлью метáлику",
+          "ru": "Крыловое зеркальце обычно с металлическим блеском",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Possuírem franja alar branca ou pálida",
+          "transcription": "Посуúрен фрáнжа алáр брáнка оу пáлида",
+          "ru": "Белая или бледная кромка крыла",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Possuírem coloração quase sempre escura",
+          "transcription": "Посуúрен колорасáн куáзи сéмпри эшкýра",
+          "ru": "Почти всегда тёмная окраска",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 233,
+      "pt": "Uma das características dos patos de superfície é:",
+      "transcription": "Ýма даш карактерúштикаш душ пáтуш ди суперфúсие э:",
+      "ru": "Одна из характеристик речных уток:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Apresentarem dimorfismo sexual variável conforme as espécies",
+          "transcription": "Апрезентáрен диморфúзму сексуáл вариáвэл конфóрми аш эшпéсиеш",
+          "ru": "Половой диморфизм варьируется в зависимости от вида",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Não apresentarem dimorfismo sexual",
+          "transcription": "Нан апрезентáрен диморфúзму сексуáл",
+          "ru": "Не имеют полового диморфизма",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Apresentarem dimorfismo sexual acentuado na maioria das espécies",
+          "transcription": "Апрезентáрен диморфúзму сексуáл асентуáду на майорúа даш эшпéсиеш",
+          "ru": "У большинства видов выраженный половой диморфизм",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 234,
+      "pt": "Qual das espécies de patos seguintes não apresenta \"espelho alar\"?",
+      "transcription": "Куáл даш эшпéсиеш ди пáтуш сегúнтеш нан апрезéнта эшпéлью алáр?",
+      "ru": "У какого из следующих видов уток нет «крылового зеркальца»?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Pato-real",
+          "transcription": "Пáту-реáл",
+          "ru": "Кряква",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Frisada",
+          "transcription": "Фризáда",
+          "ru": "Серая утка",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Zarro-comum",
+          "transcription": "Зáрру-комýн",
+          "ru": "Красноголовый нырок",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 235,
+      "pt": "Os patos que apresentam \"espelho alar\" geralmente com brilho metálico, são os:",
+      "transcription": "Уш пáтуш ки апрезéнтан эшпéлью алáр жерáлменти кон брúлью метáлику, сáн уш:",
+      "ru": "Утки, у которых обычно есть зеркальце с металлическим блеском — это:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Patos de superfície",
+          "transcription": "Пáтуш ди суперфúсие",
+          "ru": "Речные утки",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Patos marinhos",
+          "transcription": "Пáтуш маринюш",
+          "ru": "Морские утки",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Patos mergulhadores",
+          "transcription": "Пáтуш мергульядóриш",
+          "ru": "Нырковые утки",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 236,
+      "pt": "Uma das características dos patos de superfície é:",
+      "transcription": "Ýма даш карактерúштикаш душ пáтуш ди суперфúсие э:",
+      "ru": "Одна из характеристик речных уток:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Terem uma alimentação preferencialmente animal",
+          "transcription": "Тéрен ýма алиментасáн преференсиáлменти анимáл",
+          "ru": "Преимущественно животный корм",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Obterem a sua alimentação através do mergulho",
+          "transcription": "Обтéрен а сýа алиментасáн атравéш ду мергýлью",
+          "ru": "Добывают корм, ныряя",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Arrancarem as plantas do fundo com o terço posterior emerso",
+          "transcription": "Арранкáрен аш плáнташ ду фýнду кон у тéрсу поштериóр эмéрсу",
+          "ru": "Вырывают растения со дна, оставляя заднюю треть тела на поверхности",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 237,
+      "pt": "Uma das características dos patos de superfície é:",
+      "transcription": "Ýма даш карактерúштикаш душ пáтуш ди суперфúсие э:",
+      "ru": "Одна из характеристик речных уток:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Levantarem voo quase na vertical",
+          "transcription": "Левантáрен вóу куáзи на вертикáл",
+          "ru": "Взлетают почти вертикально",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Patinharem na água antes de levantar voo",
+          "transcription": "Патиньáрен на áгуа áнтиш ди левантáр вóу",
+          "ru": "Разбегаются по воде перед взлётом",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Emergirem praticamente no local onde imergiram",
+          "transcription": "Эмержúрен пратикáменти ну локáл óнди имержúран",
+          "ru": "Всплывают практически там же, где нырнули",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 238,
+      "pt": "A alimentação dos patos de superfície é constituída à base de:",
+      "transcription": "А алиментасáн душ пáтуш ди суперфúсие э конституúда а бáзи ди:",
+      "ru": "Питание речных уток состоит из:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Microrganismos em suspensão na água e plantas do fundo",
+          "transcription": "Микроорганúзмуш эн суспенсáн на áгуа и плáнташ ду фýнду",
+          "ru": "Микроорганизмов, взвешенных в воде, и донных растений",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Moluscos, vermes e plantas",
+          "transcription": "Молýшкуш, вéрмиш и плáнташ",
+          "ru": "Моллюсков, червей и растений",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Moluscos, vermes e peixes",
+          "transcription": "Молýшкуш, вéрмиш и пéйшиш",
+          "ru": "Моллюсков, червей и рыбы",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 239,
+      "pt": "Uma das características dos patos mergulhadores é:",
+      "transcription": "Ýма даш карактерúштикаш душ пáтуш мергульядóриш э:",
+      "ru": "Одна из характеристик нырковых уток:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Possuírem franja alar branca ou pálida",
+          "transcription": "Посуúрен фрáнжа алáр брáнка оу пáлида",
+          "ru": "Белая или бледная кромка крыла",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Possuírem coloração quase sempre escura",
+          "transcription": "Посуúрен колорасáн куáзи сéмпри эшкýра",
+          "ru": "Почти всегда тёмная окраска",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Possuírem espelho com reflexos metálicos",
+          "transcription": "Посуúрен эшпéлью кон рефлéксуш метáликуш",
+          "ru": "Зеркальце с металлическим отливом",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 240,
+      "pt": "Uma das características dos patos mergulhadores é:",
+      "transcription": "Ýма даш карактерúштикаш душ пáтуш мергульядóриш э:",
+      "ru": "Одна из характеристик нырковых уток:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Possuírem tamanho pequeno a médio",
+          "transcription": "Посуúрен таманью пекéну а мéдиу",
+          "ru": "Размер от малого до среднего",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Possuírem tamanho médio",
+          "transcription": "Посуúрен таманью мéдиу",
+          "ru": "Средний размер",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Possuírem tamanho médio a grande",
+          "transcription": "Посуúрен таманью мéдиу а грáнди",
+          "ru": "Размер от среднего до крупного",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 241,
+      "pt": "Uma das características dos patos mergulhadores é:",
+      "transcription": "Ýма даш карактерúштикаш душ пáтуш мергульядóриш э:",
+      "ru": "Одна из характеристик нырковых уток:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Possuírem pescoço e patas compridas",
+          "transcription": "Посуúрен пешкóсу и пáташ компрúдаш",
+          "ru": "Длинные шея и лапы",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Possuírem pescoço, asas e patas curtas",
+          "transcription": "Посуúрен пешкóсу, áзаш и пáташ кýрташ",
+          "ru": "Короткие шея, крылья и лапы",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Possuírem pescoço e patas de tamanho médio",
+          "transcription": "Посуúрен пешкóсу и пáташ ди таманью мéдиу",
+          "ru": "Шея и лапы среднего размера",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 242,
+      "pt": "Uma das características dos patos mergulhadores é:",
+      "transcription": "Ýма даш карактерúштикаш душ пáтуш мергульядóриш э:",
+      "ru": "Одна из характеристик нырковых уток:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Apresentarem dimorfismo sexual variável conforme as espécies",
+          "transcription": "Апрезентáрен диморфúзму сексуáл вариáвэл конфóрми аш эшпéсиеш",
+          "ru": "Половой диморфизм варьируется в зависимости от вида",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Apresentarem dimorfismo sexual acentuado na maioria das espécies",
+          "transcription": "Апрезентáрен диморфúзму сексуáл асентуáду на майорúа даш эшпéсиеш",
+          "ru": "У большинства видов выраженный половой диморфизм",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Não apresentarem dimorfismo sexual",
+          "transcription": "Нан апрезентáрен диморфúзму сексуáл",
+          "ru": "Не имеют полового диморфизма",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 243,
+      "pt": "Uma das características dos patos mergulhadores é:",
+      "transcription": "Ýма даш карактерúштикаш душ пáтуш мергульядóриш э:",
+      "ru": "Одна из характеристик нырковых уток:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Patinharem na água antes de levantar voo",
+          "transcription": "Патиньáрен на áгуа áнтиш ди левантáр вóу",
+          "ru": "Разбегаются по воде перед взлётом",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Levantarem voo quase na vertical",
+          "transcription": "Левантáрен вóу куáзи на вертикáл",
+          "ru": "Взлетают почти вертикально",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Emergirem a alguns metros do local onde mergulharam",
+          "transcription": "Эмержúрен а алгýнш мéтруш ду локáл óнди мергульяран",
+          "ru": "Всплывают в нескольких метрах от места погружения",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 244,
+      "pt": "Dos seguintes conjuntos de espécies, qual deles é vulgar encontrar no mês de janeiro, num habitat classificado como zona húmida?",
+      "transcription": "Душ сегúнтеш конжýнтуш ди эшпéсиеш, куáл дéлиш э вулгáр энконтрáр ну мэш ди жанéйру, нун абитáт класификáду кóму зóна ýмида?",
+      "ru": "Из следующих наборов видов, какой обычно встречается в январе в местообитании, классифицируемом как водно-болотное угодье?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Pato-trombeteiro, galinha-d'água e galeirão",
+          "transcription": "Пáту-тромбетéйру, галúнья-дáгуа и гэлейрáн",
+          "ru": "Широконоска, камышница и лысуха",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Tarambola-dourada, pato-real e lebre",
+          "transcription": "Тарамбóла-доурáда, пáту-реáл и лéбри",
+          "ru": "Золотистая ржанка, кряква и заяц",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Arrabio, pombo-torcaz e galeirão",
+          "transcription": "Аррáбиу, пóмбу-торкáш и гэлейрáн",
+          "ru": "Шилохвость, вяхирь и лысуха",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 245,
+      "pt": "Nos patos mergulhadores, a alimentação é constituída à base de:",
+      "transcription": "Нуш пáтуш мергульядóриш, а алиментасáн э конституúда а бáзи ди:",
+      "ru": "У нырковых уток питание состоит из:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Moluscos, vermes e peixes",
+          "transcription": "Молýшкуш, вéрмиш и пéйшиш",
+          "ru": "Моллюсков, червей и рыбы",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Moluscos, vermes e plantas",
+          "transcription": "Молýшкуш, вéрмиш и плáнташ",
+          "ru": "Моллюсков, червей и растений",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Microrganismos em suspensão na água e plantas do fundo",
+          "transcription": "Микроорганúзмуш эн суспенсáн на áгуа и плáнташ ду фýнду",
+          "ru": "Микроорганизмов во взвеси и донных растений",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 246,
+      "pt": "À exceção do pato-real e do marreco, as restantes espécies de patos ocorrentes no País:",
+      "transcription": "А эксэсáн ду пáту-реáл и ду маррéку, аш рештáнтеш эшпéсиеш ди пáтуш окоррéнтеш ну паúш:",
+      "ru": "За исключением кряквы и чирка, остальные виды уток, встречающиеся в стране:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Invernam em Portugal e criam no Norte e Centro da Europa",
+          "transcription": "Инвéрнан эн Португáл и криáн ну Нóрти и Сéнтру да Эурóпа",
+          "ru": "Зимуют в Португалии, а размножаются на севере и в центре Европы",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Invernam em Portugal e criam no Norte e Sul da Europa",
+          "transcription": "Инвéрнан эн Португáл и криáн ну Нóрти и Сул да Эурóпа",
+          "ru": "Зимуют в Португалии, а размножаются на севере и юге Европы",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Invernam em Portugal e criam no Sul e Centro da Europa",
+          "transcription": "Инвéрнан эн Португáл и криáн ну Сул и Сéнтру да Эурóпа",
+          "ru": "Зимуют в Португалии, а размножаются на юге и в центре Европы",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 247,
+      "pt": "A maior parte da população de pato-real ocorrente no nosso País é:",
+      "transcription": "А майóр пáрти да популасáн ди пáту-реáл окоррéнти ну нóссу паúш э:",
+      "ru": "Большая часть популяции кряквы, встречающейся в нашей стране:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Migradora invernante",
+          "transcription": "Мигрaдóра инвернáнти",
+          "ru": "Зимующая перелётная",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Migradora de passagem",
+          "transcription": "Мигрaдóра ди пасáжен",
+          "ru": "Пролётная",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Sedentária",
+          "transcription": "Седентáрия",
+          "ru": "Оседлая",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 248,
+      "pt": "A frisada é um pato de superfície, cujo macho possui um espelho alar:",
+      "transcription": "А фризáда э ун пáту ди суперфúсие, кýжу мáшу посýй ун эшпéлью алáр:",
+      "ru": "Серая утка — речная утка, у самца которой крыловое зеркальце:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Pequeno branco, orlado em cima por negro e ruivo vivo",
+          "transcription": "Пекéну брáнку, орлáду эн сúма пур нéгру и рувúу вúву",
+          "ru": "Маленькое белое, окаймлённое сверху чёрным и ярко-рыжим",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Verde brilhante",
+          "transcription": "Вéрди брилья́нти",
+          "ru": "Ярко-зелёное",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Verde bronze",
+          "transcription": "Вéрди брóнзи",
+          "ru": "Бронзово-зелёное",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 249,
+      "pt": "O pato-trombeteiro macho distingue-se por possuir:",
+      "transcription": "У пáту-тромбетéйру мáшу диштúнги-си пур посуúр:",
+      "ru": "Самец широконоски отличается тем, что имеет:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Dorso cinzento, pescoço, cabeça e peito cor de tijolo, fronte amarela",
+          "transcription": "Дóрсу синзéнту, пешкóсу, кабéса и пéйту кор ди тижóлу, фрóнти амарéла",
+          "ru": "Серую спину, кирпичного цвета шею, голову и грудь, жёлтый лоб",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Cabeça verde, peito branco, mancha castanha nos flancos e ventre",
+          "transcription": "Кабéса вéрди, пéйту брáнку, мáнша каштáнья нуш флáнкуш и вéнтри",
+          "ru": "Зелёную голову, белую грудь, коричневое пятно на боках и брюхе",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Dorso acinzentado, cabeça verde, peito castanho, partes inferiores claras",
+          "transcription": "Дóрсу асинзентáду, кабéса вéрди, пéйту каштáню, пáртиш инфериóриш клáраш",
+          "ru": "Сероватую спину, зелёную голову, коричневую грудь, светлый низ",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 250,
+      "pt": "A fêmea do zarro-comum, distingue-se do macho por possuir:",
+      "transcription": "А фéмеа ду зáрру-комýн, диштúнги-си ду мáшу пур посуúр:",
+      "ru": "Самка красноголового нырка отличается от самца тем, что имеет:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Coloração acastanhada, com anel cinzento-azulado à volta do bico",
+          "transcription": "Колорасáн акаштаньáда, кон анéл синзéнту-азулáду а вóлта ду бúку",
+          "ru": "Коричневатую окраску с серовато-голубым кольцом вокруг клюва",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Um bico espatulado negro",
+          "transcription": "Ун бúку эшпатулáду нéгру",
+          "ru": "Чёрный лопатообразный клюв",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Uma coloração acastanhada, com bico alaranjado",
+          "transcription": "Ýма колорасáн акаштаньáда, кон бúку аларанжáду",
+          "ru": "Коричневатую окраску с оранжевым клювом",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 251,
+      "pt": "O arrabio é um pato de superfície que se pode distinguir dos outros patos por:",
+      "transcription": "У аррáбиу э ун пáту ди суперфúсие ки си пóди диштингúр душ óутруш пáтуш пур:",
+      "ru": "Шилохвость — речная утка, которую можно отличить от других уток по:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Possuir um bico espatulado muito desenvolvido",
+          "transcription": "Посуúр ун бúку эшпатулáду мýйту дезенволвúду",
+          "ru": "Сильно развитому лопатообразному клюву",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Possuir pescoço branco e peito cor de tijolo",
+          "transcription": "Посуúр пешкóсу брáнку и пéйту кор ди тижóлу",
+          "ru": "Белой шее и груди кирпичного цвета",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Possuir um pescoço comparativamente mais longo e esbelto",
+          "transcription": "Посуúр ун пешкóсу компаративáменти máйш лóнгу и эжбéлту",
+          "ru": "Сравнительно более длинной и стройной шее",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 252,
+      "pt": "O zarro-comum macho é um pato mergulhador que se pode distinguir por:",
+      "transcription": "У зáрру-комýн мáшу э ун пáту мергульядóр ки си пóди диштингúр пур:",
+      "ru": "Самец красноголового нырка — нырковая утка, которую можно отличить по:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Possuir cabeça e pescoço castanho avermelhado, peito e corpo cinzentos",
+          "transcription": "Посуúр кабéса и пешкóсу каштáню авермельяду, пéйту и кóрпу синзéнтуш",
+          "ru": "Красновато-коричневой голове и шее, серой груди и телу",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Possuir cabeça avermelhada com sobrancelha branca",
+          "transcription": "Посуúр кабéса авермельяда кон собрансéлья брáнка",
+          "ru": "Красноватой голове с белой «бровью»",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Cor geral castanho acinzentada, pescoço, cabeça e peito cor de tijolo",
+          "transcription": "Кор жерáл каштáню асинзентáда, пешкóсу, кабéса и пéйту кор ди тижóлу",
+          "ru": "Общей серовато-коричневой окраске, шее, голове и груди кирпичного цвета",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 253,
+      "pt": "Qual das seguintes espécies apresenta um \"espelho azul\"?",
+      "transcription": "Куáл даш сегúнтеш эшпéсиеш апрезéнта ун эшпéлью азýл?",
+      "ru": "У какого из следующих видов есть «синее зеркальце»?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Zarro-comum",
+          "transcription": "Зáрру-комýн",
+          "ru": "Красноголовый нырок",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Pato-real",
+          "transcription": "Пáту-реáл",
+          "ru": "Кряква",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Pato-trombeteiro",
+          "transcription": "Пáту-тромбетéйру",
+          "ru": "Широконоска",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 254,
+      "pt": "Como se distinguem os patos de superfície dos patos mergulhadores?",
+      "transcription": "Кóму си диштúнгуэн уш пáтуш ди суперфúсие душ пáтуш мергульядóриш?",
+      "ru": "Как отличить речных уток от нырковых?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "São maiores",
+          "transcription": "Сáн майóриш",
+          "ru": "Они крупнее",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Levantam voo quase na vertical",
+          "transcription": "Левáнтан вóу куáзи на вертикáл",
+          "ru": "Взлетают почти вертикально",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Têm cores menos brilhantes",
+          "transcription": "Тэн кóриш мéнуш брильянтиш",
+          "ru": "У них менее яркие цвета",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 255,
+      "pt": "Qual das espécies de patos seguintes não apresenta \"espelho alar\"?",
+      "transcription": "Куáл даш эшпéсиеш ди пáтуш сегúнтеш нан апрезéнта эшпéлью алáр?",
+      "ru": "У какого из следующих видов уток нет «крылового зеркальца»?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Pato-real",
+          "transcription": "Пáту-реáл",
+          "ru": "Кряква",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Frisada",
+          "transcription": "Фризáда",
+          "ru": "Серая утка",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Zarro-comum",
+          "transcription": "Зáрру-комýн",
+          "ru": "Красноголовый нырок",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 256,
+      "pt": "A galinha-d'água possui:",
+      "transcription": "А галúнья-дáгуа посýй:",
+      "ru": "У камышницы:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Bico vermelho com a ponta amarela",
+          "transcription": "Бúку вермéльу кон а пóнта амарéла",
+          "ru": "Красный клюв с жёлтым кончиком",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Bico amarelo com ponta vermelha",
+          "transcription": "Бúку амарéлу кон пóнта вермéлья",
+          "ru": "Жёлтый клюв с красным кончиком",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Bico vermelho com ponta branca",
+          "transcription": "Бúку вермéльу кон пóнта брáнка",
+          "ru": "Красный клюв с белым кончиком",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 257,
+      "pt": "A galinha-d'água possui:",
+      "transcription": "А галúнья-дáгуа посýй:",
+      "ru": "У камышницы:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Placa frontal branca",
+          "transcription": "Плáка фронтáл брáнка",
+          "ru": "Белая лобная бляшка",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Placa frontal amarela",
+          "transcription": "Плáка фронтáл амарéла",
+          "ru": "Жёлтая лобная бляшка",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Placa frontal vermelha",
+          "transcription": "Плáка фронтáл вермéлья",
+          "ru": "Красная лобная бляшка",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 258,
+      "pt": "A galinha-d'água é muito comum em:",
+      "transcription": "А галúнья-дáгуа э мýйту комýн эн:",
+      "ru": "Камышница очень распространена в:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Charcos, lagoas, zonas alagadas e cursos de água lentos",
+          "transcription": "Шáркуш, лагóаш, зóнаш алагáдаш и кýрсуш ди áгуа лéнтуш",
+          "ru": "Прудах, озёрах, заболоченных зонах и медленных водотоках",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Charcos, lagoas e cursos de água muito rápidos",
+          "transcription": "Шáркуш, лагóаш и кýрсуш ди áгуа мýйту рáпидуш",
+          "ru": "Прудах, озёрах и очень быстрых водотоках",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Lagoas, zonas alagadas e cursos de água temporários",
+          "transcription": "Лагóаш, зóнаш алагáдаш и кýрсуш ди áгуа темпорáриуш",
+          "ru": "Озёрах, заболоченных зонах и временных водотоках",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 259,
+      "pt": "A galinha-d'água é muito comum em:",
+      "transcription": "А галúнья-дáгуа э мýйту комýн эн:",
+      "ru": "Камышница очень распространена в:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Charcos, lagoas, zonas alagadas e cursos de água lentos",
+          "transcription": "Шáркуш, лагóаш, зóнаш алагáдаш и кýрсуш ди áгуа лéнтуш",
+          "ru": "Прудах, озёрах, заболоченных зонах и медленных водотоках",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Cursos de água muito rápidos sem vegetação nas margens",
+          "transcription": "Кýрсуш ди áгуа мýйту рáпидуш сен вежетасáн наш мáржэнш",
+          "ru": "Очень быстрых водотоках без растительности на берегах",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Zonas de matos e arvoredo abundante",
+          "transcription": "Зóнаш ди мáтуш и арворéду абундáнти",
+          "ru": "Зонах с густым кустарником и лесом",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 260,
+      "pt": "A atividade da galinha-d'água é:",
+      "transcription": "А ативидáде да галúнья-дáгуа э:",
+      "ru": "Активность камышницы:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Essencialmente diurna",
+          "transcription": "Эссенсиáлменти диýрна",
+          "ru": "В основном дневная",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Essencialmente noturna",
+          "transcription": "Эссенсиáлменти нотýрна",
+          "ru": "В основном ночная",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Essencialmente crepuscular",
+          "transcription": "Эссенсиáлменти крепушкулáр",
+          "ru": "В основном сумеречная",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 261,
+      "pt": "A seguinte figura representa:",
+      "transcription": "А сегúнти фигýра репрезéнта:",
+      "ru": "На следующем изображении показан:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Um galeirão",
+          "transcription": "Ун гэлейрáн",
+          "ru": "Лысуха",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Uma galinha-d'água",
+          "transcription": "Ýма галúнья-дáгуа",
+          "ru": "Камышница",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Um abibe",
+          "transcription": "Ун абúби",
+          "ru": "Чибис",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 262,
+      "pt": "O galeirão, em relação à galinha-d'água, apresenta um aspeto:",
+      "transcription": "У гэлейрáн, эн релясáн а галúнья-дáгуа, апрезéнта ун аспéту:",
+      "ru": "Лысуха по сравнению с камышницей выглядит:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Mais pesado e menos vivo",
+          "transcription": "Máйш пезáду и мéнуш вúву",
+          "ru": "Более тяжёлой и менее живой",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Menos pesado e menos vivo",
+          "transcription": "Мéнуш пезáду и мéнуш вúву",
+          "ru": "Менее тяжёлой и менее живой",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Mais pesado e mais vivo",
+          "transcription": "Máйш пезáду и máйш вúву",
+          "ru": "Более тяжёлой и более живой",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 263,
+      "pt": "O galeirão distingue-se da galinha-d'água por possuir:",
+      "transcription": "У гэлейрáн диштúнги-си да галúнья-дáгуа пур посуúр:",
+      "ru": "Лысуха отличается от камышницы тем, что имеет:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Bico branco e placa frontal vermelha",
+          "transcription": "Бúку брáнку и плáка фронтáл вермéлья",
+          "ru": "Белый клюв и красную лобную бляшку",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Bico branco e placa frontal branca",
+          "transcription": "Бúку брáнку и плáка фронтáл брáнка",
+          "ru": "Белый клюв и белую лобную бляшку",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Bico vermelho e placa frontal branca",
+          "transcription": "Бúку вермéльу и плáка фронтáл брáнка",
+          "ru": "Красный клюв и белую лобную бляшку",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 264,
+      "pt": "Os galeirões, durante o inverno:",
+      "transcription": "Уш гэлейрóйнш, дурáнти у инвéрну:",
+      "ru": "Лысухи зимой:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Constituem grandes bandos",
+          "transcription": "Конституэн грáндиш бáндуш",
+          "ru": "Образуют большие стаи",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Observam-se aos casais",
+          "transcription": "Обсéрван-си аош казáйш",
+          "ru": "Наблюдаются парами",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "São animais solitários",
+          "transcription": "Сáн анимáйш солитáриуш",
+          "ru": "Одиночные животные",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 265,
+      "pt": "Os galeirões, durante a época de reprodução:",
+      "transcription": "Уш гэлейрóйнш, дурáнти а éпока ди репродусáн:",
+      "ru": "Лысухи в период размножения:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "São animais muito sociáveis, constituindo grandes bandos",
+          "transcription": "Сáн анимáйш мýйту сосиáвэйш, конституúнду грáндиш бáндуш",
+          "ru": "Очень общительные, образуют большие стаи",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "São animais combativos e extremamente territoriais",
+          "transcription": "Сáн анимáйш комбатúвуш и эштремáменти территориáйш",
+          "ru": "Агрессивные и крайне территориальные",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "São animais que andam sós ou em pequenos grupos",
+          "transcription": "Сáн анимáйш ки áндан сóш оу эн пекéнуш грýпуш",
+          "ru": "Передвигаются поодиночке или небольшими группами",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 266,
+      "pt": "Qual a estação do ano em que os galeirões podem ser observados em grandes bandos?",
+      "transcription": "Куáл а эштасáн ду áну эн ки уш гэлейрóйнш пóдэн сер обсервáдуш эн грáндиш бáндуш?",
+      "ru": "В какое время года лысух можно наблюдать большими стаями?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Inverno",
+          "transcription": "Инвéрну",
+          "ru": "Зима",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Primavera",
+          "transcription": "Примавéра",
+          "ru": "Весна",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Outono",
+          "transcription": "Оутóну",
+          "ru": "Осень",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 267,
+      "pt": "A seguinte figura representa:",
+      "transcription": "А сегúнти фигýра репрезéнта:",
+      "ru": "На следующем изображении показан:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Uma perdiz-vermelha",
+          "transcription": "Ýма пердиз-вермéлья",
+          "ru": "Красная куропатка",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Uma rola-comum",
+          "transcription": "Ýма рóла-комýн",
+          "ru": "Обыкновенная горлица",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Um pombo-torcaz",
+          "transcription": "Ун пóмбу-торкáш",
+          "ru": "Вяхирь",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 268,
+      "pt": "A seguinte figura representa:",
+      "transcription": "А сегúнти фигýра репрезéнта:",
+      "ru": "На следующем изображении показан:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Uma rola-comum",
+          "transcription": "Ýма рóла-комýн",
+          "ru": "Обыкновенная горлица",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Um pombo-da-rocha",
+          "transcription": "Ун пóмбу-да-рóша",
+          "ru": "Сизый голубь",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Um pombo-torcaz",
+          "transcription": "Ун пóмбу-торкáш",
+          "ru": "Вяхирь",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 269,
+      "pt": "Os pombos podem caracterizar-se por possuírem:",
+      "transcription": "Уш пóмбуш пóдэн карактеризáр-си пур посуúрен:",
+      "ru": "Голуби характеризуются тем, что имеют:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Aspeto robusto, asas pontiagudas, cabeça pequena, cauda comprida e voo rápido",
+          "transcription": "Аспéту робýшту, áзаш понтиагýдаш, кабéса пекéна, кáуда компрúда и вóу рáпиду",
+          "ru": "Коренастый вид, заострённые крылья, маленькую голову, длинный хвост и быстрый полёт",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Aspeto robusto, asas arredondadas, cabeça grande, cauda comprida e voo rápido",
+          "transcription": "Аспéту робýшту, áзаш арредондáдаш, кабéса грáнди, кáуда компрúда и вóу рáпиду",
+          "ru": "Коренастый вид, закруглённые крылья, крупную голову, длинный хвост и быстрый полёт",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Aspeto robusto, asas pontiagudas, cabeça média, cauda curta e voo muito rápido",
+          "transcription": "Аспéту робýшту, áзаш понтиагýдаш, кабéса мéдиа, кáуда кýрта и вóу мýйту рáпиду",
+          "ru": "Коренастый вид, заострённые крылья, среднюю голову, короткий хвост и очень быстрый полёт",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 270,
+      "pt": "Normalmente, os pombos, fora da época de criação:",
+      "transcription": "Нормáлменти, уш пóмбуш, фóра да éпока ди криасáн:",
+      "ru": "Обычно голуби вне периода размножения:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Vivem aos pares",
+          "transcription": "Вúвэн аош пáриш",
+          "ru": "Живут парами",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Vivem isolados",
+          "transcription": "Вúвэн изолáдуш",
+          "ru": "Живут поодиночке",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Vivem em bandos",
+          "transcription": "Вúвэн эн бáндуш",
+          "ru": "Живут стаями",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 271,
+      "pt": "O pombo-torcaz, distingue-se dos restantes pombos por possuir:",
+      "transcription": "У пóмбу-торкáш, диштúнги-си душ рештáнтеш пóмбуш пур посуúр:",
+      "ru": "Вяхирь отличается от остальных голубей тем, что имеет:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Duas barras pretas nas asas",
+          "transcription": "Дýаш бáрраш прéташ наш áзаш",
+          "ru": "Две чёрные полосы на крыльях",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Duas manchas brancas nos lados do pescoço e das asas",
+          "transcription": "Дýаш мáншаш брáнкаш нуш лáдуш ду пешкóсу и даш áзаш",
+          "ru": "Два белых пятна по бокам шеи и на крыльях",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Pontas das asas negras e uropígio branco",
+          "transcription": "Пóнташ даш áзаш нéграш и уропúжиу брáнку",
+          "ru": "Чёрные концы крыльев и белое надхвостье",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 272,
+      "pt": "Indique qual dos pombos apresenta maior envergadura:",
+      "transcription": "Индúки куáл душ пóмбуш апрезéнта майóр энвергадýра:",
+      "ru": "Укажите, у какого голубя наибольший размах крыльев:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Pombo-bravo",
+          "transcription": "Пóмбу-брáву",
+          "ru": "Клинтух",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Pombo-da-rocha",
+          "transcription": "Пóмбу-да-рóша",
+          "ru": "Сизый голубь",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Pombo-torcaz",
+          "transcription": "Пóмбу-торкáш",
+          "ru": "Вяхирь",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 273,
+      "pt": "O pombo-torcaz distingue-se do pombo-bravo e do pombo-da-rocha por ser:",
+      "transcription": "У пóмбу-торкáш диштúнги-си ду пóмбу-брáву и ду пóмбу-да-рóша пур сер:",
+      "ru": "Вяхирь отличается от клинтуха и сизого голубя тем, что он:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "O menor dos três pombos",
+          "transcription": "У менóр душ трэш пóмбуш",
+          "ru": "Самый маленький из трёх голубей",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "O maior dos três pombos",
+          "transcription": "У майóр душ трэш пóмбуш",
+          "ru": "Самый крупный из трёх голубей",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Completamente escuro",
+          "transcription": "Комплéтаменти эшкýру",
+          "ru": "Полностью тёмный",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 274,
+      "pt": "A maioria da população de pombo-torcaz que nos visita é proveniente:",
+      "transcription": "А майорúа да популасáн ди пóмбу-торкáш ки нуш визúта э провениéнти:",
+      "ru": "Большинство посещающей нас популяции вяхиря происходит:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Do Norte da Europa",
+          "transcription": "Ду Нóрти да Эурóпа",
+          "ru": "С севера Европы",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Do Sul da Europa",
+          "transcription": "Ду Сул да Эурóпа",
+          "ru": "С юга Европы",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Do Médio Oriente",
+          "transcription": "Ду Мéдиу Ориéнти",
+          "ru": "С Ближнего Востока",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 275,
+      "pt": "O pombo-torcaz, normalmente constrói o ninho, em:",
+      "transcription": "У пóмбу-торкáш, нормáлменти конштрóй у нúнью, эн:",
+      "ru": "Вяхирь обычно строит гнездо:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Árvores, a alturas geralmente elevadas",
+          "transcription": "Áрвориш, а алтýраш жерáлменти элевáдаш",
+          "ru": "На деревьях, обычно на большой высоте",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Buracos de árvores e de edifícios",
+          "transcription": "Бурáкуш ди áрвориш и ди эдифúсиуш",
+          "ru": "В дуплах деревьев и зданий",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Árvores baixas e falésias",
+          "transcription": "Áрвориш бáйшаш и фалéзиаш",
+          "ru": "На невысоких деревьях и скалах",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 276,
+      "pt": "Dos pombos existentes entre nós, qual deles apresenta distribuição menos alargada?",
+      "transcription": "Душ пóмбуш эжиштéнтеш éнтри нóш, куáл дéлиш апрезéнта диштрибуисáн мéнуш аларгáда?",
+      "ru": "Из голубей, встречающихся у нас, у какого наименее широкое распространение?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Pombo-da-rocha",
+          "transcription": "Пóмбу-да-рóша",
+          "ru": "Сизый голубь",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Pombo-torcaz",
+          "transcription": "Пóмбу-торкáш",
+          "ru": "Вяхирь",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Pombo-bravo",
+          "transcription": "Пóмбу-брáву",
+          "ru": "Клинтух",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 277,
+      "pt": "Dos pombos existentes entre nós, qual deles é parcialmente migrador?",
+      "transcription": "Душ пóмбуш эжиштéнтеш éнтри нóш, куáл дéлиш э парсиáлменти мигрaдóр?",
+      "ru": "Какой из наших голубей частично перелётный?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Pombo-torcaz",
+          "transcription": "Пóмбу-торкáш",
+          "ru": "Вяхирь",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Pombo-da-rocha",
+          "transcription": "Пóмбу-да-рóша",
+          "ru": "Сизый голубь",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Pombo-bravo",
+          "transcription": "Пóмбу-брáву",
+          "ru": "Клинтух",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 278,
+      "pt": "A qual dos pombos existentes entre nós também se dá o nome de seixa?",
+      "transcription": "А куáл душ пóмбуш эжиштéнтеш éнтри нóш тамбéн си дá у нóми ди сéйша?",
+      "ru": "Какой из наших голубей также называют «сейша»?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Pombo-torcaz",
+          "transcription": "Пóмбу-торкáш",
+          "ru": "Вяхирь",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Pombo-da-rocha",
+          "transcription": "Пóмбу-да-рóша",
+          "ru": "Сизый голубь",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Pombo-bravo",
+          "transcription": "Пóмбу-брáву",
+          "ru": "Клинтух",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 279,
+      "pt": "A alimentação do pombo-da-rocha é à base de:",
+      "transcription": "А алиментасáн ду пóмбу-да-рóша э а бáзи ди:",
+      "ru": "Питание сизого голубя основано на:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Bolota e azeitona",
+          "transcription": "Болóта и азейтóна",
+          "ru": "Жёлудях и оливках",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Grãos e sementes",
+          "transcription": "Грáнуш и семéнтеш",
+          "ru": "Зерне и семенах",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Grãos, bagas, sementes e bolotas",
+          "transcription": "Грáнуш, бáгаш, семéнтеш и болóташ",
+          "ru": "Зерне, ягодах, семенах и желудях",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 280,
+      "pt": "A seguinte figura representa:",
+      "transcription": "А сегúнти фигýра репрезéнта:",
+      "ru": "На следующем изображении показана:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Uma narceja-comum",
+          "transcription": "Ýма нарсéжа-комýн",
+          "ru": "Обыкновенный бекас",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Uma galinhola",
+          "transcription": "Ýма галиньóла",
+          "ru": "Вальдшнеп",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Uma tarambola-dourada",
+          "transcription": "Ýма тарамбóла-доурáда",
+          "ru": "Золотистая ржанка",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 281,
+      "pt": "Qual das frases está errada?",
+      "transcription": "Куáл даш фрáзиш эштá эррáда?",
+      "ru": "Какое утверждение неверно?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "A galinhola é uma ave migradora em todo o território nacional",
+          "transcription": "А галиньóла э ýма áви мигрaдóра эн тóду у территóриу насионáл",
+          "ru": "Вальдшнеп — перелётная птица на всей территории страны",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "A galinhola é uma ave sedentária nos Açores",
+          "transcription": "А галиньóла э ýма áви седентáрия нуз Асóриш",
+          "ru": "Вальдшнеп — оседлая птица на Азорских островах",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "A galinhola é uma ave migradora em Portugal Continental",
+          "transcription": "А галиньóла э ýма áви мигрaдóра эн Португáл Континентáл",
+          "ru": "Вальдшнеп — перелётная птица в континентальной Португалии",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 282,
+      "pt": "O período de atividade da galinhola, é fundamentalmente:",
+      "transcription": "У перúоду ди ативидáде да галиньóла, э фундаментáлменти:",
+      "ru": "Период активности вальдшнепа преимущественно:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Diurno e noturno",
+          "transcription": "Диýрну и нотýрну",
+          "ru": "Дневной и ночной",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Crepuscular e diurno",
+          "transcription": "Крепушкулáр и диýрну",
+          "ru": "Сумеречный и дневной",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Crepuscular e noturno",
+          "transcription": "Крепушкулáр и нотýрну",
+          "ru": "Сумеречный и ночной",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 283,
+      "pt": "A galinhola é uma ave:",
+      "transcription": "А галиньóла э ýма áви:",
+      "ru": "Вальдшнеп — птица:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Solitária",
+          "transcription": "Солитáрия",
+          "ru": "Одиночная",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Que se encontra aos casais",
+          "transcription": "Ки си энкóнтра аош казáйш",
+          "ru": "Которую встречают парами",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Que vive em bandos",
+          "transcription": "Ки вúви эн бáндуш",
+          "ru": "Которая живёт стаями",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 284,
+      "pt": "A galinhola caracteriza-se por possuir:",
+      "transcription": "А галиньóла карактерúза-си пур посуúр:",
+      "ru": "Вальдшнеп характеризуется тем, что имеет:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Asas estreitas e arredondadas, bico comprido e direito",
+          "transcription": "Áзаш эштрéйташ и арредондáдаш, бúку компрúду и дирéйту",
+          "ru": "Узкие закруглённые крылья, длинный прямой клюв",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Asas largas e arredondadas, bico curto e direito",
+          "transcription": "Áзаш лáргаш и арредондáдаш, бúку кýрту и дирéйту",
+          "ru": "Широкие закруглённые крылья, короткий прямой клюв",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Asas largas e arredondadas, bico comprido e direito",
+          "transcription": "Áзаш лáргаш и арредондáдаш, бúку компрúду и дирéйту",
+          "ru": "Широкие закруглённые крылья, длинный прямой клюв",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 285,
+      "pt": "O voo da galinhola caracteriza-se por ser:",
+      "transcription": "У вóу да галиньóла карактерúза-си пур сер:",
+      "ru": "Полёт вальдшнепа характеризуется как:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Rápido e silencioso entre as árvores",
+          "transcription": "Рáпиду и силенсиóзу éнтри аш áрвориш",
+          "ru": "Быстрый и бесшумный среди деревьев",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Rápido e retilíneo",
+          "transcription": "Рáпиду и ретилúнеу",
+          "ru": "Быстрый и прямолинейный",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Lento e silencioso com o bico apontado para o solo",
+          "transcription": "Лéнту и силенсиóзу кон у бúку апонтáду пáра у сóлу",
+          "ru": "Медленный и бесшумный, с клювом, направленным к земле",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 286,
+      "pt": "Quando em voo, a galinhola apresenta uma figura:",
+      "transcription": "Куáнду эн вóу, а галиньóла апрезéнта ýма фигýра:",
+      "ru": "В полёте вальдшнеп выглядит:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Longilínea, de asas redondas e bico apontado para o solo",
+          "transcription": "Лонжилúнеа, ди áзаш редóндаш и бúку апонтáду пáра у сóлу",
+          "ru": "Удлинённой, с округлыми крыльями и клювом вниз",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Atarracada, de asas redondas e bico apontado para o solo",
+          "transcription": "Атаррaкáда, ди áзаш редóндаш и бúку апонтáду пáра у сóлу",
+          "ru": "Приземистой, с округлыми крыльями и клювом вниз",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Atarracada, de asas estreitas e bico apontado para o solo",
+          "transcription": "Атаррaкáда, ди áзаш эштрéйташ и бúку апонтáду пáра у сóлу",
+          "ru": "Приземистой, с узкими крыльями и клювом вниз",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 287,
+      "pt": "A galinhola, para a sua criação, procura:",
+      "transcription": "А галиньóла, пáра а сýа криасáн, прокýра:",
+      "ru": "Вальдшнеп для размножения выбирает:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Países do centro e sul da Europa",
+          "transcription": "Паúзиш ду сéнтру и сул да Эурóпа",
+          "ru": "Страны центральной и южной Европы",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Países do norte de África",
+          "transcription": "Паúзиш ду нóрти ди Áфрика",
+          "ru": "Страны севера Африки",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Países do centro e norte da Europa",
+          "transcription": "Паúзиш ду сéнтру и нóрти да Эурóпа",
+          "ru": "Страны центральной и северной Европы",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 288,
+      "pt": "A galinhola, em Portugal Continental é uma ave migradora:",
+      "transcription": "А галиньóла, эн Португáл Континентáл э ýма áви мигрaдóра:",
+      "ru": "Вальдшнеп в континентальной Португалии — перелётная птица:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Estival",
+          "transcription": "Эштивáл",
+          "ru": "Летняя",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Invernante",
+          "transcription": "Инвернáнти",
+          "ru": "Зимующая",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Primaveril",
+          "transcription": "Примаверúл",
+          "ru": "Весенняя",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 289,
+      "pt": "A galinhola encontra-se geralmente:",
+      "transcription": "А галиньóла энкóнтра-си жерáлменти:",
+      "ru": "Вальдшнеп обычно встречается:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Em bosques muito densos e fechados",
+          "transcription": "Эн бóшкиш мýйту дéнсуш и фешáдуш",
+          "ru": "В очень густых закрытых лесах",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Em bosques associados a áreas de cultivo",
+          "transcription": "Эн бóшкиш асосиáдуш а áреаш ди культúву",
+          "ru": "В лесах рядом с возделанными землями",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Em bosques com vegetação arbustiva",
+          "transcription": "Эн бóшкиш кон вежетасáн арбуштúва",
+          "ru": "В лесах с кустарниковой растительностью",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 290,
+      "pt": "Qual o tipo de zonas que a galinhola prefere para se alimentar?",
+      "transcription": "Куáл у тúпу ди зóнаш ки а галиньóла префéри пáра си алиментáр?",
+      "ru": "Какие зоны вальдшнеп предпочитает для кормёжки?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Terras frescas e húmidas",
+          "transcription": "Тéррраш фрéшкаш и ýмидаш",
+          "ru": "Прохладные и влажные земли",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Terras pedregosas e húmidas",
+          "transcription": "Тéррраш педрегóзаш и ýмидаш",
+          "ru": "Каменистые и влажные земли",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Terras argilosas e secas",
+          "transcription": "Тéррраш аржилóзаш и сéкаш",
+          "ru": "Глинистые и сухие земли",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 291,
+      "pt": "A galinhola:",
+      "transcription": "А галиньóла:",
+      "ru": "Вальдшнеп:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Encontra-se normalmente em bandos de grandes dimensões",
+          "transcription": "Энкóнтра-си нормáлменти эн бáндуш ди грáндиш дименсóйнш",
+          "ru": "Обычно встречается крупными стаями",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Encontra-se normalmente em bandos de pequenas dimensões",
+          "transcription": "Энкóнтра-си нормáлменти эн бáндуш ди пекéнаш дименсóйнш",
+          "ru": "Обычно встречается небольшими стаями",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "É uma ave solitária",
+          "transcription": "Э ýма áви солитáрия",
+          "ru": "Одиночная птица",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 292,
+      "pt": "Qual o habitat preferido da galinhola:",
+      "transcription": "Куáл у абитáт преферúду да галиньóла:",
+      "ru": "Каково предпочитаемое местообитание вальдшнепа:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Zonas abertas e húmidas",
+          "transcription": "Зóнаш абéрташ и ýмидаш",
+          "ru": "Открытые влажные зоны",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Montados de azinho",
+          "transcription": "Монтáдуш ди азúнью",
+          "ru": "Дубравы каменного дуба (монтаду)",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Bosques com vegetação arbustiva e terrenos frescos e húmidos",
+          "transcription": "Бóшкиш кон вежетасáн арбуштúва и терéнуш фрéшкуш и ýмидуш",
+          "ru": "Леса с кустарниковой растительностью и прохладные влажные земли",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 293,
+      "pt": "A seguinte figura representa:",
+      "transcription": "А сегúнти фигýра репрезéнта:",
+      "ru": "На следующем изображении показан:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Narceja-galega",
+          "transcription": "Нарсéжа-галéга",
+          "ru": "Гаршнеп",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Narceja-comum",
+          "transcription": "Нарсéжа-комýн",
+          "ru": "Обыкновенный бекас",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Galinhola",
+          "transcription": "Галиньóла",
+          "ru": "Вальдшнеп",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 294,
+      "pt": "As narcejas encontram-se geralmente ligadas a:",
+      "transcription": "Аш нарсéжаш энкóнтран-си жерáлменти лигáдаш а:",
+      "ru": "Бекасы обычно связаны с:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Bosques com vegetação arbustiva suficiente para lhes fornecer coberto",
+          "transcription": "Бóшкиш кон вежетасáн арбуштúва суфисиéнти пáра льиш форнесéр кобéрту",
+          "ru": "Лесами с достаточной кустарниковой растительностью для укрытия",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Zonas com solos leves e húmidos",
+          "transcription": "Зóнаш кон сóлуш лéвиш и ýмидуш",
+          "ru": "Зонами с лёгкими и влажными почвами",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Grandes planícies cultivadas em zonas interiores",
+          "transcription": "Грáндиш планúсиеш культивáдаш эн зóнаш интериóриш",
+          "ru": "Большими возделанными равнинами внутренних районов",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 295,
+      "pt": "As narcejas para se alimentarem:",
+      "transcription": "Аш нарсéжаш пáра си алиментáрен:",
+      "ru": "Бекасы для кормёжки:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Esgravatam o solo com as patas à procura dos invertebrados de que se alimentam",
+          "transcription": "Эжграватáн у сóлу кон аш пáташ а прокýра душ инвертебрáдуш ди ки си алиментáн",
+          "ru": "Разгребают почву лапами в поисках беспозвоночных",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Utilizam o bico para extraírem da terra os invertebrados de que se alimentam",
+          "transcription": "Утилúзан у бúку пáра эштраúрен да тéрра уш инвертебрáдуш ди ки си алиментáн",
+          "ru": "Используют клюв, чтобы извлекать из земли беспозвоночных",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Perseguem os invertebrados de que se alimentam",
+          "transcription": "Персéгуэн уш инвертебрáдуш ди ки си алиментáн",
+          "ru": "Преследуют беспозвоночных, которыми питаются",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 296,
+      "pt": "As narcejas são caracterizadas por possuírem:",
+      "transcription": "Аш нарсéжаш сáн карактеризáдаш пур посуúрен:",
+      "ru": "Бекасы характеризуются тем, что имеют:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Grande bico, pernas e pescoço relativamente curtos",
+          "transcription": "Грáнди бúку, пéрнаш и пешкóсу релативáменти кýртуш",
+          "ru": "Крупный клюв, относительно короткие ноги и шею",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Bico, pernas e pescoço relativamente curtos",
+          "transcription": "Бúку, пéрнаш и пешкóсу релативáменти кýртуш",
+          "ru": "Относительно короткие клюв, ноги и шею",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Bico, pernas e pescoço relativamente compridos",
+          "transcription": "Бúку, пéрнаш и пешкóсу релативáменти компрúдуш",
+          "ru": "Относительно длинные клюв, ноги и шею",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 297,
+      "pt": "As narcejas são animais:",
+      "transcription": "Аш нарсéжаш сáн анимáйш:",
+      "ru": "Бекасы — животные:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Muito sociáveis",
+          "transcription": "Мýйту сосиáвэйш",
+          "ru": "Очень общительные",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Pouco sociáveis",
+          "transcription": "Пóуку сосиáвэйш",
+          "ru": "Малообщительные",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Migradoras estivais",
+          "transcription": "Мигрaдóраш эштивáйш",
+          "ru": "Летние перелётные",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 298,
+      "pt": "As narcejas, para criação, procuram:",
+      "transcription": "Аш нарсéжаш, пáра криасáн, прокýран:",
+      "ru": "Бекасы для размножения выбирают:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Países do centro e sul da Europa",
+          "transcription": "Паúзиш ду сéнтру и сул да Эурóпа",
+          "ru": "Страны центральной и южной Европы",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Países do norte de África",
+          "transcription": "Паúзиш ду нóрти ди Áфрика",
+          "ru": "Страны севера Африки",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Países do centro e norte da Europa",
+          "transcription": "Паúзиш ду сéнтру и нóрти да Эурóпа",
+          "ru": "Страны центральной и северной Европы",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 299,
+      "pt": "Entre nós, a narceja é uma ave:",
+      "transcription": "Éнтри нóш, а нарсéжа э ýма áви:",
+      "ru": "У нас бекас — птица:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Migradora estival",
+          "transcription": "Мигрaдóра эштивáл",
+          "ru": "Летняя перелётная",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Migradora invernante",
+          "transcription": "Мигрaдóра инвернáнти",
+          "ru": "Зимующая перелётная",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Parcialmente migradora",
+          "transcription": "Парсиáлменти мигрaдóра",
+          "ru": "Частично перелётная",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 300,
+      "pt": "Quantas espécies de narcejas ocorrem entre nós?",
+      "transcription": "Куáнташ эшпéсиеш ди нарсéжаш окóррен éнтри нóш?",
+      "ru": "Сколько видов бекасов встречается у нас?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "1",
+          "transcription": "Ýн",
+          "ru": "1",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "2",
+          "transcription": "Дóйш",
+          "ru": "2",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "3",
+          "transcription": "Трэш",
+          "ru": "3",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 301,
+      "pt": "Qual das espécies de narcejas ocorrentes é extremamente rara?",
+      "transcription": "Куáл даш эшпéсиеш ди нарсéжаш окоррéнтеш э эштремáменти рáра?",
+      "ru": "Какой из встречающихся видов бекасов крайне редок?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Narceja-comum",
+          "transcription": "Нарсéжа-комýн",
+          "ru": "Обыкновенный бекас",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Narceja-galega",
+          "transcription": "Нарсéжа-галéга",
+          "ru": "Гаршнеп",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Narceja-grande",
+          "transcription": "Нарсéжа-грáнди",
+          "ru": "Дупель",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 302,
+      "pt": "Das espécies de narcejas que se podem caçar, qual a que tem maior envergadura?",
+      "transcription": "Даш эшпéсиеш ди нарсéжаш ки си пóдэн касáр, куáл а ки тэн майóр энвергадýра?",
+      "ru": "Из видов бекасов, на которых разрешена охота, у какого наибольший размах крыльев?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Narceja-grande",
+          "transcription": "Нарсéжа-грáнди",
+          "ru": "Дупель",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Narceja-comum",
+          "transcription": "Нарсéжа-комýн",
+          "ru": "Обыкновенный бекас",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Narceja-galega",
+          "transcription": "Нарсéжа-галéга",
+          "ru": "Гаршнеп",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 303,
+      "pt": "A alimentação das narcejas baseia-se em:",
+      "transcription": "А алиментасáн даш нарсéжаш базéя-си эн:",
+      "ru": "Питание бекасов основано на:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Moluscos, insetos, fragmentos vegetais, grãos",
+          "transcription": "Молýшкуш, инсéтуш, фрагмéнтуш вежетáйш, грáнуш",
+          "ru": "Моллюсках, насекомых, растительных фрагментах, зерне",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Insetos, sementes e plantas aquáticas",
+          "transcription": "Инсéтуш, семéнтеш и плáнташ акуáтикаш",
+          "ru": "Насекомых, семенах и водных растениях",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Arroz, milho, caracóis e pequenas rãs",
+          "transcription": "Аррóж, мúлью, каракóйш и пекéнаш рáнш",
+          "ru": "Рисе, кукурузе, улитках и мелких лягушках",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 304,
+      "pt": "Qual destas afirmações é correta?",
+      "transcription": "Куáл дéшташ афирмасóйнш э коррéта?",
+      "ru": "Какое из этих утверждений верно?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "A lebre tem orelhas e tamanho diferente do coelho, mas uma coloração igual",
+          "transcription": "А лéбри тэн орéльяш и таманью диферéнти ду куэлью, маш ýма колорасáн игуáл",
+          "ru": "У зайца уши и размер отличаются от кролика, но окраска одинаковая",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "O pombo-torcaz distingue-se do pombo-bravo por ser mais pequeno",
+          "transcription": "У пóмбу-торкáш диштúнги-си ду пóмбу-брáву пур сер máйш пекéну",
+          "ru": "Вяхирь отличается от клинтуха тем, что он меньше",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "A narceja-comum distingue-se da narceja-galega por ser maior e ter o bico mais comprido",
+          "transcription": "А нарсéжа-комýн диштúнги-си да нарсéжа-галéга пур сер майóр и тер у бúку máйш компрúду",
+          "ru": "Обыкновенный бекас отличается от гаршнепа тем, что он крупнее и имеет более длинный клюв",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 305,
+      "pt": "A alimentação da tarambola-dourada baseia-se sobretudo em:",
+      "transcription": "А алиментасáн да тарамбóла-доурáда базéя-си собрэтýду эн:",
+      "ru": "Питание золотистой ржанки основано главным образом на:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Vermes, caracóis e grãos",
+          "transcription": "Вéрмиш, каракóйш и грáнуш",
+          "ru": "Червях, улитках и зерне",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "insetos e larvas",
+          "transcription": "Инсéтуш и лáрваш",
+          "ru": "Насекомых и личинках",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Moluscos, crustáceos e vermes",
+          "transcription": "Молýшкуш, кружтáсеуш и вéрмиш",
+          "ru": "Моллюсках, ракообразных и червях",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 306,
+      "pt": "Quantas espécies de tarambolas se podem encontrar em Portugal?",
+      "transcription": "Куáнташ эшпéсиеш ди тарамбóлаш си пóдэн энконтрáр эн Португáл?",
+      "ru": "Сколько видов ржанок встречается в Португалии?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "3",
+          "transcription": "Трэш",
+          "ru": "3",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "2",
+          "transcription": "Дóйш",
+          "ru": "2",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "1",
+          "transcription": "Ýн",
+          "ru": "1",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 307,
+      "pt": "As tarambolas visitam Portugal:",
+      "transcription": "Аш тарамбóлаш визúтан Португáл:",
+      "ru": "Ржанки посещают Португалию:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Durante o inverno e primavera",
+          "transcription": "Дурáнти у инвéрну и примавéра",
+          "ru": "Зимой и весной",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Durante o outono e inverno",
+          "transcription": "Дурáнти у оутóну и инвéрну",
+          "ru": "Осенью и зимой",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Apenas durante o inverno",
+          "transcription": "Апéнаш дурáнти у инвéрну",
+          "ru": "Только зимой",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 308,
+      "pt": "A tarambola-dourada encontra-se:",
+      "transcription": "А тарамбóла-доурáда энкóнтра-си:",
+      "ru": "Золотистая ржанка встречается:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Em zonas florestais",
+          "transcription": "Эн зóнаш флорештáйш",
+          "ru": "В лесных зонах",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Especialmente em zonas interiores",
+          "transcription": "Эшпесиáлменти эн зóнаш интериóриш",
+          "ru": "Особенно во внутренних районах",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Exclusivamente em áreas costeiras",
+          "transcription": "Эшклузивáменти эн áреаш коштéйраш",
+          "ru": "Исключительно в прибрежных районах",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 309,
+      "pt": "Os tordos são:",
+      "transcription": "Уш тóрдуш сáн:",
+      "ru": "Дрозды — это:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Pássaros de tamanho pequeno",
+          "transcription": "Пáсаруш ди таманью пекéну",
+          "ru": "Маленькие птицы",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Pássaros de tamanho grande",
+          "transcription": "Пáсаруш ди таманью грáнди",
+          "ru": "Крупные птицы",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Pássaros de tamanho médio",
+          "transcription": "Пáсаруш ди таманью мéдиу",
+          "ru": "Птицы среднего размера",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 310,
+      "pt": "Quantas espécies de tordos se podem encontrar em Portugal?",
+      "transcription": "Куáнташ эшпéсиеш ди тóрдуш си пóдэн энконтрáр эн Португáл?",
+      "ru": "Сколько видов дроздов встречается в Португалии?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "5",
+          "transcription": "Сúнку",
+          "ru": "5",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "4",
+          "transcription": "Куáтру",
+          "ru": "4",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "3",
+          "transcription": "Трэш",
+          "ru": "3",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 311,
+      "pt": "A alimentação dos tordos baseia-se em:",
+      "transcription": "А алиментасáн душ тóрдуш базéя-си эн:",
+      "ru": "Питание дроздов основано на:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Invertebrados e frutos",
+          "transcription": "Инвертебрáдуш и фрýтуш",
+          "ru": "Беспозвоночных и плодах",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Insetos, moluscos e caracóis",
+          "transcription": "Инсéтуш, молýшкуш и каракóйш",
+          "ru": "Насекомых, моллюсках и улитках",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Insetos e larvas",
+          "transcription": "Инсéтуш и лáрваш",
+          "ru": "Насекомых и личинках",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 312,
+      "pt": "Qual das espécies de tordos é a maior?",
+      "transcription": "Куáл даш эшпéсиеш ди тóрдуш э а майóр?",
+      "ru": "Какой из видов дроздов самый крупный?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Tordeia",
+          "transcription": "Тордéя",
+          "ru": "Деряба",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Tordo-zornal",
+          "transcription": "Тóрду-зорнáл",
+          "ru": "Дрозд-рябинник",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Tordo-comum",
+          "transcription": "Тóрду-комýн",
+          "ru": "Певчий дрозд",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 313,
+      "pt": "Qual das espécies de tordos é sedentária?",
+      "transcription": "Куáл даш эшпéсиеш ди тóрдуш э седентáрия?",
+      "ru": "Какой из видов дроздов оседлый?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Tordo-comum",
+          "transcription": "Тóрду-комýн",
+          "ru": "Певчий дрозд",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Tordo-ruivo",
+          "transcription": "Тóрду-рувúу",
+          "ru": "Белобровик",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Tordeia",
+          "transcription": "Тордéя",
+          "ru": "Деряба",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 314,
+      "pt": "Qual das seguintes espécies de tordos se pode identificar, em voo, por apresentar a parte inferior das asas de cor branca?",
+      "transcription": "Куáл даш сегúнтеш эшпéсиеш ди тóрдуш си пóди идентификáр, эн вóу, пур апрезентáр а пáрти инфериóр даш áзаш ди кор брáнка?",
+      "ru": "Какой из следующих видов дроздов можно определить в полёте по белому цвету нижней стороны крыльев?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Tordo-ruivo",
+          "transcription": "Тóрду-рувúу",
+          "ru": "Белобровик",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Tordeia",
+          "transcription": "Тордéя",
+          "ru": "Деряба",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Tordo-comum",
+          "transcription": "Тóрду-комýн",
+          "ru": "Певчий дрозд",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 315,
+      "pt": "O habitat dos tordos, está geralmente ligado a:",
+      "transcription": "У абитáт душ тóрдуш, эштá жерáлменти лигáду а:",
+      "ru": "Местообитание дроздов обычно связано с:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Zonas arborizadas ou às suas orlas",
+          "transcription": "Зóнаш арборизáдаш оу аш сýаш óрлаш",
+          "ru": "Лесистыми зонами или их опушками",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Zonas húmidas ou às suas orlas",
+          "transcription": "Зóнаш ýмидаш оу аш сýаш óрлаш",
+          "ru": "Влажными зонами или их окраинами",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Zonas cerealíferas ou às suas orlas",
+          "transcription": "Зóнаш сереалúфераш оу аш сýаш óрлаш",
+          "ru": "Зерновыми зонами или их окраинами",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 316,
+      "pt": "O tordo-zornal e o tordo-ruivo são aves invernantes em Portugal que nidificam:",
+      "transcription": "У тóрду-зорнáл и у тóрду-рувúу сáн áвиш инвернáнтеш эн Португáл ки нидифúкан:",
+      "ru": "Дрозд-рябинник и белобровик — зимующие в Португалии птицы, которые гнездятся:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Em países do Sul da Europa",
+          "transcription": "Эн паúзиш ду Сул да Эурóпа",
+          "ru": "В странах южной Европы",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Em países do Norte da Europa",
+          "transcription": "Эн паúзиш ду Нóрти да Эурóпа",
+          "ru": "В странах северной Европы",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Em países do Norte de África",
+          "transcription": "Эн паúзиш ду Нóрти ди Áфрика",
+          "ru": "В странах севера Африки",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 317,
+      "pt": "Indique qual a frase correta:",
+      "transcription": "Индúки куáл а фрáзи коррéта:",
+      "ru": "Укажите верное утверждение:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Os saca-rabos têm uma alimentação essencialmente à base de coelho-bravo",
+          "transcription": "Уш сáка-рáбуш тэн ýма алиментасáн эссенсиáлменти а бáзи ди куэлью-брáву",
+          "ru": "Сака-рабос питается в основном диким кроликом",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Os perdigotos têm uma alimentação semelhante à da perdiz adulta",
+          "transcription": "Уш пердигóтуш тэн ýма алиментасáн семельянти а да пердúз адýлта",
+          "ru": "Птенцы куропатки питаются так же, как взрослая куропатка",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Os tordos têm uma alimentação baseada em invertebrados e frutos",
+          "transcription": "Уш тóрдуш тэн ýма алиментасáн базéада эн инвертебрáдуш и фрýтуш",
+          "ru": "Дрозды питаются беспозвоночными и плодами",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 318,
+      "pt": "Os tordos encontram-se com frequência em:",
+      "transcription": "Уш тóрдуш энкóнтран-си кон фрекуéнсия эн:",
+      "ru": "Дроздов часто можно встретить в:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Terrenos alagadiços",
+          "transcription": "Терéнуш алагадúсуш",
+          "ru": "Заболоченных землях",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Grandes planícies cultivadas",
+          "transcription": "Грáндиш планúсиеш культивáдаш",
+          "ru": "Больших возделанных равнинах",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Zonas arborizadas ou nas suas orlas",
+          "transcription": "Зóнаш арборизáдаш оу наш сýаш óрлаш",
+          "ru": "Лесистых зонах или их опушках",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 319,
+      "pt": "A seguinte figura representa:",
+      "transcription": "А сегúнти фигýра репрезéнта:",
+      "ru": "На следующем изображении показана:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Gralha-preta",
+          "transcription": "Грáлья-прéта",
+          "ru": "Чёрная ворона",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Melro",
+          "transcription": "Мéлру",
+          "ru": "Чёрный дрозд",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Estorninho-malhado",
+          "transcription": "Эшторнúнью-мальяду",
+          "ru": "Обыкновенный скворец",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 320,
+      "pt": "A seguinte figura representa:",
+      "transcription": "А сегúнти фигýра репрезéнта:",
+      "ru": "На следующем изображении показана:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Pega-rabuda",
+          "transcription": "Пéга-рабýда",
+          "ru": "Сорока",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Gaio",
+          "transcription": "Гáйу",
+          "ru": "Сойка",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Melro",
+          "transcription": "Мéлру",
+          "ru": "Чёрный дрозд",
+          "correct": false
+        }
+      ]
+    }
+  ]
+}
