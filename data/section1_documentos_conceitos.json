@@ -1,0 +1,646 @@
+{
+  "section_id": "documentos_conceitos",
+  "section_name_ru": "Документы охотника и основные понятия",
+  "section_name_pt": "Documentos do(a) caçador(a) e Conceitos básicos",
+  "source": "ICNF - Questionário, Manual para exame de carta de caçador (https://www.icnf.pt/api/file/doc/2d8ae1589afbdf1e)",
+  "questions": [
+    {
+      "id": 1,
+      "pt": "Poderão ser dispensados da carta de caçador?",
+      "transcription": "Подерáн сер диспенсáдуш да кáрта де касадóр?",
+      "ru": "Кто может быть освобождён от обязанности иметь охотничье удостоверение (карту охотника)?",
+      "options": [
+        {"letter": "A", "pt": "Os agentes das autoridades com competência na fiscalização da caça", "transcription": "Уз ажéнтеш даз аутoридáдеш кон компетéнсия на фискализасáн да кáса", "ru": "Сотрудники органов, уполномоченных контролировать охоту", "correct": false},
+        {"letter": "B", "pt": "Os membros do Governo, os Deputados à Assembleia da República e os funcionários do ICNF", "transcription": "Уз мéмбруш ду Говéрну, уж депутáдуш а Асамблéя да Репýблика и уж фунсионáриуш ду ИСЭНЭФЭ", "ru": "Члены Правительства, депутаты Ассамблеи Республики и сотрудники ICNF", "correct": false},
+        {"letter": "C", "pt": "Os estrangeiros não residentes em território português, desde que habilitados a caçarem no país da sua nacionalidade ou residência", "transcription": "Уз иштранжéйруш нан резидéнтеш эн территóриу португéш, дéжди ки абилитáдуш а касáрен ну паíш да суа насионалидáде оу резидéнсия", "ru": "Иностранцы, не проживающие на территории Португалии, при условии что они имеют право охотиться в стране своего гражданства или проживания", "correct": true}
+      ]
+    },
+    {
+      "id": 2,
+      "pt": "Para a obtenção da carta de caçador, além de outros requisitos, é ainda necessário:",
+      "transcription": "Пáра а обтенсáн да кáрта де касадóр, алéн де óутруш рекизúтуш, э áйнда несессáриу:",
+      "ru": "Для получения охотничьего удостоверения, помимо прочих требований, также необходимо:",
+      "options": [
+        {"letter": "A", "pt": "Ser cidadão nacional", "transcription": "Сер сидадáн насионáл", "ru": "Быть гражданином страны", "correct": false},
+        {"letter": "B", "pt": "Ser residente em território nacional", "transcription": "Сер резидéнти эн территóриу насионáл", "ru": "Проживать на территории страны", "correct": false},
+        {"letter": "C", "pt": "Ter mais de 16 anos", "transcription": "Тер máйш ди дезасéйш áнуш", "ru": "Быть старше 16 лет", "correct": true}
+      ]
+    },
+    {
+      "id": 3,
+      "pt": "A carta de caçador pode ser renovada:",
+      "transcription": "А кáрта де касадóр пóди сер реновáда:",
+      "ru": "Охотничье удостоверение может быть продлено:",
+      "options": [
+        {"letter": "A", "pt": "Nos 12 meses que antecedem o final da sua validade", "transcription": "Нуш дóзи мéзеш ки антесéдэн у финáл да суа валидáде", "ru": "В течение 12 месяцев до окончания срока его действия", "correct": true},
+        {"letter": "B", "pt": "Nos 18 meses que antecedem o final da sua validade", "transcription": "Нуш дезойту мéзеш ки антесéдэн у финáл да суа валидáде", "ru": "В течение 18 месяцев до окончания срока его действия", "correct": false},
+        {"letter": "C", "pt": "Nos 24 meses que antecedem o final da sua caducidade", "transcription": "Нуш винти-и-кáтру мéзеш ки антесéдэн у финáл да суа кадусидáде", "ru": "В течение 24 месяцев до истечения срока его действия", "correct": false}
+      ]
+    },
+    {
+      "id": 4,
+      "pt": "Quando o seu titular é condenado por crime de caça, a carta de caçador:",
+      "transcription": "Куáнду у сéу титулáр э кондэнáду пур крúми ди кáса, а кáрта де касадóр:",
+      "ru": "Когда владелец осуждён за охотничье преступление, охотничье удостоверение:",
+      "options": [
+        {"letter": "A", "pt": "Deve ser corrigida", "transcription": "Дéви сер корижúда", "ru": "Должно быть исправлено", "correct": false},
+        {"letter": "B", "pt": "Caduca", "transcription": "Кадýка", "ru": "Утрачивает силу (аннулируется)", "correct": true},
+        {"letter": "C", "pt": "Deve ser trocada", "transcription": "Дéви сер трокáда", "ru": "Должно быть заменено", "correct": false}
+      ]
+    },
+    {
+      "id": 5,
+      "pt": "Qual das frases está correta?",
+      "transcription": "Куáл даш фрáзиш эштá коррéта?",
+      "ru": "Какое из утверждений верно?",
+      "options": [
+        {"letter": "A", "pt": "Os membros do corpo diplomático podem ser dispensados de licença de caça", "transcription": "Уж мéмбруш ду кóрпу дипломáтику пóдэн сер диспенсáдуш ди лисéнса ди кáса", "ru": "Члены дипломатического корпуса могут быть освобождены от охотничьей лицензии", "correct": false},
+        {"letter": "B", "pt": "A licença regional de caça autoriza o exercício da caça na área da região cinegética a que respeita", "transcription": "А лисéнса режионáл ди кáса аутирúза у эзерсúсиу да кáса на áреа да режиáн синежéтика а ки респéйта", "ru": "Региональная охотничья лицензия разрешает охоту на территории того охотничьего региона, к которому она относится", "correct": true},
+        {"letter": "C", "pt": "A licença regional de caça apenas é válida para algumas espécies", "transcription": "А лисéнса режионáл ди кáса апéнас э вáлида пáра алгýмаш эспéсиеш", "ru": "Региональная охотничья лицензия действительна только для некоторых видов", "correct": false}
+      ]
+    },
+    {
+      "id": 6,
+      "pt": "A licença de cão de caça é exigida para cães:",
+      "transcription": "А лисéнса ди кáн ди кáса э эзижúда пáра кáйнш:",
+      "ru": "Лицензия на охотничью собаку требуется для собак:",
+      "options": [
+        {"letter": "A", "pt": "Com mais de 4 meses de idade", "transcription": "Кон máйш ди куáтру мéзеш ди идáде", "ru": "Старше 4 месяцев", "correct": false},
+        {"letter": "B", "pt": "Com mais de 12 meses de idade", "transcription": "Кон máйш ди дóзи мéзеш ди идáде", "ru": "Старше 12 месяцев", "correct": false},
+        {"letter": "C", "pt": "Com mais de 6 meses de idade", "transcription": "Кон máйш ди сéйш мéзеш ди идáде", "ru": "Старше 6 месяцев", "correct": true}
+      ]
+    },
+    {
+      "id": 7,
+      "pt": "Um caçador que pretenda caçar só às narcejas numa única região cinegética deve ser titular de:",
+      "transcription": "Ун касадóр ки претéнда касáр só аз нарсéжаш нýма ýника режиáн синежéтика дéви сер титулáр ди:",
+      "ru": "Охотник, желающий охотиться только на бекасов в одном охотничьем регионе, должен иметь:",
+      "options": [
+        {"letter": "A", "pt": "Licença para caçar aves aquáticas", "transcription": "Лисéнса пáра касáр áвиш акуáтикаш", "ru": "Лицензию на охоту на водоплавающих птиц", "correct": false},
+        {"letter": "B", "pt": "Licença regional de caça ou licença nacional de caça", "transcription": "Лисéнса режионáл ди кáса оу лисéнса насионáл ди кáса", "ru": "Региональную или национальную охотничью лицензию", "correct": true},
+        {"letter": "C", "pt": "Licença regional de caça e licença de aves aquáticas", "transcription": "Лисéнса режионáл ди кáса и лисéнса ди áвиш акуáтикаш", "ru": "Региональную лицензию и лицензию на водоплавающих птиц", "correct": false}
+      ]
+    },
+    {
+      "id": 8,
+      "pt": "Um caçador para exercer o ato venatório pode ser dispensado da licença de caça?",
+      "transcription": "Ун касадóр пáра эзерсéр у áту венатóриу пóди сер диспенсáду да лисéнса ди кáса?",
+      "ru": "Может ли охотник для занятия охотой быть освобождён от охотничьей лицензии?",
+      "options": [
+        {"letter": "A", "pt": "Não, nunca pode ser dispensado", "transcription": "Нан, нýнка пóди сер диспенсáду", "ru": "Нет, никогда не может быть освобождён", "correct": true},
+        {"letter": "B", "pt": "Sim, se for estrangeiro, não residente em território nacional", "transcription": "Син, си фор иштранжéйру, нан резидéнти эн территóриу насионáл", "ru": "Да, если он иностранец, не проживающий на территории страны", "correct": false},
+        {"letter": "C", "pt": "Sim, se for membro do corpo diplomático acreditado em Portugal", "transcription": "Син, си фор мéмбру ду кóрпу дипломáтику акредитáду эн Португáл", "ru": "Да, если он член дипломатического корпуса, аккредитованного в Португалии", "correct": false}
+      ]
+    },
+    {
+      "id": 9,
+      "pt": "Indique quem está dispensado da licença de caça para caçar:",
+      "transcription": "Индúки кен эштá диспенсáду да лисéнса ди кáса пáра касáр:",
+      "ru": "Укажите, кто освобождён от охотничьей лицензии для охоты:",
+      "options": [
+        {"letter": "A", "pt": "Os membros do corpo diplomático e consular acreditados em Portugal", "transcription": "Уж мéмбруш ду кóрпу дипломáтику и консулáр акредитáдуш эн Португáл", "ru": "Члены дипломатического и консульского корпуса, аккредитованные в Португалии", "correct": false},
+        {"letter": "B", "pt": "Os estrangeiros não residentes em território português, desde que estejam habilitados a caçar no país da sua nacionalidade ou residência", "transcription": "Уж иштранжéйруш нан резидéнтеш эн территóриу португéш, дéжди ки эштéжан абилитáдуш а касáр ну паíш да суа насионалидáде оу резидéнсия", "ru": "Иностранцы, не проживающие на территории Португалии, при наличии права на охоту в стране гражданства или проживания", "correct": false},
+        {"letter": "C", "pt": "Ninguém", "transcription": "Нингéн", "ru": "Никто", "correct": true}
+      ]
+    },
+    {
+      "id": 10,
+      "pt": "Um caçador que pretenda caçar só coelhos numa única região cinegética deve ser titular de:",
+      "transcription": "Ун касадóр ки претéнда касáр só куэльюш нýма ýника режиáн синежéтика дéви сер титулáр ди:",
+      "ru": "Охотник, желающий охотиться только на кроликов в одном охотничьем регионе, должен иметь:",
+      "options": [
+        {"letter": "A", "pt": "Licença para caçar aves aquáticas", "transcription": "Лисéнса пáра касáр áвиш акуáтикаш", "ru": "Лицензию на охоту на водоплавающих птиц", "correct": false},
+        {"letter": "B", "pt": "Licença regional de caça ou licença nacional de caça", "transcription": "Лисéнса режионáл ди кáса оу лисéнса насионáл ди кáса", "ru": "Региональную или национальную охотничью лицензию", "correct": true},
+        {"letter": "C", "pt": "Licença regional de caça e licença de aves aquáticas", "transcription": "Лисéнса режионáл ди кáса и лисéнса ди áвиш акуáтикаш", "ru": "Региональную лицензию и лицензию на водоплавающих птиц", "correct": false}
+      ]
+    },
+    {
+      "id": 11,
+      "pt": "Consideram-se terrenos cinegéticos aqueles onde:",
+      "transcription": "Консидéран-си терéнуш синежéтикуш акéлиш óнди:",
+      "ru": "Охотничьими угодьями считаются те, где:",
+      "options": [
+        {"letter": "A", "pt": "É permitido o exercício da caça", "transcription": "Э пермитúду у эзерсúсиу да кáса", "ru": "Разрешена охота", "correct": true},
+        {"letter": "B", "pt": "As espécies cinegéticas vagueiam livremente", "transcription": "Аз эспéсиеш синежéтикаш вагéйан лúвременти", "ru": "Охотничьи виды свободно перемещаются", "correct": false},
+        {"letter": "C", "pt": "As espécies cinegéticas se reproduzem e alimentam", "transcription": "Аз эспéсиеш синежéтикаш си репродýзен и алимéнтан", "ru": "Охотничьи виды размножаются и питаются", "correct": false}
+      ]
+    },
+    {
+      "id": 12,
+      "pt": "Consideram-se terrenos não cinegéticos aqueles onde:",
+      "transcription": "Консидéран-си терéнуш нан синежéтикуш акéлиш óнди:",
+      "ru": "Неохотничьими угодьями считаются те, где:",
+      "options": [
+        {"letter": "A", "pt": "Não existem espécies cinegéticas", "transcription": "Нан эзúштэн эспéсиеш синежéтикаш", "ru": "Нет охотничьих видов", "correct": false},
+        {"letter": "B", "pt": "As espécies cinegéticas não se reproduzem nem se alimentam", "transcription": "Аз эспéсиеш синежéтикаш нан си репродýзен нен си алимéнтан", "ru": "Охотничьи виды не размножаются и не питаются", "correct": false},
+        {"letter": "C", "pt": "É proibido o exercício da caça", "transcription": "Э проибúду у эзерсúсиу да кáса", "ru": "Охота запрещена", "correct": true}
+      ]
+    },
+    {
+      "id": 13,
+      "pt": "Consideram-se terrenos cinegéticos:",
+      "transcription": "Консидéран-си терéнуш синежéтикуш:",
+      "ru": "Охотничьими угодьями считаются:",
+      "options": [
+        {"letter": "A", "pt": "Aqueles onde é permitido o exercício da caça, incluindo as áreas de jurisdição marítima e as águas interiores", "transcription": "Акéлиш óнди э пермитúду у эзерсúсиу да кáса, инклуúнду аз áреаш ди журисдисáн марúтима и аз áгуаш интериóриш", "ru": "Те, где разрешена охота, включая зоны морской юрисдикции и внутренние воды", "correct": true},
+        {"letter": "B", "pt": "Aqueles onde não é permitido o exercício da caça", "transcription": "Акéлиш óнди нан э пермитúду у эзерсúсиу да кáса", "ru": "Те, где охота не разрешена", "correct": false},
+        {"letter": "C", "pt": "Os campos de treino de caça e as áreas de refúgio de caça", "transcription": "Уш кáмпуш ди трéйну ди кáса и аз áреаш ди рефýжиу ди кáса", "ru": "Охотничьи тренировочные поля и зоны охотничьего убежища", "correct": false}
+      ]
+    },
+    {
+      "id": 14,
+      "pt": "Consideram-se terrenos não cinegéticos:",
+      "transcription": "Консидéран-си терéнуш нан синежéтикуш:",
+      "ru": "Неохотничьими угодьями считаются:",
+      "options": [
+        {"letter": "A", "pt": "Aqueles onde é proibido o exercício da caça", "transcription": "Акéлиш óнди э проибúду у эзерсúсиу да кáса", "ru": "Те, где охота запрещена", "correct": true},
+        {"letter": "B", "pt": "As zonas de caça turísticas", "transcription": "Аз зóнаш ди кáса турúштикаш", "ru": "Туристические охотничьи зоны", "correct": false},
+        {"letter": "C", "pt": "As áreas de jurisdição marítima", "transcription": "Аз áреаш ди журисдисáн марúтима", "ru": "Зоны морской юрисдикции", "correct": false}
+      ]
+    },
+    {
+      "id": 15,
+      "pt": "Consideram-se terrenos não cinegéticos:",
+      "transcription": "Консидéран-си терéнуш нан синежéтикуш:",
+      "ru": "Неохотничьими угодьями считаются:",
+      "options": [
+        {"letter": "A", "pt": "As áreas de proteção", "transcription": "Аз áреаш ди протесáн", "ru": "Охраняемые зоны", "correct": true},
+        {"letter": "B", "pt": "As zonas de caça nacionais", "transcription": "Аз зóнаш ди кáса насионáйш", "ru": "Национальные охотничьи зоны", "correct": false},
+        {"letter": "C", "pt": "As áreas de jurisdição marítima", "transcription": "Аз áреаш ди журисдисáн марúтима", "ru": "Зоны морской юрисдикции", "correct": false}
+      ]
+    },
+    {
+      "id": 16,
+      "pt": "Consideram-se terrenos não cinegéticos:",
+      "transcription": "Консидéран-си терéнуш нан синежéтикуш:",
+      "ru": "Неохотничьими угодьями считаются:",
+      "options": [
+        {"letter": "A", "pt": "Apenas as áreas de refúgio de caça e os aparcamentos de gado", "transcription": "Апéнас аз áреаш ди рефýжиу ди кáса и уз апаркамéнтуш ди гáду", "ru": "Только зоны охотничьего убежища и загоны для скота", "correct": false},
+        {"letter": "B", "pt": "Apenas as áreas de não caça e os campos de treino de caça", "transcription": "Апéнас аз áреаш ди нан кáса и уш кáмпуш ди трéйну ди кáса", "ru": "Только зоны без охоты и охотничьи тренировочные поля", "correct": false},
+        {"letter": "C", "pt": "Todos os terrenos onde é proibido o exercício da caça", "transcription": "Тóдуш уш терéнуш óнди э проибúду у эзерсúсиу да кáса", "ru": "Все угодья, где охота запрещена", "correct": true}
+      ]
+    },
+    {
+      "id": 17,
+      "pt": "Qual das seguintes áreas é considerada como terreno cinegético?",
+      "transcription": "Куáл даш сегúнтеш áреаш э консидерáда куму терéну синежéтику?",
+      "ru": "Какая из следующих зон считается охотничьим угодьем?",
+      "options": [
+        {"letter": "A", "pt": "Campo de treino de caça", "transcription": "Кáмпу ди трéйну ди кáса", "ru": "Охотничье тренировочное поле", "correct": false},
+        {"letter": "B", "pt": "Área de refúgio de caça", "transcription": "Áреа ди рефýжиу ди кáса", "ru": "Зона охотничьего убежища", "correct": false},
+        {"letter": "C", "pt": "Zona de caça municipal", "transcription": "Зóна ди кáса муниципáл", "ru": "Муниципальная охотничья зона", "correct": true}
+      ]
+    },
+    {
+      "id": 18,
+      "pt": "Quais das seguintes áreas podem ser consideradas terrenos cinegéticos?",
+      "transcription": "Куáйш даш сегúнтеш áреаш пóдэн сер консидерáдаш терéнуш синежéтикуш?",
+      "ru": "Какие из следующих зон могут считаться охотничьими угодьями?",
+      "options": [
+        {"letter": "A", "pt": "Campos de treino de caça", "transcription": "Кáмпуш ди трéйну ди кáса", "ru": "Охотничьи тренировочные поля", "correct": false},
+        {"letter": "B", "pt": "Áreas de jurisdição marítima", "transcription": "Áреаш ди журисдисáн марúтима", "ru": "Зоны морской юрисдикции", "correct": true},
+        {"letter": "C", "pt": "Áreas de proteção", "transcription": "Áреаш ди протесáн", "ru": "Охраняемые зоны", "correct": false}
+      ]
+    },
+    {
+      "id": 19,
+      "pt": "Os matilheiros são auxiliares do caçador que têm como função:",
+      "transcription": "Уж матильéйруш сáн аузилиáриш ду касадóр ки тéн куму фунсáн:",
+      "ru": "Матильейруш (помощники со сворой собак) — это помощники охотника, чья функция:",
+      "options": [
+        {"letter": "A", "pt": "Procurar, perseguir e levantar espécies de caça menor com a ajuda de cães", "transcription": "Прокурáр, персегúр и левантáр эспéсиеш ди кáса менóр кон а ажýда ди кáйнш", "ru": "Искать, преследовать и поднимать (вспугивать) виды мелкой дичи с помощью собак", "correct": false},
+        {"letter": "B", "pt": "Procurar, perseguir e levantar espécies de caça maior com a ajuda de cães", "transcription": "Прокурáр, персегúр и левантáр эспéсиеш ди кáса майóр кон а ажýда ди кáйнш", "ru": "Искать, преследовать и поднимать виды крупной дичи с помощью собак", "correct": true},
+        {"letter": "C", "pt": "Procurar, perseguir e levantar espécies de caça maior sem a ajuda de cães", "transcription": "Прокурáр, персегúр и левантáр эспéсиеш ди кáса майóр сен а ажýда ди кáйнш", "ru": "Искать, преследовать и поднимать виды крупной дичи без собак", "correct": false}
+      ]
+    },
+    {
+      "id": 20,
+      "pt": "Considera-se época venatória o período anual:",
+      "transcription": "Консидéра-си éпока венатóрия у перúоду ануáл:",
+      "ru": "Охотничьим сезоном считается годовой период:",
+      "options": [
+        {"letter": "A", "pt": "Que decorre entre o dia 1 de junho de cada ano e o dia 31 de maio do ano seguinte", "transcription": "Ки декóрри éнтри у дúа ун ди жýньу ди кáда áну и у дúа тринта-и-ýн ди мáйу ду áну сегúнти", "ru": "Который проходит с 1 июня каждого года по 31 мая следующего года", "correct": true},
+        {"letter": "B", "pt": "Em que se pode praticar o exercício venatório", "transcription": "Эн ки си пóди пратикáр у эзерсúсиу венатóриу", "ru": "В течение которого можно заниматься охотничьей деятельностью", "correct": false},
+        {"letter": "C", "pt": "Que decorre entre o dia 15 de agosto e o último domingo do mês de fevereiro do ano seguinte", "transcription": "Ки декóрри éнтри у дúа кúнзи ди агóшту и у ýлтиму доминго ду мéш ди феверéйру ду áну сегúнти", "ru": "Который проходит с 15 августа по последнее воскресенье февраля следующего года", "correct": false}
+      ]
+    },
+    {
+      "id": 21,
+      "pt": "Dos auxiliares de caça indicados há um que não pode perseguir a caça com auxílio de cães:",
+      "transcription": "Дуз аузилиáриш ди кáса индикáдуш á ун ки нан пóди персегúр а кáса кон аузúлиу ди кáйнш:",
+      "ru": "Среди указанных охотничьих помощников есть один, который не может преследовать дичь с помощью собак:",
+      "options": [
+        {"letter": "A", "pt": "Batedores", "transcription": "Батедóриш", "ru": "Загонщики (батедóреш)", "correct": false},
+        {"letter": "B", "pt": "Negaceiros", "transcription": "Негасéйруш", "ru": "Негасéйруш (помощники с манками/подсадными)", "correct": true},
+        {"letter": "C", "pt": "Matilheiros", "transcription": "Матильéйруш", "ru": "Матильéйруш (помощники со сворой собак)", "correct": false}
+      ]
+    },
+    {
+      "id": 22,
+      "pt": "Época venatória é:",
+      "transcription": "Éпока венатóрия э:",
+      "ru": "Охотничий сезон — это:",
+      "options": [
+        {"letter": "A", "pt": "O período anual que decorre entre o dia 1 de junho de cada ano e o dia 31 de maio do ano seguinte", "transcription": "У перúоду ануáл ки декóрри éнтри у дúа ун ди жýньу ди кáда áну и у дúа тринта-и-ýн ди мáйу ду áну сегúнти", "ru": "Годовой период с 1 июня каждого года по 31 мая следующего года", "correct": true},
+        {"letter": "B", "pt": "O intervalo de tempo em que cada uma das espécies pode ser caçada", "transcription": "У интервáлу ди тéмпу эн ки кáда ýма даш эспéсиеш пóди сер касáда", "ru": "Промежуток времени, в течение которого разрешена охота на конкретный вид", "correct": false},
+        {"letter": "C", "pt": "O período estipulado no calendário venatório para o exercício da caça a espécies de caça menor", "transcription": "У перúоду эштипулáду ну календáриу венатóриу пáра у эзерсúсиу да кáса а эспéсиеш ди кáса менóр", "ru": "Период, установленный в охотничьем календаре для охоты на мелкую дичь", "correct": false}
+      ]
+    },
+    {
+      "id": 23,
+      "pt": "A utilização do barco na caça aos patos:",
+      "transcription": "А утилизасáн ду бáрку на кáса аош пáтуш:",
+      "ru": "Использование лодки на охоте на уток:",
+      "options": [
+        {"letter": "A", "pt": "É permitida desde que o barco esteja em movimento", "transcription": "Э пермитúда дéжди ки у бáрку эштéжа эн мовимéнту", "ru": "Разрешено при условии, что лодка находится в движении", "correct": false},
+        {"letter": "B", "pt": "É permitida só nas deslocações entre locais de espera e nas esperas", "transcription": "Э пермитúда só наз дешлокасóйнш éнтри локáйш ди эшпéра и наз эшпéраш", "ru": "Разрешено только при переходах между засидками и на самих засидках", "correct": true},
+        {"letter": "C", "pt": "É permitida desde que se atire com o motor em movimento", "transcription": "Э пермитúда дéжди ки си атúри кон у мотóр эн мовимéнту", "ru": "Разрешено при условии стрельбы с включённым (работающим) мотором", "correct": false}
+      ]
+    },
+    {
+      "id": 24,
+      "pt": "Qual dos seguintes grupos de espécies se pode caçar de barco?",
+      "transcription": "Куáл душ сегúнтеш грýпуш ди эспéсиеш си пóди касáр ди бáрку?",
+      "ru": "На какую из следующих групп видов можно охотиться с лодки?",
+      "options": [
+        {"letter": "A", "pt": "Patos, galinha-d'água e galeirão", "transcription": "Пáтуш, галúнья-дáгуа и галейрáн", "ru": "Утки, камышница и лысуха", "correct": true},
+        {"letter": "B", "pt": "Patos, galinhola e galeirão", "transcription": "Пáтуш, галиньóла и галейрáн", "ru": "Утки, вальдшнеп и лысуха", "correct": false},
+        {"letter": "C", "pt": "Patos, narcejas e galeirão", "transcription": "Пáтуш, нарсéжаш и галейрáн", "ru": "Утки, бекасы и лысуха", "correct": false}
+      ]
+    },
+    {
+      "id": 25,
+      "pt": "Que infração comete um caçador que no mês de outubro, numa zona de caça utiliza dez cães na caça à perdiz pelo processo de salto?",
+      "transcription": "Ки инфрасáн комéти ун касадóр ки ну мэш ди оутýбру, нýма зóна ди кáса утилúза дэш кáйнш на кáса а пердúш пéлу просéссу ди сáлту?",
+      "ru": "Какое нарушение совершает охотник, который в октябре в охотничьей зоне использует десять собак при охоте на куропатку способом «де сальту» (с подхода/вспугивания)?",
+      "options": [
+        {"letter": "A", "pt": "Utiliza um número de cães superior ao permitido", "transcription": "Утилúза ун нýмеру ди кáйнш супериóр ау пермитúду", "ru": "Использует количество собак, превышающее разрешённое", "correct": true},
+        {"letter": "B", "pt": "Caça num mês em que não pode ser autorizada a caça a esta espécie", "transcription": "Кáса нун мэш эн ки нан пóди сер аутиризáда а кáса а éшта эспéсие", "ru": "Охотится в месяце, когда охота на этот вид не может быть разрешена", "correct": false},
+        {"letter": "C", "pt": "Utiliza um processo de caça proibido para a espécie no mês de outubro", "transcription": "Утилúза ун просéссу ди кáса проибúду пáра а эспéсие ну мэш ди оутýбру", "ru": "Использует способ охоты, запрещённый для этого вида в октябре", "correct": false}
+      ]
+    },
+    {
+      "id": 26,
+      "pt": "O período venatório de uma espécie cinegética é:",
+      "transcription": "У перúоду венатóриу ди ýма эспéсие синежéтика э:",
+      "ru": "Охотничий период для определённого вида дичи — это:",
+      "options": [
+        {"letter": "A", "pt": "O intervalo de tempo em que pode ser caçada", "transcription": "У интервáлу ди тéмпу эн ки пóди сер касáда", "ru": "Промежуток времени, в течение которого на него можно охотиться", "correct": true},
+        {"letter": "B", "pt": "O intervalo de tempo em que é válida uma licença de caça", "transcription": "У интервáлу ди тéмпу эн ки э вáлида ýма лисéнса ди кáса", "ru": "Промежуток времени, в течение которого действительна охотничья лицензия", "correct": false},
+        {"letter": "C", "pt": "O período que decorre entre 1 de junho e 31 de maio do ano seguinte", "transcription": "У перúоду ки декóрри éнтри ун ди жýньу и тринта-и-ýн ди мáйу ду áну сегúнти", "ru": "Период с 1 июня по 31 мая следующего года", "correct": false}
+      ]
+    },
+    {
+      "id": 27,
+      "pt": "Em terrenos cobertos de neve, a qual das seguintes espécies não é proibida a caça?",
+      "transcription": "Эн терéнуш кобéртуш ди нéви, а куáл даш сегúнтеш эспéсиеш нан э проибúда а кáса?",
+      "ru": "На землях, покрытых снегом, охота на какой из следующих видов не запрещена?",
+      "options": [
+        {"letter": "A", "pt": "Coelho", "transcription": "Куэлью", "ru": "Кролик", "correct": false},
+        {"letter": "B", "pt": "Raposa", "transcription": "Рапóза", "ru": "Лиса", "correct": false},
+        {"letter": "C", "pt": "Javali", "transcription": "Жавалú", "ru": "Кабан", "correct": true}
+      ]
+    },
+    {
+      "id": 28,
+      "pt": "A qual das seguintes espécies é permitido o uso de chamarizes na caça?",
+      "transcription": "А куáл даш сегúнтеш эспéсиеш э пермитúду у úзу ди шамарúзеш на кáса?",
+      "ru": "Для какого из следующих видов разрешено использование манков (подсадных приманок) на охоте?",
+      "options": [
+        {"letter": "A", "pt": "Tordos", "transcription": "Тóрдуш", "ru": "Дрозды", "correct": false},
+        {"letter": "B", "pt": "Pombos", "transcription": "Пóмбуш", "ru": "Голуби", "correct": false},
+        {"letter": "C", "pt": "Patos", "transcription": "Пáтуш", "ru": "Утки", "correct": true}
+      ]
+    },
+    {
+      "id": 29,
+      "pt": "Um caçador, pode caçar pelo processo de salto com o auxílio de 10 cães que espécies cinegéticas?",
+      "transcription": "Ун касадóр, пóди касáр пéлу просéссу ди сáлту кон у аузúлиу ди дэш кáйнш ки эспéсиеш синежéтикаш?",
+      "ru": "На какой вид дичи охотник может охотиться способом «де сальту» с помощью 10 собак?",
+      "options": [
+        {"letter": "A", "pt": "Raposa", "transcription": "Рапóза", "ru": "Лиса", "correct": false},
+        {"letter": "B", "pt": "Lebre", "transcription": "Лéбри", "ru": "Заяц", "correct": false},
+        {"letter": "C", "pt": "Coelho", "transcription": "Куэлью", "ru": "Кролик", "correct": true}
+      ]
+    },
+    {
+      "id": 30,
+      "pt": "No continente, na caça ao coelho-bravo por processo diferente do de batida, cada caçador ou grupo de caçadores pode utilizar no máximo:",
+      "transcription": "Ну континéнти, на кáса ау куэлью-брáву пур просéссу диферéнти ду ди батúда, кáда касадóр оу грýпу ди касадóриш пóди утилизáр ну мáксиму:",
+      "ru": "На континентальной части страны, при охоте на дикого кролика способом, отличным от облавы (батúда), каждый охотник или группа охотников может использовать максимум:",
+      "options": [
+        {"letter": "A", "pt": "10 cães", "transcription": "Дэш кáйнш", "ru": "10 собак", "correct": true},
+        {"letter": "B", "pt": "15 cães e 2 cachorros", "transcription": "Кúнзи кáйнш и дóйш качóрруш", "ru": "15 собак и 2 щенков", "correct": false},
+        {"letter": "C", "pt": "50 cães", "transcription": "Синкóэнта кáйнш", "ru": "50 собак", "correct": false}
+      ]
+    },
+    {
+      "id": 31,
+      "pt": "Qual o número máximo de cães que pode ser utilizado na caça à raposa a corricão?",
+      "transcription": "Куáл у нýмеру мáксиму ди кáйнш ки пóди сер утилизáду на кáса а рапóза а коррисáн?",
+      "ru": "Какое максимальное количество собак можно использовать при охоте на лису способом «коррисáн» (преследование с гончими)?",
+      "options": [
+        {"letter": "A", "pt": "50", "transcription": "Синкóэнта", "ru": "50", "correct": true},
+        {"letter": "B", "pt": "100", "transcription": "Сэн", "ru": "100", "correct": false},
+        {"letter": "C", "pt": "Ilimitado", "transcription": "Илимитáду", "ru": "Не ограничено", "correct": false}
+      ]
+    },
+    {
+      "id": 32,
+      "pt": "Assinale a afirmação correta:",
+      "transcription": "Асинáли а афирмасáн коррéта:",
+      "ru": "Отметьте верное утверждение:",
+      "options": [
+        {"letter": "A", "pt": "É proibido capturar crias ou ovos de qualquer espécie, cinegética ou não", "transcription": "Э проибúду каптурáр крúаш оу óвуш ди куалкéр эспéсие, синежéтика оу нан", "ru": "Запрещено отлавливать детёнышей или собирать яйца любого вида, охотничьего или нет", "correct": true},
+        {"letter": "B", "pt": "É proibido caçar patos entre o nascer e o pôr-do-sol", "transcription": "Э проибúду касáр пáтуш éнтри у нашсéр и у пор-ду-сол", "ru": "Запрещено охотиться на уток между восходом и закатом солнца", "correct": false},
+        {"letter": "C", "pt": "É proibido caçar em terrenos cinegéticos não ordenados às quintas-feiras", "transcription": "Э проибúду касáр эн терéнуш синежéтикуш нан орденáдуш аш кúнташ-фéйраш", "ru": "Запрещено охотиться на неустроенных охотничьих угодьях по четвергам", "correct": false}
+      ]
+    },
+    {
+      "id": 33,
+      "pt": "Como regra, o exercício da caça só é permitido entre o nascer e o pôr-do-sol, exceto:",
+      "transcription": "Кóму рéгра, у эзерсúсиу да кáса só э пермитúду éнтри у нашсéр и у пор-ду-сол, эзсéту:",
+      "ru": "Как правило, охота разрешена только между восходом и закатом солнца, за исключением:",
+      "options": [
+        {"letter": "A", "pt": "Na caça aos patos, pelo processo de espera, quando exercida até 200 m dos planos de água", "transcription": "На кáса аош пáтуш, пéлу просéссу ди эшпéра, куáнду эзерсúда атé дузéнтуш мéтруш душ плáнуш ди áгуа", "ru": "При охоте на уток способом засидки, если она ведётся не далее 200 м от водоёмов", "correct": false},
+        {"letter": "B", "pt": "Na caça às espécies de caça maior, pelo processo de espera, que é autorizada em período de lua cheia", "transcription": "На кáса аш эспéсиеш ди кáса майóр, пéлу просéссу ди эшпéра, ки э аутиризáда эн перúоду ди лýа шéя", "ru": "При охоте на крупную дичь способом засидки, которая разрешена в период полнолуния", "correct": true},
+        {"letter": "C", "pt": "Na caça aos pombos, tordos e estorninho-malhado, que só é permitida até às 17 horas", "transcription": "На кáса аош пóмбуш, тóрдуш и эштурнúньу-мальáду, ки só э пермитúда атé аш дезасéти óраш", "ru": "При охоте на голубей, дроздов и пёстрого скворца, которая разрешена только до 17 часов", "correct": false}
+      ]
+    },
+    {
+      "id": 34,
+      "pt": "A caça de aproximação é um processo de caça autorizado para:",
+      "transcription": "А кáса ди апроксимасáн э ун просéссу ди кáса аутиризáду пáра:",
+      "ru": "Охота «с подхода» (апроксимасáн) — это способ охоты, разрешённый для:",
+      "options": [
+        {"letter": "A", "pt": "Espécies de caça maior", "transcription": "Эспéсиеш ди кáса майóр", "ru": "Крупной дичи", "correct": true},
+        {"letter": "B", "pt": "Espécies de caça menor", "transcription": "Эспéсиеш ди кáса менóр", "ru": "Мелкой дичи", "correct": false},
+        {"letter": "C", "pt": "Aves aquáticas", "transcription": "Áвиш акуáтикаш", "ru": "Водоплавающих птиц", "correct": false}
+      ]
+    },
+    {
+      "id": 35,
+      "pt": "O uso de negaças é permitido na caça:",
+      "transcription": "У úзу ди негáсаш э пермитúду на кáса:",
+      "ru": "Использование подсадных приманок (негáсаш) разрешено на охоте:",
+      "options": [
+        {"letter": "A", "pt": "Aos pombos, aos patos, à pega-rabuda e à gralha-preta", "transcription": "Аош пóмбуш, аош пáтуш, а пéга-рабýда и а грáлья-прéта", "ru": "На голубей, уток, длиннохвостую сороку и чёрную ворону", "correct": true},
+        {"letter": "B", "pt": "Às narcejas e tarambola-dourada", "transcription": "Аш нарсéжаш и тарамбóла-доурáда", "ru": "На бекасов и золотистую ржанку", "correct": false},
+        {"letter": "C", "pt": "Ao galeirão e galinha-d'água", "transcription": "Ау галейрáн и галúнья-дáгуа", "ru": "На лысуху и камышницу", "correct": false}
+      ]
+    },
+    {
+      "id": 36,
+      "pt": "Durante o exercício da caça, o caçador pode ser ajudado por auxiliares que:",
+      "transcription": "Дурáнти у эзерсúсиу да кáса, у касадóр пóди сер ажудáду пур аузилиáриш ки:",
+      "ru": "Во время охоты охотнику могут помогать помощники, которые:",
+      "options": [
+        {"letter": "A", "pt": "Não podem fazer parte da linha de caçadores", "transcription": "Нан пóдэн фазéр пáрти да лúнья ди касадóриш", "ru": "Не могут находиться в линии (цепи) охотников", "correct": true},
+        {"letter": "B", "pt": "Não podem transportar munições", "transcription": "Нан пóдэн транспортáр муниcóйнш", "ru": "Не могут переносить боеприпасы", "correct": false},
+        {"letter": "C", "pt": "Não podem transportar armas de fogo, arco ou besta acondicionadas em estojo ou bolsa", "transcription": "Нан пóдэн транспортáр áрмаш ди фóгу, áрку оу бéшта акондисионáдаш эн эштóжу оу бóльса", "ru": "Не могут переносить огнестрельное оружие, лук или арбалет, упакованные в чехол или сумку", "correct": false}
+      ]
+    },
+    {
+      "id": 37,
+      "pt": "Na caça à lebre a corricão podem ser utilizados no máximo:",
+      "transcription": "На кáса а лéбри а коррисáн пóдэн сер утилизáдуш ну мáксиму:",
+      "ru": "При охоте на зайца способом «коррисáн» максимально можно использовать:",
+      "options": [
+        {"letter": "A", "pt": "Dois cães de busca e dois cães galgos por cada lebre", "transcription": "Дóйш кáйнш ди бýшка и дóйш кáйнш гáлгуш пур кáда лéбри", "ru": "Двух гончих и двух борзых на каждого зайца", "correct": true},
+        {"letter": "B", "pt": "Um cão de busca e três cães galgos por cada lebre", "transcription": "Ун кáн ди бýшка и трэш кáйнш гáлгуш пур кáда лéбри", "ru": "Одну гончую и трёх борзых на каждого зайца", "correct": false},
+        {"letter": "C", "pt": "Três cães de busca e um cão galgo por cada lebre", "transcription": "Трэш кáйнш ди бýшка и ун кáн гáлгу пур кáда лéбри", "ru": "Трёх гончих и одну борзую на каждого зайца", "correct": false}
+      ]
+    },
+    {
+      "id": 38,
+      "pt": "No exercício da caça, cada caçador pode utilizar, no máximo:",
+      "transcription": "Ну эзерсúсиу да кáса, кáда касадóр пóди утилизáр, ну мáксиму:",
+      "ru": "Во время охоты каждый охотник может использовать максимум:",
+      "options": [
+        {"letter": "A", "pt": "Três cães na caça à perdiz-vermelha", "transcription": "Трэш кáйнш на кáса а пердúш-вермéлья", "ru": "Трёх собак на охоте на красноногую куропатку", "correct": false},
+        {"letter": "B", "pt": "Dez cães na caça ao coelho-bravo, pelo processo de batida", "transcription": "Дэш кáйнш на кáса ау куэлью-брáву, пéлу просéссу ди батúда", "ru": "Десять собак на охоте на дикого кролика способом облавы", "correct": false},
+        {"letter": "C", "pt": "Dois cães galgos e dois cães de busca a cada lebre, na caça à lebre a corricão", "transcription": "Дóйш кáйнш гáлгуш и дóйш кáйнш ди бýшка а кáда лéбри, на кáса а лéбри а коррисáн", "ru": "Двух борзых и двух гончих на каждого зайца при охоте способом «коррисáн»", "correct": true}
+      ]
+    },
+    {
+      "id": 39,
+      "pt": "O processo de caça em que o caçador se desloca para capturar determinado exemplar de caça maior, designa-se:",
+      "transcription": "У просéссу ди кáса эн ки у касадóр си дешлóка пáра каптурáр детерминáду эзэмплáр ди кáса майóр, дезúгна-си:",
+      "ru": "Способ охоты, при котором охотник перемещается, чтобы добыть конкретную особь крупной дичи, называется:",
+      "options": [
+        {"letter": "A", "pt": "De salto", "transcription": "Ди сáлту", "ru": "«Де сальту» (с вспугивания)", "correct": false},
+        {"letter": "B", "pt": "De batida", "transcription": "Ди батúда", "ru": "Облавой («де батúда»)", "correct": false},
+        {"letter": "C", "pt": "De aproximação", "transcription": "Ди апроксимасáн", "ru": "«С подхода» (апроксимасáн)", "correct": true}
+      ]
+    },
+    {
+      "id": 40,
+      "pt": "O processo de caça em que o caçador aguarda as espécies levantadas por batedores, denomina-se:",
+      "transcription": "У просéссу ди кáса эн ки у касадóр агуáрда аз эспéсиеш левантáдаш пур батедóриш, деноминá-си:",
+      "ru": "Способ охоты, при котором охотник ожидает дичь, поднятую загонщиками, называется:",
+      "options": [
+        {"letter": "A", "pt": "De montaria", "transcription": "Ди монтарúя", "ru": "Облавная охота на крупную дичь («монтарúя»)", "correct": false},
+        {"letter": "B", "pt": "De batida", "transcription": "Ди батúда", "ru": "Облавой («де батúда»)", "correct": true},
+        {"letter": "C", "pt": "À espera", "transcription": "А эшпéра", "ru": "Засидкой («а эшпéра»)", "correct": false}
+      ]
+    },
+    {
+      "id": 41,
+      "pt": "Aparelhos que funcionem a pilhas para atrair as espécies cinegéticas:",
+      "transcription": "Апарéльюш ки фунсиóнэн а пúльяш пáра атраúр аз эспéсиеш синежéтикаш:",
+      "ru": "Приборы на батарейках для привлечения охотничьих видов:",
+      "options": [
+        {"letter": "A", "pt": "Podem ser utilizados na caça aos patos", "transcription": "Пóдэн сер утилизáдуш на кáса аош пáтуш", "ru": "Могут использоваться при охоте на уток", "correct": false},
+        {"letter": "B", "pt": "Podem ser utilizados no controle de predadores", "transcription": "Пóдэн сер утилизáдуш ну контрóли ди предадóриш", "ru": "Могут использоваться при контроле хищников", "correct": false},
+        {"letter": "C", "pt": "Não podem ser utilizados na caça", "transcription": "Нан пóдэн сер утилизáдуш на кáса", "ru": "Не могут использоваться на охоте", "correct": true}
+      ]
+    },
+    {
+      "id": 42,
+      "pt": "Aparelhos que funcionem a pilhas para atrair as espécies cinegéticas:",
+      "transcription": "Апарéльюш ки фунсиóнэн а пúльяш пáра атраúр аз эспéсиеш синежéтикаш:",
+      "ru": "Приборы на батарейках для привлечения охотничьих видов:",
+      "options": [
+        {"letter": "A", "pt": "Podem ser utilizados na caça aos patos", "transcription": "Пóдэн сер утилизáдуш на кáса аош пáтуш", "ru": "Могут использоваться при охоте на уток", "correct": false},
+        {"letter": "B", "pt": "Podem ser utilizados na caça aos tordos", "transcription": "Пóдэн сер утилизáдуш на кáса аош тóрдуш", "ru": "Могут использоваться при охоте на дроздов", "correct": false},
+        {"letter": "C", "pt": "Não podem ser utilizados na caça", "transcription": "Нан пóдэн сер утилизáдуш на кáса", "ru": "Не могут использоваться на охоте", "correct": true}
+      ]
+    },
+    {
+      "id": 43,
+      "pt": "Considera-se período venatório, o intervalo de tempo:",
+      "transcription": "Консидéра-си перúоду венатóриу, у интервáлу ди тéмпу:",
+      "ru": "Охотничьим периодом считается промежуток времени:",
+      "options": [
+        {"letter": "A", "pt": "Em que só se pode caçar aos coelhos, lebres e perdizes", "transcription": "Эн ки só си пóди касáр аош куэльюш, лéбриш и пердúзеш", "ru": "В течение которого можно охотиться только на кроликов, зайцев и куропаток", "correct": false},
+        {"letter": "B", "pt": "Em que cada uma das espécies pode ser caçada", "transcription": "Эн ки кáда ýма даз эспéсиеш пóди сер касáда", "ru": "В течение которого можно охотиться на каждый вид", "correct": true},
+        {"letter": "C", "pt": "Em que só se pode caçar às espécies migradoras", "transcription": "Эн ки só си пóди касáр аш эспéсиеш миградóраш", "ru": "В течение которого можно охотиться только на мигрирующие виды", "correct": false}
+      ]
+    },
+    {
+      "id": 44,
+      "pt": "No processo de caça a corricão não é permitido utilizar:",
+      "transcription": "Ну просéссу ди кáса а коррисáн нан э пермитúду утилизáр:",
+      "ru": "При охоте способом «коррисáн» не разрешено использовать:",
+      "options": [
+        {"letter": "A", "pt": "Pau e cavalo", "transcription": "Пáу и кавáлу", "ru": "Палку и лошадь", "correct": false},
+        {"letter": "B", "pt": "Cães de caça e cavalo", "transcription": "Кáйнш ди кáса и кавáлу", "ru": "Охотничьих собак и лошадь", "correct": false},
+        {"letter": "C", "pt": "Armas de fogo", "transcription": "Áрмаш ди фóгу", "ru": "Огнестрельное оружие", "correct": true}
+      ]
+    },
+    {
+      "id": 45,
+      "pt": "Cada caçador pode abater por dia de caça:",
+      "transcription": "Кáда касадóр пóди абатéр пур дúа ди кáса:",
+      "ru": "Каждый охотник может добыть за день охоты:",
+      "options": [
+        {"letter": "A", "pt": "50 coelhos", "transcription": "Синкóэнта куэльюш", "ru": "50 кроликов", "correct": false},
+        {"letter": "B", "pt": "Não tem limite", "transcription": "Нан тэн лúмити", "ru": "Нет ограничений", "correct": false},
+        {"letter": "C", "pt": "O definido no calendário venatório anual", "transcription": "У дефинúду ну календáриу венатóриу ануáл", "ru": "Количество, установленное годовым охотничьим календарём", "correct": true}
+      ]
+    },
+    {
+      "id": 46,
+      "pt": "A utilização de chamarizes na caça:",
+      "transcription": "А утилизасáн ди шамарúзеш на кáса:",
+      "ru": "Использование манков на охоте:",
+      "options": [
+        {"letter": "A", "pt": "É sempre proibida", "transcription": "Э сéмпри проибúда", "ru": "Всегда запрещено", "correct": false},
+        {"letter": "B", "pt": "É permitida na caça aos patos e tordos", "transcription": "Э пермитúда на кáса аош пáтуш и тóрдуш", "ru": "Разрешено на охоте на уток и дроздов", "correct": false},
+        {"letter": "C", "pt": "É permitida na caça aos patos, à raposa, ao veado e ao corço", "transcription": "Э пермитúда на кáса аош пáтуш, а рапóза, ау виáду и ау кóрсу", "ru": "Разрешено на охоте на уток, лису, благородного оленя и косулю", "correct": true}
+      ]
+    },
+    {
+      "id": 47,
+      "pt": "A utilização do cavalo como meio de caça é permitida:",
+      "transcription": "А утилизасáн ду кавáлу кóму мéйу ди кáса э пермитúда:",
+      "ru": "Использование лошади как средства охоты разрешено:",
+      "options": [
+        {"letter": "A", "pt": "Só na caça à raposa a corricão", "transcription": "Só на кáса а рапóза а коррисáн", "ru": "Только на охоте на лису способом «коррисáн»", "correct": false},
+        {"letter": "B", "pt": "Na caça às espécies de caça maior, à raposa e à lebre e na caça de cetraria", "transcription": "На кáса аш эспéсиеш ди кáса майóр, а рапóза и а лéбри и на кáса ди сетрарúя", "ru": "На охоте на крупную дичь, лису и зайца, а также в соколиной охоте", "correct": true},
+        {"letter": "C", "pt": "Só na caça à lebre de cetraria", "transcription": "Só на кáса а лéбри ди сетрарúя", "ru": "Только на соколиной охоте на зайца", "correct": false}
+      ]
+    },
+    {
+      "id": 48,
+      "pt": "No processo de caça a corricão não é permitido utilizar:",
+      "transcription": "Ну просéссу ди кáса а коррисáн нан э пермитúду утилизáр:",
+      "ru": "При охоте способом «коррисáн» не разрешено использовать:",
+      "options": [
+        {"letter": "A", "pt": "Pau e cavalo", "transcription": "Пáу и кавáлу", "ru": "Палку и лошадь", "correct": false},
+        {"letter": "B", "pt": "Cães e cavalo", "transcription": "Кáйнш и кавáлу", "ru": "Собак и лошадь", "correct": false},
+        {"letter": "C", "pt": "Armas de fogo", "transcription": "Áрмаш ди фóгу", "ru": "Огнестрельное оружие", "correct": true}
+      ]
+    },
+    {
+      "id": 49,
+      "pt": "Como meio de caça, o uso do pau só é permitido em que processos de caça?",
+      "transcription": "Кóму мéйу ди кáса, у úзу ду пáу só э пермитúду эн ки просéссуш ди кáса?",
+      "ru": "Как средство охоты, использование палки разрешено только при каких способах охоты?",
+      "options": [
+        {"letter": "A", "pt": "Corricão e de salto", "transcription": "Коррисáн и ди сáлту", "ru": "«Коррисáн» и «де сальту»", "correct": true},
+        {"letter": "B", "pt": "Batida e de salto", "transcription": "Батúда и ди сáлту", "ru": "Облавой и «де сальту»", "correct": false},
+        {"letter": "C", "pt": "Montaria e de salto", "transcription": "Монтарúя и ди сáлту", "ru": "«Монтарúя» и «де сальту»", "correct": false}
+      ]
+    },
+    {
+      "id": 50,
+      "pt": "Qual das seguintes frases está correta:",
+      "transcription": "Куáл даш сегúнтеш фрáзиш эштá коррéта:",
+      "ru": "Какое из следующих утверждений верно:",
+      "options": [
+        {"letter": "A", "pt": "A utilização de barco é permitida na caça às narcejas e galinholas", "transcription": "А утилизасáн ди бáрку э пермитúда на кáса аш нарсéжаш и галиньóлаш", "ru": "Использование лодки разрешено на охоте на бекасов и вальдшнепов", "correct": false},
+        {"letter": "B", "pt": "É permitido o uso de negaças às narcejas e tarambolas", "transcription": "Э пермитúду у úзу ди негáсаш аш нарсéжаш и тарамбóлаш", "ru": "Разрешено использование подсадных приманок на бекасов и ржанок", "correct": false},
+        {"letter": "C", "pt": "Nas montarias não há limite de número de cães a utilizar", "transcription": "Наш монтарúяш нан á лúмити ди нýмеру ди кáйнш а утилизáр", "ru": "На облавной охоте «монтарúя» нет ограничения по числу используемых собак", "correct": true}
+      ]
+    },
+    {
+      "id": 51,
+      "pt": "O processo de caça em que as espécies cinegéticas são capturadas por ave de presa adestrada para esse fim, denomina-se:",
+      "transcription": "У просéссу ди кáса эн ки аз эспéсиеш синежéтикаш сáн каптурáдаш пур áви ди прéза адештрáда пáра éсси фин, деноминá-си:",
+      "ru": "Способ охоты, при котором охотничья дичь ловится специально обученной хищной птицей, называется:",
+      "options": [
+        {"letter": "A", "pt": "Batida", "transcription": "Батúда", "ru": "Облава", "correct": false},
+        {"letter": "B", "pt": "Corricão", "transcription": "Коррисáн", "ru": "«Коррисáн»", "correct": false},
+        {"letter": "C", "pt": "Cetraria", "transcription": "Сетрарúя", "ru": "Соколиная охота (сетрарúя)", "correct": true}
+      ]
+    },
+    {
+      "id": 52,
+      "pt": "Um caçador não pode utilizar arma de fogo quando pretende caçar pelo processo de:",
+      "transcription": "Ун касадóр нан пóди утилизáр áрма ди фóгу куáнду претéнди касáр пéлу просéссу ди:",
+      "ru": "Охотник не может использовать огнестрельное оружие, когда охотится способом:",
+      "options": [
+        {"letter": "A", "pt": "Corricão", "transcription": "Коррисáн", "ru": "«Коррисáн»", "correct": true},
+        {"letter": "B", "pt": "Montaria", "transcription": "Монтарúя", "ru": "«Монтарúя»", "correct": false},
+        {"letter": "C", "pt": "Salto", "transcription": "Сáлту", "ru": "«Де сальту»", "correct": false}
+      ]
+    },
+    {
+      "id": 53,
+      "pt": "Indique qual das frases está correta:",
+      "transcription": "Индúки куáл даш фрáзиш эштá коррéта:",
+      "ru": "Укажите, какое утверждение верно:",
+      "options": [
+        {"letter": "A", "pt": "É permitido caçar as espécies que constem do calendário venatório publicado anualmente", "transcription": "Э пермитúду касáр аз эспéсиеш ки кóнштэн ду календáриу венатóриу публикáду ануáлменти", "ru": "Разрешено охотиться на виды, перечисленные в охотничьем календаре, публикуемом ежегодно", "correct": true},
+        {"letter": "B", "pt": "É permitido caçar todas as espécies classificadas como cinegéticas", "transcription": "Э пермитúду касáр тóдаш аз эспéсиеш классификáдаш кóму синежéтикаш", "ru": "Разрешено охотиться на все виды, классифицированные как охотничьи", "correct": false},
+        {"letter": "C", "pt": "É permitido caçar qualquer espécie que cause prejuízos na agricultura", "transcription": "Э пермитúду касáр куалкéр эспéсие ки кáузи прежуúзуш на агрикультýра", "ru": "Разрешено охотиться на любой вид, наносящий ущерб сельскому хозяйству", "correct": false}
+      ]
+    },
+    {
+      "id": 54,
+      "pt": "Em terrenos cinegéticos não ordenados, cada caçador pode ser acompanhado por:",
+      "transcription": "Эн терéнуш синежéтикуш нан орденáдуш, кáда касадóр пóди сер акомпаньáду пур:",
+      "ru": "На неустроенных охотничьих угодьях каждого охотника может сопровождать:",
+      "options": [
+        {"letter": "A", "pt": "Cinco auxiliares", "transcription": "Сúнку аузилиáриш", "ru": "Пять помощников", "correct": false},
+        {"letter": "B", "pt": "Três auxiliares", "transcription": "Трэш аузилиáриш", "ru": "Три помощника", "correct": false},
+        {"letter": "C", "pt": "Um auxiliar", "transcription": "Ун аузилиáр", "ru": "Один помощник", "correct": true}
+      ]
+    },
+    {
+      "id": 55,
+      "pt": "Os matilheiros são auxiliares do caçador que têm como função:",
+      "transcription": "Уж матильéйруш сáн аузилиáриш ду касадóр ки тéн куму фунсáн:",
+      "ru": "Матильейруш — это помощники охотника, чья функция:",
+      "options": [
+        {"letter": "A", "pt": "Procurar, perseguir e levantar espécies de caça menor com a ajuda de cães", "transcription": "Прокурáр, персегúр и левантáр эспéсиеш ди кáса менóр кон а ажýда ди кáйнш", "ru": "Искать, преследовать и поднимать виды мелкой дичи с помощью собак", "correct": false},
+        {"letter": "B", "pt": "Procurar, perseguir e levantar espécies de caça maior com a ajuda de cães", "transcription": "Прокурáр, персегúр и левантáр эспéсиеш ди кáса майóр кон а ажýда ди кáйнш", "ru": "Искать, преследовать и поднимать виды крупной дичи с помощью собак", "correct": true},
+        {"letter": "C", "pt": "Procurar, perseguir e levantar espécies de caça maior sem a ajuda de cães", "transcription": "Прокурáр, персегúр и левантáр эспéсиеш ди кáса майóр сен а ажýда ди кáйнш", "ru": "Искать, преследовать и поднимать виды крупной дичи без собак", "correct": false}
+      ]
+    },
+    {
+      "id": 56,
+      "pt": "Para terrenos cinegéticos não ordenados, qual das afirmações está correta?",
+      "transcription": "Пáра терéнуш синежéтикуш нан орденáдуш, куáл даз афирмасóйнш эштá коррéта?",
+      "ru": "Для неустроенных охотничьих угодий, какое из утверждений верно?",
+      "options": [
+        {"letter": "A", "pt": "É permitido caçar ao javali pelo processo de aproximação", "transcription": "Э пермитúду касáр ау жавалú пéлу просéссу ди апроксимасáн", "ru": "Разрешено охотиться на кабана способом «с подхода»", "correct": false},
+        {"letter": "B", "pt": "Podem realizar-se batidas às raposas às quartas-feiras", "transcription": "Пóдэн реализáр-си батúдаш аш рапóзаш аш куáрташ-фéйраш", "ru": "Можно проводить облавы на лис по средам", "correct": false},
+        {"letter": "C", "pt": "A caça à raposa a corricão pode ser exercida às quartas-feiras e sábados", "transcription": "А кáса а рапóза а коррисáн пóди сер эзерсúда аш куáрташ-фéйраш и сáбадуш", "ru": "Охота на лису способом «коррисáн» может проводиться по средам и субботам", "correct": true}
+      ]
+    },
+    {
+      "id": 57,
+      "pt": "Em terrenos cinegéticos não ordenados, os dias de caça permitidos para caçar com arma de fogo, são:",
+      "transcription": "Эн терéнуш синежéтикуш нан орденáдуш, уж дúаш ди кáса пермитúдуш пáра касáр кон áрма ди фóгу, сáн:",
+      "ru": "На неустроенных охотничьих угодьях дни, разрешённые для охоты с огнестрельным оружием:",
+      "options": [
+        {"letter": "A", "pt": "As quintas-feiras, sábados e domingos", "transcription": "Аш кúнташ-фéйраш, сáбадуш и домúнгуш", "ru": "Четверги, субботы и воскресенья", "correct": false},
+        {"letter": "B", "pt": "As quintas-feiras, domingos e feriados nacionais obrigatórios", "transcription": "Аш кúнташ-фéйраш, домúнгуш и фериáдуш насионáйш обригатóриуш", "ru": "Четверги, воскресенья и обязательные государственные праздники", "correct": true},
+        {"letter": "C", "pt": "As quintas-feiras, domingos, feriados nacionais obrigatórios e feriados municipais", "transcription": "Аш кúнташ-фéйраш, домúнгуш, фериáдуш насионáйш обригатóриуш и фериáдуш муниципáйш", "ru": "Четверги, воскресенья, обязательные государственные и муниципальные праздники", "correct": false}
+      ]
+    },
+    {
+      "id": 58,
+      "pt": "Em terrenos cinegéticos ordenados, a caça a espécies de caça maior:",
+      "transcription": "Эн терéнуш синежéтикуш орденáдуш, а кáса а эспéсиеш ди кáса майóр:",
+      "ru": "На устроенных охотничьих угодьях охота на крупную дичь:",
+      "options": [
+        {"letter": "A", "pt": "É permitida nos dias previstos nos respetivos planos de ordenamento cinegético ou exploração", "transcription": "Э пермитúда нуш дúаш превúштуш нуш респетúвуш плáнуш ди орденамéнту синежéтику оу эксплорасáн", "ru": "Разрешена в дни, предусмотренные соответствующими планами охотничьего устройства или эксплуатации", "correct": true},
+        {"letter": "B", "pt": "Só é permitida em três dias da semana à escolha do concessionário", "transcription": "Só э пермитúда эн трэш дúаш да семáна а эшкóлья ду консессионáриу", "ru": "Разрешена только в три дня недели по выбору концессионера", "correct": false},
+        {"letter": "C", "pt": "É permitida em qualquer dia da semana apenas nas zonas de caça turísticas", "transcription": "Э пермитúда эн куалкéр дúа да семáна апéнас наш зóнаш ди кáса турúштикаш", "ru": "Разрешена в любой день недели только в туристических охотничьих зонах", "correct": false}
+      ]
+    }
+  ]
+}
