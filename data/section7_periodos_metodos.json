@@ -1,0 +1,1371 @@
+{
+  "section_id": "periodos_metodos",
+  "section_name_ru": "Периоды, способы и ограничения охоты",
+  "section_name_pt": "Épocas, processos e condicionamentos de caça por espécie",
+  "source": "ICNF - Questionário, Manual para exame de carta de caçador (https://www.icnf.pt/api/file/doc/2d8ae1589afbdf1e)",
+  "questions": [
+    {
+      "id": 416,
+      "pt": "A caça à lebre pelo processo de batida pode ser permitida apenas:",
+      "transcription": "А кáса а лéбри пéлу просéссу ди батúда пóди сер пермитúда апéнаш:",
+      "ru": "Охота на зайца облавным способом может быть разрешена только:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Nos meses de outubro a janeiro",
+          "transcription": "Нуш мéзиш ди оутýбру а жанéйру",
+          "ru": "В месяцы с октября по январь",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Nos meses de janeiro e fevereiro",
+          "transcription": "Нуш мéзиш ди жанéйру и феверéйру",
+          "ru": "В месяцы январь и февраль",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Em zonas de caça",
+          "transcription": "Эн зóнаш ди кáса",
+          "ru": "На охотничьих угодьях",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 417,
+      "pt": "A caça à lebre a corricão nos meses de janeiro e fevereiro:",
+      "transcription": "А кáса а лéбри а коррисáн нуш мéзиш ди жанéйру и феверéйру:",
+      "ru": "Охота на зайца с гончими (корисáн) в январе и феврале:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "É proibida",
+          "transcription": "Э проибúда",
+          "ru": "Запрещена",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "É permitida nas condições definidas em edital do ICNF",
+          "transcription": "Э пермитúда наш кондисóйнш дефинúдаш эн эдитáл ду ИСЭНЭФЭ",
+          "ru": "Разрешена на условиях, определённых указом ICNF",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "É permitida nas zonas de caça",
+          "transcription": "Э пермитúда наш зóнаш ди кáса",
+          "ru": "Разрешена на охотничьих угодьях",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 418,
+      "pt": "Em terrenos cinegéticos ordenados quais os processos de caça autorizados para o coelho?",
+      "transcription": "Эн терéнуш синежéтикуш орденáдуш куáйш уш просéссуш ди кáса аутóризáдуш пáра у куэлью?",
+      "ru": "На благоустроенных охотничьих угодьях какие способы охоты разрешены для кролика?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "De salto, à espera, de batida, a corricão, de cetraria e com furão",
+          "transcription": "Ди сáлту, а эшпéра, ди батúда, а коррисáн, ди сетрарúа и кон фурáн",
+          "ru": "Загоном (де сальто), засидкой, облавой, с гончими, соколиной охотой и с хорьком",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "De salto, de batida, de aproximação, de cetraria e com furão",
+          "transcription": "Ди сáлту, ди батúда, ди апроксимасáн, ди сетрарúа и кон фурáн",
+          "ru": "Загоном, облавой, скрадом, соколиной охотой и с хорьком",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "De salto, à espera, de batida, a corricão, de aproximação e com furão",
+          "transcription": "Ди сáлту, а эшпéра, ди батúда, а коррисáн, ди апроксимасáн и кон фурáн",
+          "ru": "Загоном, засидкой, облавой, с гончими, скрадом и с хорьком",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 419,
+      "pt": "O processo de caça \"de aproximação\" é permitido na caça:",
+      "transcription": "У просéссу ди кáса ди апроксимасáн э пермитúду на кáса:",
+      "ru": "Способ охоты «скрадом» (де апроксимасáн) разрешён при охоте на:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Só às espécies de caça menor sedentárias",
+          "transcription": "Só аш эшпéсиеш ди кáса менóр седентáриаш",
+          "ru": "Только оседлую мелкую дичь",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Só às espécies de caça menor aquáticas",
+          "transcription": "Só аш эшпéсиеш ди кáса менóр акуáтикаш",
+          "ru": "Только водоплавающую мелкую дичь",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Só às espécies de caça maior",
+          "transcription": "Só аш эшпéсиеш ди кáса майóр",
+          "ru": "Только крупную дичь",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 420,
+      "pt": "A caça às narcejas pelo processo de cetraria:",
+      "transcription": "А кáса аш нарсéжаш пéлу просéссу ди сетрарúа:",
+      "ru": "Охота на бекасов способом соколиной охоты:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "É permitida nos meses de outubro a fevereiro",
+          "transcription": "Э пермитúда нуш мéзиш ди оутýбру а феверéйру",
+          "ru": "Разрешена в месяцы с октября по февраль",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "É permitida nos meses de janeiro e fevereiro, mas só nas zonas de caça",
+          "transcription": "Э пермитúда нуш мéзиш ди жанéйру и феверéйру, маш só наш зóнаш ди кáса",
+          "ru": "Разрешена в январе и феврале, но только на охотничьих угодьях",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "É proibida",
+          "transcription": "Э проибúда",
+          "ru": "Запрещена",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 421,
+      "pt": "Qual dos processos de caça é proibido na caça às espécies de caça menor?",
+      "transcription": "Куáл душ просéссуш ди кáса э проибúду на кáса аш эшпéсиеш ди кáса менóр?",
+      "ru": "Какой из способов охоты запрещён при охоте на мелкую дичь?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "De salto",
+          "transcription": "Ди сáлту",
+          "ru": "Загоном (де сальто)",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "De aproximação",
+          "transcription": "Ди апроксимасáн",
+          "ru": "Скрадом",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "De batida",
+          "transcription": "Ди батúда",
+          "ru": "Облавой",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 422,
+      "pt": "Qual dos seguintes processos de caça é proibido na caça ao javali?",
+      "transcription": "Куáл душ сегúнтеш просéссуш ди кáса э проибúду на кáса ау жавалú?",
+      "ru": "Какой из следующих способов охоты запрещён при охоте на кабана?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "À espera",
+          "transcription": "А эшпéра",
+          "ru": "Засидкой",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "De aproximação",
+          "transcription": "Ди апроксимасáн",
+          "ru": "Скрадом",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "A corricão",
+          "transcription": "А коррисáн",
+          "ru": "С гончими (корисáн)",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 423,
+      "pt": "Qual o limite o máximo do período venatório em que pode ser autorizada a caça à lebre?",
+      "transcription": "Куáл у лимúти у мáксиму ду перúоду венатóриу эн ки пóди сер ауторизáда а кáса а лéбри?",
+      "ru": "Каков максимальный предел охотничьего сезона, в течение которого может быть разрешена охота на зайца?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Setembro a fevereiro",
+          "transcription": "Сетéмбру а феверéйру",
+          "ru": "Сентябрь–февраль",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Setembro a dezembro",
+          "transcription": "Сетéмбру а дезéмбру",
+          "ru": "Сентябрь–декабрь",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Outubro a dezembro",
+          "transcription": "Оутýбру а дезéмбру",
+          "ru": "Октябрь–декабрь",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 424,
+      "pt": "Em terrenos cinegéticos ordenados, no mês de agosto, pode ser autorizada a caça à rola por qual dos seguintes processos?",
+      "transcription": "Эн терéнуш синежéтикуш орденáдуш, ну мэш ди агóшту, пóди сер ауторизáда а кáса а рóла пур куáл душ сегúнтеш просéссуш?",
+      "ru": "На благоустроенных охотничьих угодьях в августе охота на горлицу может быть разрешена каким из следующих способов?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "De salto",
+          "transcription": "Ди сáлту",
+          "ru": "Загоном",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "À espera",
+          "transcription": "А эшпéра",
+          "ru": "Засидкой",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Cetraria",
+          "transcription": "Сетрарúа",
+          "ru": "Соколиной охотой",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 425,
+      "pt": "Qual o limite máximo do período venatório em que pode ser autorizada a caça ao estorninho-malhado?",
+      "transcription": "Куáл у лимúти мáксиму ду перúоду венатóриу эн ки пóди сер ауторизáда а кáса ау эшторнúнью-мальяду?",
+      "ru": "Каков максимальный предел охотничьего сезона для охоты на обыкновенного скворца?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "De outubro a fevereiro",
+          "transcription": "Ди оутýбру а феверéйру",
+          "ru": "С октября по февраль",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "De dezembro a fevereiro",
+          "transcription": "Ди дезéмбру а феверéйру",
+          "ru": "С декабря по февраль",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "De outubro a março",
+          "transcription": "Ди оутýбру а мáрсу",
+          "ru": "С октября по март",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 426,
+      "pt": "Em janeiro e fevereiro pode ser autorizada a caça à lebre em zonas de caça por qual dos seguintes processos:",
+      "transcription": "Эн жанéйру и феверéйру пóди сер ауторизáда а кáса а лéбри эн зóнаш ди кáса пур куáл душ сегúнтеш просéссуш:",
+      "ru": "В январе и феврале охота на зайца на охотничьих угодьях может быть разрешена каким из следующих способов:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "De batida",
+          "transcription": "Ди батúда",
+          "ru": "Облавой",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "A corricão",
+          "transcription": "А коррисáн",
+          "ru": "С гончими (корисáн)",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "À espera",
+          "transcription": "А эшпéра",
+          "ru": "Засидкой",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 427,
+      "pt": "As montarias aos javalis podem ser realizadas:",
+      "transcription": "Аш монтарúаш аош жавалúш пóдэн сер реализáдаш:",
+      "ru": "Облавные охоты на кабанов (монтариаш) могут проводиться:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Só em terrenos cinegéticos ordenados",
+          "transcription": "Só эн терéнуш синежéтикуш орденáдуш",
+          "ru": "Только на благоустроенных охотничьих угодьях",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Em terrenos cinegéticos não ordenados todo o ano",
+          "transcription": "Эн терéнуш синежéтикуш нан орденáдуш тóду у áну",
+          "ru": "На неблагоустроенных угодьях круглый год",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Em terrenos cinegéticos não ordenados, de outubro a fevereiro nos locais e condições definidos em edital do Instituto de Conservação da Natureza e das Florestas",
+          "transcription": "Эн терéнуш синежéтикуш нан орденáдуш, ди оутýбру а феверéйру нуш локáйш и кондисóйнш дефинúдуш эн эдитáл ду Ищитýту ди Консервасáн да Натурéза и даш Флорéшташ",
+          "ru": "На неблагоустроенных угодьях, с октября по февраль, в местах и на условиях, определённых указом ICNF",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 428,
+      "pt": "Qual o limite máximo do período venatório em que pode ser autorizada a caça ao pombo-bravo?",
+      "transcription": "Куáл у лимúти мáксиму ду перúоду венатóриу эн ки пóди сер ауторизáда а кáса ау пóмбу-брáву?",
+      "ru": "Каков максимальный предел охотничьего сезона для охоты на клинтуха?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Agosto a janeiro",
+          "transcription": "Агóшту а жанéйру",
+          "ru": "Август–январь",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Setembro a fevereiro",
+          "transcription": "Сетéмбру а феверéйру",
+          "ru": "Сентябрь–февраль",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Agosto a fevereiro",
+          "transcription": "Агóшту а феверéйру",
+          "ru": "Август–февраль",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 429,
+      "pt": "Em zonas de caça pode ser autorizada a caça de batida:",
+      "transcription": "Эн зóнаш ди кáса пóди сер ауторизáда а кáса ди батúда:",
+      "ru": "На охотничьих угодьях облавная охота может быть разрешена:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "À perdiz",
+          "transcription": "А пердúз",
+          "ru": "На куропатку",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "À codorniz",
+          "transcription": "А кодорнúз",
+          "ru": "На перепела",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "À tarambola-dourada",
+          "transcription": "А тарамбóла-доурáда",
+          "ru": "На золотистую ржанку",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 430,
+      "pt": "Qual o limite máximo do período venatório em que pode ser autorizada a caça à codorniz?",
+      "transcription": "Куáл у лимúти мáксиму ду перúоду венатóриу эн ки пóди сер ауторизáда а кáса а кодорнúз?",
+      "ru": "Каков максимальный предел охотничьего сезона для охоты на перепела?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "De agosto a outubro",
+          "transcription": "Ди агóшту а оутýбру",
+          "ru": "С августа по октябрь",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "De agosto a dezembro",
+          "transcription": "Ди агóшту а дезéмбру",
+          "ru": "С августа по декабрь",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "De setembro a dezembro",
+          "transcription": "Ди сетéмбру а дезéмбру",
+          "ru": "С сентября по декабрь",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 431,
+      "pt": "Dos processos abaixo indicados qual não pode ser usado na caça à perdiz?",
+      "transcription": "Душ просéссуш абáйшу индикáдуш куáл нан пóди сер узáду на кáса а пердúз?",
+      "ru": "Из указанных ниже способов, какой нельзя использовать при охоте на куропатку?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "De salto",
+          "transcription": "Ди сáлту",
+          "ru": "Загоном",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "À espera",
+          "transcription": "А эшпéра",
+          "ru": "Засидкой",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Cetraria",
+          "transcription": "Сетрарúа",
+          "ru": "Соколиной охотой",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 432,
+      "pt": "Quais os processos de caça autorizados na caça às narcejas?",
+      "transcription": "Куáйш уш просéссуш ди кáса аутóризáдуш на кáса аш нарсéжаш?",
+      "ru": "Какие способы охоты разрешены при охоте на бекасов?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "De salto e de cetraria",
+          "transcription": "Ди сáлту и ди сетрарúа",
+          "ru": "Загоном и соколиной охотой",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "De salto e à espera",
+          "transcription": "Ди сáлту и а эшпéра",
+          "ru": "Загоном и засидкой",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "De salto e de batida",
+          "transcription": "Ди сáлту и ди батúда",
+          "ru": "Загоном и облавой",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 433,
+      "pt": "A caça às rolas pode ser exercida pelo processo:",
+      "transcription": "А кáса аш рóлаш пóди сер эзерсúда пéлу просéссу:",
+      "ru": "Охота на горлиц может осуществляться способом:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "De salto",
+          "transcription": "Ди сáлту",
+          "ru": "Загоном",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "De espera",
+          "transcription": "Ди эшпéра",
+          "ru": "Засидки",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "De cetraria",
+          "transcription": "Ди сетрарúа",
+          "ru": "Соколиной охоты",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 434,
+      "pt": "Qual o limite máximo do período venatório em que pode ser autorizada a caça ao coelho?",
+      "transcription": "Куáл у лимúти мáксиму ду перúоду венатóриу эн ки пóди сер ауторизáда а кáса ау куэлью?",
+      "ru": "Каков максимальный предел охотничьего сезона для охоты на кролика?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Outubro a dezembro",
+          "transcription": "Оутýбру а дезéмбру",
+          "ru": "Октябрь–декабрь",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Setembro a dezembro",
+          "transcription": "Сетéмбру а дезéмбру",
+          "ru": "Сентябрь–декабрь",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Outubro a fevereiro",
+          "transcription": "Оутýбру а феверéйру",
+          "ru": "Октябрь–февраль",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 435,
+      "pt": "Nos meses de janeiro e fevereiro a caça à lebre pode ser exercida a corricão:",
+      "transcription": "Нуш мéзиш ди жанéйру и феверéйру а кáса а лéбри пóди сер эзерсúда а коррисáн:",
+      "ru": "В январе и феврале охота на зайца с гончими может осуществляться:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Só em zonas de caça",
+          "transcription": "Só эн зóнаш ди кáса",
+          "ru": "Только на охотничьих угодьях",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Nos locais indicados em edital do Instituto de Conservação da Natureza e das Florestas",
+          "transcription": "Нуш локáйш индикáдуш эн эдитáл ду Ищитýту ди Консервасáн да Натурéза и даш Флорéшташ",
+          "ru": "В местах, указанных в указе ICNF",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Em todos os locais",
+          "transcription": "Эн тóдуш уш локáйш",
+          "ru": "Во всех местах",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 436,
+      "pt": "Nos terrenos cinegéticos não ordenados, qual é a espécie que em janeiro e fevereiro se pode caçar aos sábados pelo processo de batida, desde que nos locais e condições definidas em edital do Instituto de Conservação da Natureza e das Florestas:",
+      "transcription": "Нуш терéнуш синежéтикуш нан орденáдуш, куáл э а эшпéсие ки эн жанéйру и феверéйру си пóди касáр аош сáбадуш пéлу просéссу ди батúда, дéзди ки нуш локáйш и кондисóйнш дефинúдаш эн эдитáл ду Ищитýту ди Консервасáн да Натурéза и даш Флорéшташ:",
+      "ru": "На неблагоустроенных охотничьих угодьях, какой вид можно охотиться по субботам в январе и феврале облавным способом, при условии соблюдения мест и условий, определённых указом ICNF:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Lebre",
+          "transcription": "Лéбри",
+          "ru": "Заяц",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Coelho",
+          "transcription": "Куэлью",
+          "ru": "Кролик",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Saca-rabos",
+          "transcription": "Сáка-рáбуш",
+          "ru": "Сака-рабос",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 437,
+      "pt": "Um grupo de caçadores que, em dezembro, caça à raposa de batida em terrenos não ordenados:",
+      "transcription": "Ун грýпу ди касадóриш ки, эн дезéмбру, кáса а рапóза ди батúда эн терéнуш нан орденáдуш:",
+      "ru": "Группа охотников, которая в декабре охотится на лис облавой на неблагоустроенных угодьях:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Está a proceder corretamente",
+          "transcription": "Эштá а проседéр корретаменти",
+          "ru": "Действует правильно",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Não está a proceder corretamente porque só se pode caçar de batida à raposa, em terrenos não ordenados, nos meses de janeiro e fevereiro",
+          "transcription": "Нан эштá а проседéр корретаменти пуркé só си пóди касáр ди батúда а рапóза, эн терéнуш нан орденáдуш, нуш мéзиш ди жанéйру и феверéйру",
+          "ru": "Действует неправильно, так как облава на лис на неблагоустроенных угодьях разрешена только в январе и феврале",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Não está a proceder corretamente porque não se pode caçar de batida em terrenos não ordenados",
+          "transcription": "Нан эштá а проседéр корретаменти пуркé нан си пóди касáр ди батúда эн терéнуш нан орденáдуш",
+          "ru": "Действует неправильно, так как облава на неблагоустроенных угодьях вообще запрещена",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 438,
+      "pt": "Qual o limite máximo do período venatório em que pode ser autorizada a caça aos tordos?",
+      "transcription": "Куáл у лимúти мáксиму ду перúоду венатóриу эн ки пóди сер ауторизáда а кáса аош тóрдуш?",
+      "ru": "Каков максимальный предел охотничьего сезона для охоты на дроздов?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Outubro a dezembro",
+          "transcription": "Оутýбру а дезéмбру",
+          "ru": "Октябрь–декабрь",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Setembro a dezembro",
+          "transcription": "Сетéмбру а дезéмбру",
+          "ru": "Сентябрь–декабрь",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Outubro a fevereiro",
+          "transcription": "Оутýбру а феверéйру",
+          "ru": "Октябрь–февраль",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 439,
+      "pt": "Em janeiro, em terrenos cinegéticos não ordenados, pode ser autorizada a caça às narcejas de salto?",
+      "transcription": "Эн жанéйру, эн терéнуш синежéтикуш нан орденáдуш, пóди сер ауторизáда а кáса аш нарсéжаш ди сáлту?",
+      "ru": "В январе, на неблагоустроенных охотничьих угодьях, может ли быть разрешена охота на бекасов загоном?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Não, porque em janeiro não se pode caçar narcejas",
+          "transcription": "Нан, пуркé эн жанéйру нан си пóди касáр нарсéжаш",
+          "ru": "Нет, так как в январе нельзя охотиться на бекасов",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Não, porque o processo de salto é proibido",
+          "transcription": "Нан, пуркé у просéссу ди сáлту э проибúду",
+          "ru": "Нет, так как способ «загоном» запрещён",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Sim, nos locais e condições definidas por edital do Instituto de Conservação da Natureza e das Florestas",
+          "transcription": "Син, нуш локáйш и кондисóйнш дефинúдаш пур эдитáл ду Ищитýту ди Консервасáн да Натурéза и даш Флорéшташ",
+          "ru": "Да, в местах и на условиях, определённых указом ICNF",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 440,
+      "pt": "Qual o limite máximo do período venatório em que pode ser autorizada a caça de batida ao javali?",
+      "transcription": "Куáл у лимúти мáксиму ду перúоду венатóриу эн ки пóди сер ауторизáда а кáса ди батúда ау жавалú?",
+      "ru": "Каков максимальный предел охотничьего сезона для облавной охоты на кабана?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Outubro a dezembro",
+          "transcription": "Оутýбру а дезéмбру",
+          "ru": "Октябрь–декабрь",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Outubro a janeiro",
+          "transcription": "Оутýбру а жанéйру",
+          "ru": "Октябрь–январь",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Outubro a fevereiro",
+          "transcription": "Оутýбру а феверéйру",
+          "ru": "Октябрь–февраль",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 441,
+      "pt": "Um caçador, no mês de agosto, abateu 10 codornizes pelo processo de salto. Que infração cometeu?",
+      "transcription": "Ун касадóр, ну мэш ди агóшту, абатéу дэш кодорнúзиш пéлу просéссу ди сáлту. Ки инфрасáн кометéу?",
+      "ru": "Охотник в августе добыл 10 перепелов способом загона. Какое нарушение он совершил?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Nenhuma",
+          "transcription": "Неньюма",
+          "ru": "Никакого",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Utilizou um processo não autorizado",
+          "transcription": "Утилизóу ун просéссу нан аутóризáду",
+          "ru": "Использовал неразрешённый способ охоты",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Caçou fora do período venatório da espécie",
+          "transcription": "Касóу фóра ду перúоду венатóриу да эшпéсие",
+          "ru": "Охотился вне охотничьего сезона на этот вид",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 442,
+      "pt": "Um caçador, no mês de agosto, numa zona de caça, abateu 1 pato pelo processo de salto. Que infração cometeu?",
+      "transcription": "Ун касадóр, ну мэш ди агóшту, нýма зóна ди кáса, абатéу ун пáту пéлу просéссу ди сáлту. Ки инфрасáн кометéу?",
+      "ru": "Охотник в августе на охотничьем угодье добыл 1 утку способом загона. Какое нарушение он совершил?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Nenhuma",
+          "transcription": "Неньюма",
+          "ru": "Никакого",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Utilizou um processo não autorizado",
+          "transcription": "Утилизóу ун просéссу нан аутóризáду",
+          "ru": "Использовал неразрешённый способ охоты",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Caçou fora do período venatório da espécie",
+          "transcription": "Касóу фóра ду перúоду венатóриу да эшпéсие",
+          "ru": "Охотился вне охотничьего сезона на этот вид",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 443,
+      "pt": "No mês de agosto, em terrenos não ordenados, pode ser autorizada a caça à espera aos patos?",
+      "transcription": "Ну мэш ди агóшту, эн терéнуш нан орденáдуш, пóди сер ауторизáда а кáса а эшпéра аош пáтуш?",
+      "ru": "В августе, на неблагоустроенных угодьях, может ли быть разрешена охота на уток засидкой?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Sim, nos locais e condições definidos em edital do Instituto de Conservação da Natureza e das Florestas",
+          "transcription": "Син, нуш локáйш и кондисóйнш дефинúдуш эн эдитáл ду Ищитýту ди Консервасáн да Натурéза и даш Флорéшташ",
+          "ru": "Да, в местах и на условиях, определённых указом ICNF",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Não, porque em Agosto não pode ser autorizada a caça aos patos",
+          "transcription": "Нан, пуркé эн Агóшту нан пóди сер ауторизáда а кáса аош пáтуш",
+          "ru": "Нет, так как в августе охота на уток не может быть разрешена",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Não, porque não se podem caçar patos de espera",
+          "transcription": "Нан, пуркé нан си пóдэн касáр пáтуш ди эшпéра",
+          "ru": "Нет, так как на уток нельзя охотиться засидкой",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 444,
+      "pt": "Um caçador, no mês de junho, numa zona de caça, caçou 1 javali pelo processo de aproximação. Que infração cometeu?",
+      "transcription": "Ун касадóр, ну мэш ди жýньу, нýма зóна ди кáса, касóу ун жавалú пéлу просéссу ди апроксимасáн. Ки инфрасáн кометéу?",
+      "ru": "Охотник в июне на охотничьем угодье добыл 1 кабана скрадом. Какое нарушение он совершил?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Utilizou um processo não autorizado",
+          "transcription": "Утилизóу ун просéссу нан аутóризáду",
+          "ru": "Использовал неразрешённый способ охоты",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Caçou fora do período venatório da espécie",
+          "transcription": "Касóу фóра ду перúоду венатóриу да эшпéсие",
+          "ru": "Охотился вне охотничьего сезона на этот вид",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Nenhuma",
+          "transcription": "Неньюма",
+          "ru": "Никакого",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 445,
+      "pt": "Pode-se caçar aos coelhos pelo processo de batida?",
+      "transcription": "Пóди-си касáр аош куэльюш пéлу просéссу ди батúда?",
+      "ru": "Можно ли охотиться на кроликов облавным способом?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Sim, mas só nas condições e nos locais definidos por edital do Instituto de Conservação da Natureza e das Florestas",
+          "transcription": "Син, маш só наш кондисóйнш и нуш локáйш дефинúдуш пур эдитáл ду Ищитýту ди Консервасáн да Натурéза и даш Флорéшташ",
+          "ru": "Да, но только на условиях и в местах, определённых указом ICNF",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Sim, mas só nos meses de agosto e novembro",
+          "transcription": "Син, маш só нуш мéзиш ди агóшту и новéмбру",
+          "ru": "Да, но только в августе и ноябре",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Sim, mas só em zonas de caça, desde que previsto no Plano de Ordenamento e Exploração Cinegética (POEC) ou Plano de Gestão (PG) devidamente aprovado",
+          "transcription": "Син, маш só эн зóнаш ди кáса, дéзди ки превúшту ну Плáну ди Орденамéнту и Эшплорасáн Синежéтика (ПОЕК) оу Плáну ди Жештáн (ПЖ) девидаменти апровáду",
+          "ru": "Да, но только на охотничьих угодьях, если это предусмотрено утверждённым Планом управления охотничьим хозяйством (POEC) или Планом управления (PG)",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 446,
+      "pt": "Indique qual das espécies referidas é proibido caçar a menos de 100 metros de pontos de água?",
+      "transcription": "Индúки куáл даш эшпéсиеш реферúдаш э проибúду касáр а мéнуш ди сэн мéтруш ди пóнтуш ди áгуа?",
+      "ru": "Укажите, на какой из указанных видов запрещена охота ближе 100 метров от водоёмов?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Rola",
+          "transcription": "Рóла",
+          "ru": "Горлица",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Narcejas",
+          "transcription": "Нарсéжаш",
+          "ru": "Бекасы",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Codorniz",
+          "transcription": "Кодорнúз",
+          "ru": "Перепел",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 447,
+      "pt": "É permitido caçar javalis pelo processo de aproximação?",
+      "transcription": "Э пермитúду касáр жавалúш пéлу просéссу ди апроксимасáн?",
+      "ru": "Разрешено ли охотиться на кабанов скрадом?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Sim, mas só em terrenos cinegéticos ordenados",
+          "transcription": "Син, маш só эн терéнуш синежéтикуш орденáдуш",
+          "ru": "Да, но только на благоустроенных охотничьих угодьях",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Sim, mas só em terrenos cinegéticos não ordenados",
+          "transcription": "Син, маш só эн терéнуш синежéтикуш нан орденáдуш",
+          "ru": "Да, но только на неблагоустроенных угодьях",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Não, porque é um processo proibido para o javali",
+          "transcription": "Нан, пуркé э ун просéссу проибúду пáра у жавалú",
+          "ru": "Нет, так как этот способ запрещён для охоты на кабана",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 448,
+      "pt": "A raposa pode ser caçada de batida em terrenos cinegéticos não ordenados. Indique em qual dos seguintes períodos o processo de caça referido pode ser autorizado para esta espécie:",
+      "transcription": "А рапóза пóди сер касáда ди батúда эн терéнуш синежéтикуш нан орденáдуш. Индúки эн куáл душ сегúнтеш перúодуш у просéссу ди кáса реферúду пóди сер ауторизáду пáра éшта эшпéсие:",
+      "ru": "Лису можно отстреливать облавой на неблагоустроенных угодьях. Укажите, в какой из следующих периодов этот способ охоты может быть разрешён для данного вида:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Outubro a fevereiro",
+          "transcription": "Оутýбру а феверéйру",
+          "ru": "Октябрь–февраль",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Janeiro e fevereiro, nas condições e nos locais definidos em edital do Instituto de Conservação da Natureza e das Florestas",
+          "transcription": "Жанéйру и феверéйру, наш кондисóйнш и нуш локáйш дефинúдуш эн эдитáл ду Ищитýту ди Консервасáн да Натурéза и даш Флорéшташ",
+          "ru": "Январь и февраль, на условиях и в местах, определённых указом ICNF",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Todo o ano",
+          "transcription": "Тóду у áну",
+          "ru": "Круглый год",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 449,
+      "pt": "Qual o limite máximo do período venatório em que pode ser autorizada a caça de salto ao javali em terrenos ordenados:",
+      "transcription": "Куáл у лимúти мáксиму ду перúоду венатóриу эн ки пóди сер ауторизáда а кáса ди сáлту ау жавалú эн терéнуш орденáдуш:",
+      "ru": "Каков максимальный предел охотничьего сезона для охоты на кабана загоном на благоустроенных угодьях:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Outubro a dezembro",
+          "transcription": "Оутýбру а дезéмбру",
+          "ru": "Октябрь–декабрь",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Outubro a janeiro",
+          "transcription": "Оутýбру а жанéйру",
+          "ru": "Октябрь–январь",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Outubro a fevereiro",
+          "transcription": "Оутýбру а феверéйру",
+          "ru": "Октябрь–февраль",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 450,
+      "pt": "Qual o intervalo máximo do período venatório ao pombo-da-rocha?",
+      "transcription": "Куáл у интервáлу мáксиму ду перúоду венатóриу ау пóмбу-да-рóша?",
+      "ru": "Каков максимальный интервал охотничьего сезона для сизого голубя?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Outubro a dezembro",
+          "transcription": "Оутýбру а дезéмбру",
+          "ru": "Октябрь–декабрь",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Agosto a fevereiro",
+          "transcription": "Агóшту а феверéйру",
+          "ru": "Август–февраль",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Agosto a dezembro",
+          "transcription": "Агóшту а дезéмбру",
+          "ru": "Август–декабрь",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 451,
+      "pt": "Qual o intervalo máximo do período venatório ao pato-real?",
+      "transcription": "Куáл у интервáлу мáксиму ду перúоду венатóриу ау пáту-реáл?",
+      "ru": "Каков максимальный интервал охотничьего сезона для кряквы?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Outubro a fevereiro",
+          "transcription": "Оутýбру а феверéйру",
+          "ru": "Октябрь–февраль",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Setembro a fevereiro",
+          "transcription": "Сетéмбру а феверéйру",
+          "ru": "Сентябрь–февраль",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Agosto a janeiro",
+          "transcription": "Агóшту а жанéйру",
+          "ru": "Август–январь",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 452,
+      "pt": "O pombo-da-rocha pode ser caçado:",
+      "transcription": "У пóмбу-да-рóша пóди сер касáду:",
+      "ru": "На сизого голубя можно охотиться:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Em todo o País",
+          "transcription": "Эн тóду у паúш",
+          "ru": "По всей стране",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Só nos municípios definidos em portaria",
+          "transcription": "Só нуш муниципúуш дефинúдуш эн портáриа",
+          "ru": "Только в муниципалитетах, определённых постановлением",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "Só em zonas de caça",
+          "transcription": "Só эн зóнаш ди кáса",
+          "ru": "Только на охотничьих угодьях",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 453,
+      "pt": "Na caça à codorniz os processos de caça autorizados são:",
+      "transcription": "На кáса а кодорнúз уш просéссуш ди кáса аутóризáдуш сáн:",
+      "ru": "При охоте на перепела разрешены следующие способы:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "De salto e de cetraria",
+          "transcription": "Ди сáлту и ди сетрарúа",
+          "ru": "Загон и соколиная охота",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "De salto e à espera",
+          "transcription": "Ди сáлту и а эшпéра",
+          "ru": "Загон и засидка",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "De salto e de aproximação",
+          "transcription": "Ди сáлту и ди апроксимасáн",
+          "ru": "Загон и скрад",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 454,
+      "pt": "Nos meses de janeiro e fevereiro a caça à lebre pode ser exercida a corricão:",
+      "transcription": "Нуш мéзиш ди жанéйру и феверéйру а кáса а лéбри пóди сер эзерсúда а коррисáн:",
+      "ru": "В январе и феврале охота на зайца с гончими может осуществляться:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Só em zonas de caça",
+          "transcription": "Só эн зóнаш ди кáса",
+          "ru": "Только на охотничьих угодьях",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "Nos locais indicados em edital do Instituto de Conservação da Natureza e das Florestas",
+          "transcription": "Нуш локáйш индикáдуш эн эдитáл ду Ищитýту ди Консервасáн да Натурéза и даш Флорéшташ",
+          "ru": "В местах, указанных в указе ICNF",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Em todos os locais",
+          "transcription": "Эн тóдуш уш локáйш",
+          "ru": "Во всех местах",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 455,
+      "pt": "Em terrenos não ordenados, quais os processos de caça autorizados na caça à perdiz-vermelha?",
+      "transcription": "Эн терéнуш нан орденáдуш, куáйш уш просéссуш ди кáса аутóризáдуш на кáса а пердúз-вермéлья?",
+      "ru": "На неблагоустроенных угодьях какие способы охоты разрешены при охоте на красную куропатку?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "De salto e de batida",
+          "transcription": "Ди сáлту и ди батúда",
+          "ru": "Загон и облава",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "De salto e de cetraria",
+          "transcription": "Ди сáлту и ди сетрарúа",
+          "ru": "Загон и соколиная охота",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "De salto e à espera",
+          "transcription": "Ди сáлту и а эшпéра",
+          "ru": "Загон и засидка",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 456,
+      "pt": "Qual dos processos de caça à perdiz-vermelha é autorizado só em terrenos ordenados?",
+      "transcription": "Куáл душ просéссуш ди кáса а пердúз-вермéлья э аутóризáду só эн терéнуш орденáдуш?",
+      "ru": "Какой из способов охоты на красную куропатку разрешён только на благоустроенных угодьях?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "De cetraria",
+          "transcription": "Ди сетрарúа",
+          "ru": "Соколиная охота",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "De batida",
+          "transcription": "Ди батúда",
+          "ru": "Облава",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "À espera",
+          "transcription": "А эшпéра",
+          "ru": "Засидка",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 457,
+      "pt": "Qual a afirmação correta relativamente à codorniz:",
+      "transcription": "Куáл а афирмасáн коррéта релативáменти а кодорнúз:",
+      "ru": "Какое утверждение верно относительно перепела:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "O limite máximo do período venatório é de agosto a novembro",
+          "transcription": "У лимúти мáксиму ду перúоду венатóриу э ди агóшту а новéмбру",
+          "ru": "Максимальный предел охотничьего сезона — с августа по ноябрь",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Em terrenos ordenados, em setembro, pode caçar-se apenas de salto",
+          "transcription": "Эн терéнуш орденáдуш, эн сетéмбру, пóди касáр-си апéнаш ди сáлту",
+          "ru": "На благоустроенных угодьях в сентябре можно охотиться только загоном",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "O limite máximo do período venatório é de setembro a dezembro",
+          "transcription": "У лимúти мáксиму ду перúоду венатóриу э ди сетéмбру а дезéмбру",
+          "ru": "Максимальный предел охотничьего сезона — с сентября по декабрь",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 458,
+      "pt": "Em zonas de caça, a caça à galinhola pelo processo de espera:",
+      "transcription": "Эн зóнаш ди кáса, а кáса а галиньóла пéлу просéссу ди эшпéра:",
+      "ru": "На охотничьих угодьях охота на вальдшнепа засидкой:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "É permitida, desde que conste do plano de ordenamento e exploração cinegética",
+          "transcription": "Э пермитúда, дéзди ки кóнсти ду плáну ди орденамéнту и эшплорасáн синежéтика",
+          "ru": "Разрешена, если предусмотрена планом управления охотничьим хозяйством",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "É permitida só durante os meses de janeiro e fevereiro",
+          "transcription": "Э пермитúда só дурáнти уш мéзиш ди жанéйру и феверéйру",
+          "ru": "Разрешена только в январе и феврале",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Não é permitida",
+          "transcription": "Нан э пермитúда",
+          "ru": "Не разрешена",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 459,
+      "pt": "Em terrenos cinegéticos ordenados a caça a espécies de caça maior é permitida:",
+      "transcription": "Эн терéнуш синежéтикуш орденáдуш а кáса а эшпéсиеш ди кáса майóр э пермитúда:",
+      "ru": "На благоустроенных охотничьих угодьях охота на крупную дичь разрешена:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "Só de agosto a dezembro",
+          "transcription": "Só ди агóшту а дезéмбру",
+          "ru": "Только с августа по декабрь",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "Só de agosto a fevereiro",
+          "transcription": "Só ди агóшту а феверéйру",
+          "ru": "Только с августа по февраль",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "Todo o ano",
+          "transcription": "Тóду у áну",
+          "ru": "Круглый год",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "id": 460,
+      "pt": "Em terrenos cinegéticos não ordenados, qual o limite máximo do período venatório em que pode ser autorizada a caça à raposa, pelo processo de salto?",
+      "transcription": "Эн терéнуш синежéтикуш нан орденáдуш, куáл у лимúти мáксиму ду перúоду венатóриу эн ки пóди сер ауторизáда а кáса а рапóза, пéлу просéссу ди сáлту?",
+      "ru": "На неблагоустроенных угодьях каков максимальный предел охотничьего сезона для охоты на лис загоном?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "De agosto a outubro",
+          "transcription": "Ди агóшту а оутýбру",
+          "ru": "С августа по октябрь",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "De outubro a dezembro",
+          "transcription": "Ди оутýбру а дезéмбру",
+          "ru": "С октября по декабрь",
+          "correct": true
+        },
+        {
+          "letter": "C",
+          "pt": "De outubro a janeiro",
+          "transcription": "Ди оутýбру а жанéйру",
+          "ru": "С октября по январь",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 461,
+      "pt": "Em terrenos cinegéticos ordenados a caça à galinhola pode ser permitida:",
+      "transcription": "Эн терéнуш синежéтикуш орденáдуш а кáса а галиньóла пóди сер пермитúда:",
+      "ru": "На благоустроенных угодьях охота на вальдшнепа может быть разрешена:",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "De salto, de outubro a fevereiro",
+          "transcription": "Ди сáлту, ди оутýбру а феверéйру",
+          "ru": "Загоном, с октября по февраль",
+          "correct": true
+        },
+        {
+          "letter": "B",
+          "pt": "À espera, de novembro a dezembro",
+          "transcription": "А эшпéра, ди новéмбру а дезéмбру",
+          "ru": "Засидкой, с ноября по декабрь",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "De salto e à espera, de outubro a fevereiro",
+          "transcription": "Ди сáлту и а эшпéра, ди оутýбру а феверéйру",
+          "ru": "Загоном и засидкой, с октября по февраль",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "id": 462,
+      "pt": "Qual o limite máximo do período venatório em que pode ser autorizada a caça à perdiz-vermelha?",
+      "transcription": "Куáл у лимúти мáксиму ду перúоду венатóриу эн ки пóди сер ауторизáда а кáса а пердúз-вермéлья?",
+      "ru": "Каков максимальный предел охотничьего сезона для охоты на красную куропатку?",
+      "options": [
+        {
+          "letter": "A",
+          "pt": "De agosto a fevereiro",
+          "transcription": "Ди агóшту а феверéйру",
+          "ru": "С августа по февраль",
+          "correct": false
+        },
+        {
+          "letter": "B",
+          "pt": "De setembro a dezembro",
+          "transcription": "Ди сетéмбру а дезéмбру",
+          "ru": "С сентября по декабрь",
+          "correct": false
+        },
+        {
+          "letter": "C",
+          "pt": "De outubro a janeiro",
+          "transcription": "Ди оутýбру а жанéйру",
+          "ru": "С октября по январь",
+          "correct": true
+        }
+      ]
+    }
+  ]
+}
